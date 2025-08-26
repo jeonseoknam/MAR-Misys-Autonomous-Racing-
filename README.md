@@ -1,5 +1,6 @@
 # MAR-Misys-Autonomous-Racing-
 Soongsil University Misys intern racing stack(2025)
+time trial available(2025.08.26)
 ----------------------------------------------------------------------
 # ROS 2 ForzaETH Race Stack at Center for Project Based Learning
 
