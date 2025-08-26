@@ -1,0 +1,22 @@
+[2.604s] Invoking command in '/home/misys/forza_ws/race_stack/planner/local_planners/spline_planner': AMENT_PREFIX_PATH=/home/misys/forza_ws/race_stack/install/frenet_conversion:${AMENT_PREFIX_PATH} PYTHONPATH=/home/misys/forza_ws/race_stack/build/spline_planner/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/misys/forza_ws/race_stack/install/spline_planner/lib/python3.10/site-packages:/home/misys/forza_ws/race_stack/install/frenet_conversion/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/spline_planner build --build-base /home/misys/forza_ws/race_stack/build/spline_planner/build install --record /home/misys/forza_ws/race_stack/build/spline_planner/install.log --single-version-externally-managed install_data
+[3.176s] running egg_info
+[3.177s] writing ../../../build/spline_planner/spline_planner.egg-info/PKG-INFO
+[3.178s] writing dependency_links to ../../../build/spline_planner/spline_planner.egg-info/dependency_links.txt
+[3.178s] writing entry points to ../../../build/spline_planner/spline_planner.egg-info/entry_points.txt
+[3.178s] writing requirements to ../../../build/spline_planner/spline_planner.egg-info/requires.txt
+[3.178s] writing top-level names to ../../../build/spline_planner/spline_planner.egg-info/top_level.txt
+[3.182s] reading manifest file '../../../build/spline_planner/spline_planner.egg-info/SOURCES.txt'
+[3.183s] adding license file 'LICENSE'
+[3.184s] writing manifest file '../../../build/spline_planner/spline_planner.egg-info/SOURCES.txt'
+[3.185s] running build
+[3.185s] running build_py
+[3.185s] running install
+[3.186s] running install_lib
+[3.190s] running install_data
+[3.190s] running install_egg_info
+[3.194s] removing '/home/misys/forza_ws/race_stack/install/spline_planner/lib/python3.10/site-packages/spline_planner-0.0.0-py3.10.egg-info' (and everything under it)
+[3.194s] Copying ../../../build/spline_planner/spline_planner.egg-info to /home/misys/forza_ws/race_stack/install/spline_planner/lib/python3.10/site-packages/spline_planner-0.0.0-py3.10.egg-info
+[3.196s] running install_scripts
+[3.239s] Installing spline_planner script to /home/misys/forza_ws/race_stack/install/spline_planner/lib/spline_planner
+[3.240s] writing list of installed files to '/home/misys/forza_ws/race_stack/build/spline_planner/install.log'
+[3.327s] Invoked command in '/home/misys/forza_ws/race_stack/planner/local_planners/spline_planner' returned '0': AMENT_PREFIX_PATH=/home/misys/forza_ws/race_stack/install/frenet_conversion:${AMENT_PREFIX_PATH} PYTHONPATH=/home/misys/forza_ws/race_stack/build/spline_planner/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/misys/forza_ws/race_stack/install/spline_planner/lib/python3.10/site-packages:/home/misys/forza_ws/race_stack/install/frenet_conversion/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/spline_planner build --build-base /home/misys/forza_ws/race_stack/build/spline_planner/build install --record /home/misys/forza_ws/race_stack/build/spline_planner/install.log --single-version-externally-managed install_data

@@ -1,0 +1,126 @@
+Laps done on 30 Jul 15:41:38
+Lap #1: 5.2618
+Lap #2: 5.2483
+Lap #3: 5.2650
+Lap #4: 5.2971
+Lap #5: 5.2699
+Lap #6: 5.2630
+Lap #7: 5.2480
+Lap #8: 5.2655
+Lap #9: 5.2801
+Lap #10: 5.2654
+Lap time over the past 10 laps: Mean: 5.2664, Std: 0.0136
+Avg Lat Error over the past 10 laps: Mean: 0.0963, Std: 0.1147
+Max Lat Error over the past 10 laps: Mean: 0.2206, Std: 0.1933
+Lap #11: 5.2454
+Lap #12: 5.2673
+Lap #13: 5.2556
+Lap #14: 5.2578
+Lap #15: 5.2581
+Lap #16: 5.2582
+Lap #17: 5.2573
+Lap #18: 5.2542
+Lap #19: 5.2601
+Lap #20: 5.2671
+Lap time over the past 10 laps: Mean: 5.2581, Std: 0.0059
+Avg Lat Error over the past 10 laps: Mean: 0.0573, Std: 0.0009
+Max Lat Error over the past 10 laps: Mean: 0.1579, Std: 0.0073
+Lap #21: 5.2553
+Lap #22: 5.2619
+Lap #23: 5.2616
+Lap #24: 5.2471
+Lap #25: 5.2666
+Lap #26: 5.2679
+Lap #27: 5.2762
+Lap #28: 5.2322
+Lap #29: 5.2659
+Lap #30: 5.2456
+Lap time over the past 10 laps: Mean: 5.2580, Std: 0.0124
+Avg Lat Error over the past 10 laps: Mean: 0.0580, Std: 0.0022
+Max Lat Error over the past 10 laps: Mean: 0.1565, Std: 0.0082
+Lap #31: 5.2552
+Lap #32: 5.2668
+Lap #33: 5.2680
+Lap #34: 5.2574
+Lap #35: 5.2585
+Lap #36: 5.2662
+Lap #37: 5.2570
+Lap #38: 5.2696
+Lap #39: 5.2558
+Lap #40: 5.2578
+Lap time over the past 10 laps: Mean: 5.2612, Std: 0.0054
+Avg Lat Error over the past 10 laps: Mean: 0.0583, Std: 0.0020
+Max Lat Error over the past 10 laps: Mean: 0.1548, Std: 0.0054
+Lap #41: 5.2608
+Lap #42: 5.2622
+Lap #43: 5.2573
+Lap #44: 5.2557
+Lap #45: 5.2563
+Lap #46: 5.2569
+Lap #47: 5.2679
+Lap #48: 5.2566
+Lap #49: 5.2598
+Lap #50: 5.2565
+Lap time over the past 10 laps: Mean: 5.2590, Std: 0.0036
+Avg Lat Error over the past 10 laps: Mean: 0.0569, Std: 0.0016
+Max Lat Error over the past 10 laps: Mean: 0.1540, Std: 0.0064
+Lap #51: 5.2667
+Lap #52: 5.2562
+Lap #53: 5.2696
+Lap #54: 5.2472
+Lap #55: 5.2673
+Lap #56: 5.2511
+Lap #57: 5.2574
+Lap #58: 5.2673
+Lap #59: 5.2590
+Lap #60: 5.2553
+Lap time over the past 10 laps: Mean: 5.2597, Std: 0.0073
+Avg Lat Error over the past 10 laps: Mean: 0.0584, Std: 0.0011
+Max Lat Error over the past 10 laps: Mean: 0.1566, Std: 0.0054
+Lap #61: 5.2574
+Lap #62: 5.2892
+Lap #63: 5.2649
+Lap #64: 5.2588
+Lap #65: 5.2563
+Lap #66: 5.2586
+Lap #67: 5.2576
+Lap #68: 5.2561
+Lap #69: 5.2661
+Lap #70: 5.2592
+Lap time over the past 10 laps: Mean: 5.2624, Std: 0.0095
+Avg Lat Error over the past 10 laps: Mean: 0.0575, Std: 0.0012
+Max Lat Error over the past 10 laps: Mean: 0.1545, Std: 0.0049
+Lap #71: 5.2550
+Lap #72: 5.2661
+Lap #73: 5.2559
+Lap #74: 5.2595
+Lap #75: 5.2572
+Lap #76: 5.2580
+Lap #77: 5.2570
+Lap #78: 5.2550
+Lap #79: 5.2562
+Lap #80: 5.2690
+Lap time over the past 10 laps: Mean: 5.2589, Std: 0.0046
+Avg Lat Error over the past 10 laps: Mean: 0.0576, Std: 0.0014
+Max Lat Error over the past 10 laps: Mean: 0.1570, Std: 0.0065
+Lap #81: 5.2676
+Lap #82: 5.2597
+Lap #83: 5.2542
+Lap #84: 5.2800
+Lap #85: 5.2533
+Lap #86: 5.2590
+Lap #87: 5.2575
+Lap #88: 5.2662
+Lap #89: 5.2576
+Lap #90: 5.2597
+Lap time over the past 10 laps: Mean: 5.2615, Std: 0.0075
+Avg Lat Error over the past 10 laps: Mean: 0.0571, Std: 0.0013
+Max Lat Error over the past 10 laps: Mean: 0.1525, Std: 0.0047
+Lap #91: 5.2532
+Lap #92: 5.2669
+Lap #93: 5.2594
+Lap #94: 5.2648
+Lap #95: 5.2567
+Lap #96: 5.2497
+Lap #97: 5.2556
+Lap #98: 5.2567

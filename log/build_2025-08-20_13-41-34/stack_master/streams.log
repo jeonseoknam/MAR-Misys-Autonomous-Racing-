@@ -1,0 +1,22 @@
+[4.567s] Invoking command in '/home/misys/forza_ws/race_stack/stack_master': PYTHONPATH=/home/misys/forza_ws/race_stack/build/stack_master/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/misys/forza_ws/race_stack/install/stack_master/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/stack_master build --build-base /home/misys/forza_ws/race_stack/build/stack_master/build install --record /home/misys/forza_ws/race_stack/build/stack_master/install.log --single-version-externally-managed install_data
+[5.282s] running egg_info
+[5.283s] writing ../build/stack_master/stack_master.egg-info/PKG-INFO
+[5.285s] writing dependency_links to ../build/stack_master/stack_master.egg-info/dependency_links.txt
+[5.285s] writing entry points to ../build/stack_master/stack_master.egg-info/entry_points.txt
+[5.285s] writing requirements to ../build/stack_master/stack_master.egg-info/requires.txt
+[5.285s] writing top-level names to ../build/stack_master/stack_master.egg-info/top_level.txt
+[5.289s] reading manifest file '../build/stack_master/stack_master.egg-info/SOURCES.txt'
+[5.290s] adding license file 'LICENSE'
+[5.293s] writing manifest file '../build/stack_master/stack_master.egg-info/SOURCES.txt'
+[5.293s] running build
+[5.293s] running build_py
+[5.294s] running install
+[5.294s] running install_lib
+[5.298s] running install_data
+[5.302s] running install_egg_info
+[5.307s] removing '/home/misys/forza_ws/race_stack/install/stack_master/lib/python3.10/site-packages/stack_master-0.0.0-py3.10.egg-info' (and everything under it)
+[5.308s] Copying ../build/stack_master/stack_master.egg-info to /home/misys/forza_ws/race_stack/install/stack_master/lib/python3.10/site-packages/stack_master-0.0.0-py3.10.egg-info
+[5.311s] running install_scripts
+[5.360s] Installing global_parameter_node script to /home/misys/forza_ws/race_stack/install/stack_master/lib/stack_master
+[5.361s] writing list of installed files to '/home/misys/forza_ws/race_stack/build/stack_master/install.log'
+[5.512s] Invoked command in '/home/misys/forza_ws/race_stack/stack_master' returned '0': PYTHONPATH=/home/misys/forza_ws/race_stack/build/stack_master/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/misys/forza_ws/race_stack/install/stack_master/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/stack_master build --build-base /home/misys/forza_ws/race_stack/build/stack_master/build install --record /home/misys/forza_ws/race_stack/build/stack_master/install.log --single-version-externally-managed install_data

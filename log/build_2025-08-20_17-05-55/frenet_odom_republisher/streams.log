@@ -1,0 +1,21 @@
+[3.463s] Invoking command in '/home/misys/forza_ws/race_stack/utilities/nodes/frenet_odom_republisher': PYTHONPATH=/home/misys/forza_ws/race_stack/build/frenet_odom_republisher/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/misys/forza_ws/race_stack/install/frenet_odom_republisher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/frenet_odom_republisher build --build-base /home/misys/forza_ws/race_stack/build/frenet_odom_republisher/build install --record /home/misys/forza_ws/race_stack/build/frenet_odom_republisher/install.log --single-version-externally-managed install_data
+[4.269s] running egg_info
+[4.272s] writing ../../../build/frenet_odom_republisher/frenet_odom_republisher.egg-info/PKG-INFO
+[4.273s] writing dependency_links to ../../../build/frenet_odom_republisher/frenet_odom_republisher.egg-info/dependency_links.txt
+[4.275s] writing entry points to ../../../build/frenet_odom_republisher/frenet_odom_republisher.egg-info/entry_points.txt
+[4.276s] writing requirements to ../../../build/frenet_odom_republisher/frenet_odom_republisher.egg-info/requires.txt
+[4.277s] writing top-level names to ../../../build/frenet_odom_republisher/frenet_odom_republisher.egg-info/top_level.txt
+[4.283s] reading manifest file '../../../build/frenet_odom_republisher/frenet_odom_republisher.egg-info/SOURCES.txt'
+[4.285s] writing manifest file '../../../build/frenet_odom_republisher/frenet_odom_republisher.egg-info/SOURCES.txt'
+[4.286s] running build
+[4.286s] running build_py
+[4.287s] running install
+[4.289s] running install_lib
+[4.294s] running install_data
+[4.295s] running install_egg_info
+[4.301s] removing '/home/misys/forza_ws/race_stack/install/frenet_odom_republisher/lib/python3.10/site-packages/frenet_odom_republisher-0.0.0-py3.10.egg-info' (and everything under it)
+[4.310s] Copying ../../../build/frenet_odom_republisher/frenet_odom_republisher.egg-info to /home/misys/forza_ws/race_stack/install/frenet_odom_republisher/lib/python3.10/site-packages/frenet_odom_republisher-0.0.0-py3.10.egg-info
+[4.312s] running install_scripts
+[4.364s] Installing frenet_odom_republisher_node script to /home/misys/forza_ws/race_stack/install/frenet_odom_republisher/lib/frenet_odom_republisher
+[4.365s] writing list of installed files to '/home/misys/forza_ws/race_stack/build/frenet_odom_republisher/install.log'
+[5.291s] Invoked command in '/home/misys/forza_ws/race_stack/utilities/nodes/frenet_odom_republisher' returned '0': PYTHONPATH=/home/misys/forza_ws/race_stack/build/frenet_odom_republisher/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/misys/forza_ws/race_stack/install/frenet_odom_republisher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/frenet_odom_republisher build --build-base /home/misys/forza_ws/race_stack/build/frenet_odom_republisher/build install --record /home/misys/forza_ws/race_stack/build/frenet_odom_republisher/install.log --single-version-externally-managed install_data

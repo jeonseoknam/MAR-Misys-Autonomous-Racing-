@@ -1,0 +1,41 @@
+[0.000000] (-) TimerEvent: {}
+[0.000858] (-) JobUnselected: {'identifier': 'ackermann_mux'}
+[0.001720] (-) JobUnselected: {'identifier': 'controller'}
+[0.002929] (-) JobUnselected: {'identifier': 'f110_gym'}
+[0.003355] (-) JobUnselected: {'identifier': 'f110_msgs'}
+[0.004210] (-) JobUnselected: {'identifier': 'f1tenth_gym_ros'}
+[0.004875] (-) JobUnselected: {'identifier': 'f1tenth_stack'}
+[0.005089] (-) JobUnselected: {'identifier': 'frenet_conversion'}
+[0.005346] (-) JobUnselected: {'identifier': 'frenet_odom_republisher'}
+[0.005820] (-) JobUnselected: {'identifier': 'global_planner'}
+[0.006076] (-) JobUnselected: {'identifier': 'id_controller'}
+[0.006287] (-) JobUnselected: {'identifier': 'joy_teleop'}
+[0.006517] (-) JobUnselected: {'identifier': 'key_teleop'}
+[0.006759] (-) JobUnselected: {'identifier': 'lap_analyser'}
+[0.006958] (-) JobUnselected: {'identifier': 'map_editor'}
+[0.011656] (-) JobUnselected: {'identifier': 'mouse_teleop'}
+[0.011792] (-) JobUnselected: {'identifier': 'opponent_publisher'}
+[0.011874] (-) JobUnselected: {'identifier': 'particle_filter'}
+[0.011914] (-) JobUnselected: {'identifier': 'perception'}
+[0.011948] (-) JobUnselected: {'identifier': 'sector_tuner'}
+[0.011981] (-) JobUnselected: {'identifier': 'slam_toolbox'}
+[0.012012] (-) JobUnselected: {'identifier': 'slam_tuner'}
+[0.012041] (-) JobUnselected: {'identifier': 'spline_planner'}
+[0.012069] (-) JobUnselected: {'identifier': 'state_estimation'}
+[0.012098] (-) JobUnselected: {'identifier': 'state_machine'}
+[0.012127] (-) JobUnselected: {'identifier': 'steering_lookup'}
+[0.012155] (-) JobUnselected: {'identifier': 'teleop_tools'}
+[0.012182] (-) JobUnselected: {'identifier': 'teleop_tools_msgs'}
+[0.012312] (-) JobUnselected: {'identifier': 'urg_node2'}
+[0.012364] (-) JobUnselected: {'identifier': 'vesc'}
+[0.012397] (-) JobUnselected: {'identifier': 'vesc_ackermann'}
+[0.012463] (-) JobUnselected: {'identifier': 'vesc_driver'}
+[0.012497] (-) JobUnselected: {'identifier': 'vesc_msgs'}
+[0.012538] (stack_master) JobQueued: {'identifier': 'stack_master', 'dependencies': OrderedDict()}
+[0.012584] (stack_master) JobStarted: {'identifier': 'stack_master'}
+[0.098706] (-) TimerEvent: {}
+[0.199116] (-) TimerEvent: {}
+[0.299483] (-) TimerEvent: {}
+[0.400138] (-) TimerEvent: {}
+[0.459510] (stack_master) JobEnded: {'identifier': 'stack_master', 'rc': 0}
+[0.475618] (-) EventReactorShutdown: {}

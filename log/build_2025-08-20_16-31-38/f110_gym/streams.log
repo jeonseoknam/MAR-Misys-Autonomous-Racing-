@@ -1,0 +1,17 @@
+[9.639s] Invoking command in '/home/misys/forza_ws/race_stack/base_system/f110_simulator/f1tenth_gym': PYTHONPATH=/home/misys/forza_ws/race_stack/build/f110_gym/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/misys/forza_ws/race_stack/install/f110_gym/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/f110_gym build --build-base /home/misys/forza_ws/race_stack/build/f110_gym/build install --record /home/misys/forza_ws/race_stack/build/f110_gym/install.log --single-version-externally-managed
+[12.016s] running egg_info
+[12.016s] writing ../../../build/f110_gym/f110_gym.egg-info/PKG-INFO
+[12.016s] writing dependency_links to ../../../build/f110_gym/f110_gym.egg-info/dependency_links.txt
+[12.016s] writing requirements to ../../../build/f110_gym/f110_gym.egg-info/requires.txt
+[12.016s] writing top-level names to ../../../build/f110_gym/f110_gym.egg-info/top_level.txt
+[12.016s] reading manifest file '../../../build/f110_gym/f110_gym.egg-info/SOURCES.txt'
+[12.017s] adding license file 'LICENSE'
+[12.017s] writing manifest file '../../../build/f110_gym/f110_gym.egg-info/SOURCES.txt'
+[12.017s] running build
+[12.017s] running install
+[12.017s] running install_egg_info
+[12.017s] removing '/home/misys/forza_ws/race_stack/install/f110_gym/lib/python3.10/site-packages/f110_gym-0.3.0-py3.10.egg-info' (and everything under it)
+[12.017s] Copying ../../../build/f110_gym/f110_gym.egg-info to /home/misys/forza_ws/race_stack/install/f110_gym/lib/python3.10/site-packages/f110_gym-0.3.0-py3.10.egg-info
+[12.018s] running install_scripts
+[12.018s] writing list of installed files to '/home/misys/forza_ws/race_stack/build/f110_gym/install.log'
+[12.134s] Invoked command in '/home/misys/forza_ws/race_stack/base_system/f110_simulator/f1tenth_gym' returned '0': PYTHONPATH=/home/misys/forza_ws/race_stack/build/f110_gym/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/misys/forza_ws/race_stack/install/f110_gym/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/f110_gym build --build-base /home/misys/forza_ws/race_stack/build/f110_gym/build install --record /home/misys/forza_ws/race_stack/build/f110_gym/install.log --single-version-externally-managed

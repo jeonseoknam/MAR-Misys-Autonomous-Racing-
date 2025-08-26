@@ -1,0 +1,63 @@
+[3.622s] Invoking command in '/home/misys/forza_ws/race_stack/particle_filter': PYTHONPATH=/home/misys/forza_ws/race_stack/build/particle_filter/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/misys/forza_ws/race_stack/install/particle_filter/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/particle_filter build --build-base /home/misys/forza_ws/race_stack/build/particle_filter/build install --record /home/misys/forza_ws/race_stack/build/particle_filter/install.log --single-version-externally-managed install_data
+[4.350s] running egg_info
+[4.352s] creating ../build/particle_filter/particle_filter.egg-info
+[4.352s] writing ../build/particle_filter/particle_filter.egg-info/PKG-INFO
+[4.353s] writing dependency_links to ../build/particle_filter/particle_filter.egg-info/dependency_links.txt
+[4.354s] writing entry points to ../build/particle_filter/particle_filter.egg-info/entry_points.txt
+[4.354s] writing requirements to ../build/particle_filter/particle_filter.egg-info/requires.txt
+[4.354s] writing top-level names to ../build/particle_filter/particle_filter.egg-info/top_level.txt
+[4.355s] writing manifest file '../build/particle_filter/particle_filter.egg-info/SOURCES.txt'
+[4.373s] reading manifest file '../build/particle_filter/particle_filter.egg-info/SOURCES.txt'
+[4.375s] writing manifest file '../build/particle_filter/particle_filter.egg-info/SOURCES.txt'
+[4.375s] running build
+[4.375s] running build_py
+[4.376s] creating /home/misys/forza_ws/race_stack/build/particle_filter/build
+[4.376s] creating /home/misys/forza_ws/race_stack/build/particle_filter/build/lib
+[4.376s] creating /home/misys/forza_ws/race_stack/build/particle_filter/build/lib/particle_filter
+[4.377s] copying particle_filter/particle_filter.py -> /home/misys/forza_ws/race_stack/build/particle_filter/build/lib/particle_filter
+[4.377s] copying particle_filter/utils.py -> /home/misys/forza_ws/race_stack/build/particle_filter/build/lib/particle_filter
+[4.378s] copying particle_filter/__init__.py -> /home/misys/forza_ws/race_stack/build/particle_filter/build/lib/particle_filter
+[4.379s] running install
+[4.380s] running install_lib
+[4.382s] creating /home/misys/forza_ws/race_stack/install/particle_filter/lib/python3.10/site-packages/particle_filter
+[4.382s] copying /home/misys/forza_ws/race_stack/build/particle_filter/build/lib/particle_filter/particle_filter.py -> /home/misys/forza_ws/race_stack/install/particle_filter/lib/python3.10/site-packages/particle_filter
+[4.383s] copying /home/misys/forza_ws/race_stack/build/particle_filter/build/lib/particle_filter/utils.py -> /home/misys/forza_ws/race_stack/install/particle_filter/lib/python3.10/site-packages/particle_filter
+[4.383s] copying /home/misys/forza_ws/race_stack/build/particle_filter/build/lib/particle_filter/__init__.py -> /home/misys/forza_ws/race_stack/install/particle_filter/lib/python3.10/site-packages/particle_filter
+[4.385s] byte-compiling /home/misys/forza_ws/race_stack/install/particle_filter/lib/python3.10/site-packages/particle_filter/particle_filter.py to particle_filter.cpython-310.pyc
+[4.394s] byte-compiling /home/misys/forza_ws/race_stack/install/particle_filter/lib/python3.10/site-packages/particle_filter/utils.py to utils.cpython-310.pyc
+[4.397s] byte-compiling /home/misys/forza_ws/race_stack/install/particle_filter/lib/python3.10/site-packages/particle_filter/__init__.py to __init__.cpython-310.pyc
+[4.398s] running install_data
+[4.398s] creating /home/misys/forza_ws/race_stack/install/particle_filter/share/ament_index
+[4.398s] creating /home/misys/forza_ws/race_stack/install/particle_filter/share/ament_index/resource_index
+[4.398s] creating /home/misys/forza_ws/race_stack/install/particle_filter/share/ament_index/resource_index/packages
+[4.399s] copying resource/particle_filter -> /home/misys/forza_ws/race_stack/install/particle_filter/share/ament_index/resource_index/packages
+[4.399s] copying package.xml -> /home/misys/forza_ws/race_stack/install/particle_filter/share/particle_filter
+[4.400s] creating /home/misys/forza_ws/race_stack/install/particle_filter/share/particle_filter/maps
+[4.400s] copying maps/ekf_map.yaml -> /home/misys/forza_ws/race_stack/install/particle_filter/share/particle_filter/maps
+[4.401s] copying maps/teras_orig.png -> /home/misys/forza_ws/race_stack/install/particle_filter/share/particle_filter/maps
+[4.401s] copying maps/hangar_1905_v0.png -> /home/misys/forza_ws/race_stack/install/particle_filter/share/particle_filter/maps
+[4.402s] copying maps/GLC_smile_small.png -> /home/misys/forza_ws/race_stack/install/particle_filter/share/particle_filter/maps
+[4.402s] copying maps/glc_ot_ez.png -> /home/misys/forza_ws/race_stack/install/particle_filter/share/particle_filter/maps
+[4.403s] copying maps/track.png -> /home/misys/forza_ws/race_stack/install/particle_filter/share/particle_filter/maps
+[4.403s] copying maps/teras_map.png -> /home/misys/forza_ws/race_stack/install/particle_filter/share/particle_filter/maps
+[4.405s] copying maps/levine.pgm -> /home/misys/forza_ws/race_stack/install/particle_filter/share/particle_filter/maps
+[4.414s] copying maps/hangar_1905_v0.yaml -> /home/misys/forza_ws/race_stack/install/particle_filter/share/particle_filter/maps
+[4.414s] copying maps/teras.yaml -> /home/misys/forza_ws/race_stack/install/particle_filter/share/particle_filter/maps
+[4.415s] copying maps/levine.yaml -> /home/misys/forza_ws/race_stack/install/particle_filter/share/particle_filter/maps
+[4.415s] copying maps/ekf_map.png -> /home/misys/forza_ws/race_stack/install/particle_filter/share/particle_filter/maps
+[4.419s] copying maps/GLC_smile_small.yaml -> /home/misys/forza_ws/race_stack/install/particle_filter/share/particle_filter/maps
+[4.419s] copying maps/track.yaml -> /home/misys/forza_ws/race_stack/install/particle_filter/share/particle_filter/maps
+[4.420s] copying maps/teras_orig.yaml -> /home/misys/forza_ws/race_stack/install/particle_filter/share/particle_filter/maps
+[4.420s] copying maps/teras.png -> /home/misys/forza_ws/race_stack/install/particle_filter/share/particle_filter/maps
+[4.421s] copying maps/glc_ot_ez.yaml -> /home/misys/forza_ws/race_stack/install/particle_filter/share/particle_filter/maps
+[4.422s] copying maps/teras_map.yaml -> /home/misys/forza_ws/race_stack/install/particle_filter/share/particle_filter/maps
+[4.422s] creating /home/misys/forza_ws/race_stack/install/particle_filter/share/particle_filter/launch
+[4.423s] copying launch/localize_launch.py -> /home/misys/forza_ws/race_stack/install/particle_filter/share/particle_filter/launch
+[4.423s] creating /home/misys/forza_ws/race_stack/install/particle_filter/share/particle_filter/config
+[4.424s] copying config/localize.yaml -> /home/misys/forza_ws/race_stack/install/particle_filter/share/particle_filter/config
+[4.424s] running install_egg_info
+[4.429s] Copying ../build/particle_filter/particle_filter.egg-info to /home/misys/forza_ws/race_stack/install/particle_filter/lib/python3.10/site-packages/particle_filter-0.2.0-py3.10.egg-info
+[4.433s] running install_scripts
+[4.487s] Installing particle_filter script to /home/misys/forza_ws/race_stack/install/particle_filter/lib/particle_filter
+[4.489s] writing list of installed files to '/home/misys/forza_ws/race_stack/build/particle_filter/install.log'
+[4.584s] Invoked command in '/home/misys/forza_ws/race_stack/particle_filter' returned '0': PYTHONPATH=/home/misys/forza_ws/race_stack/build/particle_filter/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/misys/forza_ws/race_stack/install/particle_filter/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/particle_filter build --build-base /home/misys/forza_ws/race_stack/build/particle_filter/build install --record /home/misys/forza_ws/race_stack/build/particle_filter/install.log --single-version-externally-managed install_data

@@ -1,0 +1,432 @@
+[0.851s] Invoking command in '/home/misys/forza_ws/race_stack/build/slam_toolbox': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/misys/forza_ws/race_stack/install/f1tenth_stack:/home/misys/forza_ws/race_stack/install/joy_teleop:/home/misys/forza_ws/race_stack/install/steering_lookup:/home/misys/forza_ws/race_stack/install/state_machine:/home/misys/forza_ws/race_stack/install/slam_tuner:/home/misys/forza_ws/race_stack/install/state_estimation:/home/misys/forza_ws/race_stack/install/map_editor:/home/misys/forza_ws/race_stack/install/stack_master:/home/misys/forza_ws/race_stack/install/spline_planner:/home/misys/forza_ws/race_stack/install/sector_tuner:/home/misys/forza_ws/race_stack/install/perception:/home/misys/forza_ws/race_stack/install/particle_filter:/home/misys/forza_ws/race_stack/install/opponent_publisher:/home/misys/forza_ws/race_stack/install/mouse_teleop:/home/misys/forza_ws/race_stack/install/lap_analyser:/home/misys/forza_ws/race_stack/install/key_teleop:/home/misys/forza_ws/race_stack/install/id_controller:/home/misys/forza_ws/race_stack/install/global_planner:/home/misys/forza_ws/race_stack/install/frenet_odom_republisher:/home/misys/forza_ws/race_stack/install/frenet_conversion:/home/misys/forza_ws/race_stack/install/f1tenth_gym_ros:/home/misys/forza_ws/race_stack/install/controller:/opt/ros/humble /usr/bin/cmake --build /home/misys/forza_ws/race_stack/build/slam_toolbox -- -j6 -l6
+[1.045s] [  1%] Built target slam_toolbox__cpp
+[1.137s] [ 10%] Built target slam_toolbox__rosidl_generator_c
+[1.164s] [ 10%] Built target ament_cmake_python_copy_slam_toolbox
+[1.175s] [ 12%] Built target kartoSlamToolbox
+[1.197s] [ 20%] Built target slam_toolbox__rosidl_typesupport_cpp
+[1.280s] [ 28%] Built target slam_toolbox__rosidl_typesupport_introspection_cpp
+[1.304s] [ 36%] Built target slam_toolbox__rosidl_typesupport_c
+[1.314s] [ 45%] Built target slam_toolbox__rosidl_typesupport_fastrtps_cpp
+[1.330s] [ 53%] Built target slam_toolbox__rosidl_typesupport_introspection_c
+[1.350s] [ 62%] Built target slam_toolbox__rosidl_typesupport_fastrtps_c
+[1.429s] [ 64%] Built target SlamToolboxPlugin
+[1.450s] [ 64%] Built target slam_toolbox
+[1.455s] [ 66%] Built target ceres_solver_plugin
+[1.465s] [ 71%] Built target toolbox_common
+[1.539s] [ 71%] Built target slam_toolbox__py
+[1.631s] [ 74%] Built target async_slam_toolbox
+[1.631s] [ 74%] Built target lifelong_slam_toolbox
+[1.638s] [ 76%] Built target sync_slam_toolbox
+[1.663s] [ 77%] Built target localization_slam_toolbox
+[1.726s] [ 79%] Built target merge_maps_kinematic
+[1.731s] [ 87%] Built target slam_toolbox__rosidl_generator_py
+[1.758s] [ 88%] Built target async_slam_toolbox_node
+[1.832s] [ 90%] Built target lifelong_slam_toolbox_node
+[1.843s] [ 92%] Built target localization_slam_toolbox_node
+[1.865s] [ 93%] Built target slam_toolbox__rosidl_typesupport_fastrtps_c__pyext
+[1.869s] [ 94%] Built target sync_slam_toolbox_node
+[1.916s] [ 96%] Built target slam_toolbox__rosidl_typesupport_introspection_c__pyext
+[1.929s] [ 98%] Built target slam_toolbox__rosidl_typesupport_c__pyext
+[1.929s] [ 99%] Built target map_and_localization_slam_toolbox
+[1.958s] running egg_info
+[1.960s] writing slam_toolbox.egg-info/PKG-INFO
+[1.960s] writing dependency_links to slam_toolbox.egg-info/dependency_links.txt
+[1.960s] writing top-level names to slam_toolbox.egg-info/top_level.txt
+[1.966s] reading manifest file 'slam_toolbox.egg-info/SOURCES.txt'
+[1.967s] writing manifest file 'slam_toolbox.egg-info/SOURCES.txt'
+[2.017s] [100%] Built target map_and_localization_slam_toolbox_node
+[2.043s] [100%] Built target ament_cmake_python_build_slam_toolbox_egg
+[2.686s] Invoked command in '/home/misys/forza_ws/race_stack/build/slam_toolbox' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/misys/forza_ws/race_stack/install/f1tenth_stack:/home/misys/forza_ws/race_stack/install/joy_teleop:/home/misys/forza_ws/race_stack/install/steering_lookup:/home/misys/forza_ws/race_stack/install/state_machine:/home/misys/forza_ws/race_stack/install/slam_tuner:/home/misys/forza_ws/race_stack/install/state_estimation:/home/misys/forza_ws/race_stack/install/map_editor:/home/misys/forza_ws/race_stack/install/stack_master:/home/misys/forza_ws/race_stack/install/spline_planner:/home/misys/forza_ws/race_stack/install/sector_tuner:/home/misys/forza_ws/race_stack/install/perception:/home/misys/forza_ws/race_stack/install/particle_filter:/home/misys/forza_ws/race_stack/install/opponent_publisher:/home/misys/forza_ws/race_stack/install/mouse_teleop:/home/misys/forza_ws/race_stack/install/lap_analyser:/home/misys/forza_ws/race_stack/install/key_teleop:/home/misys/forza_ws/race_stack/install/id_controller:/home/misys/forza_ws/race_stack/install/global_planner:/home/misys/forza_ws/race_stack/install/frenet_odom_republisher:/home/misys/forza_ws/race_stack/install/frenet_conversion:/home/misys/forza_ws/race_stack/install/f1tenth_gym_ros:/home/misys/forza_ws/race_stack/install/controller:/opt/ros/humble /usr/bin/cmake --build /home/misys/forza_ws/race_stack/build/slam_toolbox -- -j6 -l6
+[2.687s] Invoking command in '/home/misys/forza_ws/race_stack/build/slam_toolbox': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/misys/forza_ws/race_stack/install/f1tenth_stack:/home/misys/forza_ws/race_stack/install/joy_teleop:/home/misys/forza_ws/race_stack/install/steering_lookup:/home/misys/forza_ws/race_stack/install/state_machine:/home/misys/forza_ws/race_stack/install/slam_tuner:/home/misys/forza_ws/race_stack/install/state_estimation:/home/misys/forza_ws/race_stack/install/map_editor:/home/misys/forza_ws/race_stack/install/stack_master:/home/misys/forza_ws/race_stack/install/spline_planner:/home/misys/forza_ws/race_stack/install/sector_tuner:/home/misys/forza_ws/race_stack/install/perception:/home/misys/forza_ws/race_stack/install/particle_filter:/home/misys/forza_ws/race_stack/install/opponent_publisher:/home/misys/forza_ws/race_stack/install/mouse_teleop:/home/misys/forza_ws/race_stack/install/lap_analyser:/home/misys/forza_ws/race_stack/install/key_teleop:/home/misys/forza_ws/race_stack/install/id_controller:/home/misys/forza_ws/race_stack/install/global_planner:/home/misys/forza_ws/race_stack/install/frenet_odom_republisher:/home/misys/forza_ws/race_stack/install/frenet_conversion:/home/misys/forza_ws/race_stack/install/f1tenth_gym_ros:/home/misys/forza_ws/race_stack/install/controller:/opt/ros/humble /usr/bin/cmake --install /home/misys/forza_ws/race_stack/build/slam_toolbox
+[2.713s] -- Install configuration: "Release"
+[2.714s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/ament_index/resource_index/rosidl_interfaces/slam_toolbox
+[2.715s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox
+[2.715s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/msg
+[2.716s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/msg/rosidl_generator_c__visibility_control.h
+[2.716s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv
+[2.716s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/toggle_interactive.h
+[2.717s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/loop_closure.h
+[2.717s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail
+[2.717s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/add_submap__struct.h
+[2.718s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/toggle_interactive__functions.h
+[2.718s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/pause__functions.h
+[2.719s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/serialize_pose_graph__functions.h
+[2.719s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/add_submap__functions.c
+[2.719s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/serialize_pose_graph__functions.c
+[2.720s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/clear_queue__struct.h
+[2.721s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/deserialize_pose_graph__struct.h
+[2.721s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/pause__type_support.h
+[2.721s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/clear__type_support.h
+[2.721s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/toggle_interactive__functions.c
+[2.721s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/merge_maps__struct.h
+[2.721s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/add_submap__type_support.h
+[2.722s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/add_submap__functions.h
+[2.722s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/save_map__type_support.h
+[2.722s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/clear_queue__functions.h
+[2.722s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/save_map__functions.c
+[2.722s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/serialize_pose_graph__type_support.h
+[2.722s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/deserialize_pose_graph__functions.h
+[2.723s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/clear_queue__functions.c
+[2.723s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/serialize_pose_graph__struct.h
+[2.723s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/toggle_interactive__struct.h
+[2.723s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/loop_closure__struct.h
+[2.724s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/merge_maps__functions.c
+[2.724s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/toggle_interactive__type_support.h
+[2.724s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/loop_closure__functions.c
+[2.725s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/deserialize_pose_graph__type_support.h
+[2.725s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/loop_closure__type_support.h
+[2.725s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/merge_maps__functions.h
+[2.726s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/loop_closure__functions.h
+[2.726s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/clear__struct.h
+[2.727s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/clear__functions.c
+[2.727s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/save_map__functions.h
+[2.727s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/save_map__struct.h
+[2.728s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/deserialize_pose_graph__functions.c
+[2.728s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/clear_queue__type_support.h
+[2.729s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/clear__functions.h
+[2.729s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/merge_maps__type_support.h
+[2.729s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/pause__functions.c
+[2.729s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/pause__struct.h
+[2.729s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/clear.h
+[2.729s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/deserialize_pose_graph.h
+[2.730s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/clear_queue.h
+[2.730s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/pause.h
+[2.730s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/merge_maps.h
+[2.731s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/add_submap.h
+[2.731s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/serialize_pose_graph.h
+[2.731s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/save_map.h
+[2.732s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/environment/library_path.sh
+[2.732s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/environment/library_path.dsv
+[2.733s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/lib/libslam_toolbox__rosidl_generator_c.so
+[2.734s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox
+[2.735s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/msg
+[2.735s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[2.735s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv
+[2.735s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail
+[2.735s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/deserialize_pose_graph__rosidl_typesupport_fastrtps_c.h
+[2.735s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/serialize_pose_graph__rosidl_typesupport_fastrtps_c.h
+[2.736s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/clear__rosidl_typesupport_fastrtps_c.h
+[2.736s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/merge_maps__rosidl_typesupport_fastrtps_c.h
+[2.736s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/loop_closure__rosidl_typesupport_fastrtps_c.h
+[2.736s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/clear_queue__rosidl_typesupport_fastrtps_c.h
+[2.736s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/add_submap__rosidl_typesupport_fastrtps_c.h
+[2.737s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/pause__rosidl_typesupport_fastrtps_c.h
+[2.737s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/toggle_interactive__rosidl_typesupport_fastrtps_c.h
+[2.737s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/save_map__rosidl_typesupport_fastrtps_c.h
+[2.738s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/lib/libslam_toolbox__rosidl_typesupport_fastrtps_c.so
+[2.739s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox
+[2.739s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/msg
+[2.739s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/msg/rosidl_generator_cpp__visibility_control.hpp
+[2.740s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv
+[2.740s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/loop_closure.hpp
+[2.741s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/clear_queue.hpp
+[2.741s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail
+[2.741s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/add_submap__struct.hpp
+[2.741s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/clear_queue__traits.hpp
+[2.742s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/loop_closure__traits.hpp
+[2.742s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/pause__type_support.hpp
+[2.743s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/save_map__traits.hpp
+[2.743s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/add_submap__builder.hpp
+[2.743s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/clear_queue__struct.hpp
+[2.743s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/toggle_interactive__type_support.hpp
+[2.743s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/serialize_pose_graph__type_support.hpp
+[2.744s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/save_map__type_support.hpp
+[2.744s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/add_submap__traits.hpp
+[2.744s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/deserialize_pose_graph__traits.hpp
+[2.745s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/toggle_interactive__builder.hpp
+[2.745s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/merge_maps__builder.hpp
+[2.745s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/clear__type_support.hpp
+[2.746s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/clear__struct.hpp
+[2.746s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/clear_queue__builder.hpp
+[2.746s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/save_map__struct.hpp
+[2.747s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/serialize_pose_graph__builder.hpp
+[2.747s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/toggle_interactive__struct.hpp
+[2.747s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/pause__builder.hpp
+[2.748s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/clear__traits.hpp
+[2.748s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/clear__builder.hpp
+[2.748s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/pause__struct.hpp
+[2.749s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/merge_maps__traits.hpp
+[2.750s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/deserialize_pose_graph__struct.hpp
+[2.750s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/serialize_pose_graph__traits.hpp
+[2.750s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/deserialize_pose_graph__type_support.hpp
+[2.751s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/merge_maps__struct.hpp
+[2.751s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/serialize_pose_graph__struct.hpp
+[2.751s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/clear_queue__type_support.hpp
+[2.752s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/loop_closure__struct.hpp
+[2.752s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/toggle_interactive__traits.hpp
+[2.752s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/deserialize_pose_graph__builder.hpp
+[2.753s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/add_submap__type_support.hpp
+[2.753s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/pause__traits.hpp
+[2.754s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/merge_maps__type_support.hpp
+[2.754s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/loop_closure__builder.hpp
+[2.754s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/save_map__builder.hpp
+[2.755s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/loop_closure__type_support.hpp
+[2.755s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/serialize_pose_graph.hpp
+[2.756s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/deserialize_pose_graph.hpp
+[2.756s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/clear.hpp
+[2.756s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/toggle_interactive.hpp
+[2.757s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/merge_maps.hpp
+[2.757s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/pause.hpp
+[2.757s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/save_map.hpp
+[2.758s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/add_submap.hpp
+[2.758s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox
+[2.759s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/msg
+[2.759s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[2.759s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv
+[2.760s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail
+[2.760s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/deserialize_pose_graph__rosidl_typesupport_fastrtps_cpp.hpp
+[2.761s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/toggle_interactive__rosidl_typesupport_fastrtps_cpp.hpp
+[2.761s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/add_submap__rosidl_typesupport_fastrtps_cpp.hpp
+[2.761s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/pause__rosidl_typesupport_fastrtps_cpp.hpp
+[2.762s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/merge_maps__rosidl_typesupport_fastrtps_cpp.hpp
+[2.762s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/serialize_pose_graph__rosidl_typesupport_fastrtps_cpp.hpp
+[2.763s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/dds_fastrtps
+[2.763s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/clear__rosidl_typesupport_fastrtps_cpp.hpp
+[2.763s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/save_map__rosidl_typesupport_fastrtps_cpp.hpp
+[2.764s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/clear_queue__rosidl_typesupport_fastrtps_cpp.hpp
+[2.764s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/loop_closure__rosidl_typesupport_fastrtps_cpp.hpp
+[2.765s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/lib/libslam_toolbox__rosidl_typesupport_fastrtps_cpp.so
+[2.766s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox
+[2.766s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/msg
+[2.767s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[2.767s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv
+[2.767s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail
+[2.768s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/clear_queue__type_support.c
+[2.768s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/save_map__type_support.c
+[2.769s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/loop_closure__rosidl_typesupport_introspection_c.h
+[2.769s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/toggle_interactive__rosidl_typesupport_introspection_c.h
+[2.769s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/merge_maps__type_support.c
+[2.770s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/add_submap__type_support.c
+[2.770s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/merge_maps__rosidl_typesupport_introspection_c.h
+[2.771s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/clear_queue__rosidl_typesupport_introspection_c.h
+[2.771s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/clear__type_support.c
+[2.771s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/pause__rosidl_typesupport_introspection_c.h
+[2.772s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/clear__rosidl_typesupport_introspection_c.h
+[2.772s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/deserialize_pose_graph__type_support.c
+[2.772s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/add_submap__rosidl_typesupport_introspection_c.h
+[2.773s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/toggle_interactive__type_support.c
+[2.773s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/serialize_pose_graph__rosidl_typesupport_introspection_c.h
+[2.774s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/loop_closure__type_support.c
+[2.774s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/pause__type_support.c
+[2.774s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/deserialize_pose_graph__rosidl_typesupport_introspection_c.h
+[2.775s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/serialize_pose_graph__type_support.c
+[2.775s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/save_map__rosidl_typesupport_introspection_c.h
+[2.776s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/lib/libslam_toolbox__rosidl_typesupport_introspection_c.so
+[2.777s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/lib/libslam_toolbox__rosidl_typesupport_c.so
+[2.777s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox
+[2.778s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv
+[2.778s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail
+[2.779s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/pause__type_support.cpp
+[2.779s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/loop_closure__type_support.cpp
+[2.779s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/add_submap__type_support.cpp
+[2.780s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/save_map__rosidl_typesupport_introspection_cpp.hpp
+[2.780s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/loop_closure__rosidl_typesupport_introspection_cpp.hpp
+[2.780s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/merge_maps__rosidl_typesupport_introspection_cpp.hpp
+[2.781s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/clear__rosidl_typesupport_introspection_cpp.hpp
+[2.781s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/merge_maps__type_support.cpp
+[2.782s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/add_submap__rosidl_typesupport_introspection_cpp.hpp
+[2.782s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/clear_queue__type_support.cpp
+[2.782s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/pause__rosidl_typesupport_introspection_cpp.hpp
+[2.783s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/serialize_pose_graph__type_support.cpp
+[2.783s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/save_map__type_support.cpp
+[2.783s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/clear__type_support.cpp
+[2.784s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/clear_queue__rosidl_typesupport_introspection_cpp.hpp
+[2.784s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/deserialize_pose_graph__type_support.cpp
+[2.784s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/serialize_pose_graph__rosidl_typesupport_introspection_cpp.hpp
+[2.785s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/toggle_interactive__rosidl_typesupport_introspection_cpp.hpp
+[2.785s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/toggle_interactive__type_support.cpp
+[2.786s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox/srv/detail/deserialize_pose_graph__rosidl_typesupport_introspection_cpp.hpp
+[2.786s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/lib/libslam_toolbox__rosidl_typesupport_introspection_cpp.so
+[2.787s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/lib/libslam_toolbox__rosidl_typesupport_cpp.so
+[2.788s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/environment/pythonpath.sh
+[2.789s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/environment/pythonpath.dsv
+[2.789s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/local/lib/python3.10/dist-packages/slam_toolbox-2.6.8-py3.10.egg-info
+[2.789s] -- Installing: /home/misys/forza_ws/race_stack/install/slam_toolbox/local/lib/python3.10/dist-packages/slam_toolbox-2.6.8-py3.10.egg-info/dependency_links.txt
+[2.790s] -- Installing: /home/misys/forza_ws/race_stack/install/slam_toolbox/local/lib/python3.10/dist-packages/slam_toolbox-2.6.8-py3.10.egg-info/PKG-INFO
+[2.791s] -- Installing: /home/misys/forza_ws/race_stack/install/slam_toolbox/local/lib/python3.10/dist-packages/slam_toolbox-2.6.8-py3.10.egg-info/top_level.txt
+[2.792s] -- Installing: /home/misys/forza_ws/race_stack/install/slam_toolbox/local/lib/python3.10/dist-packages/slam_toolbox-2.6.8-py3.10.egg-info/SOURCES.txt
+[2.793s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/local/lib/python3.10/dist-packages/slam_toolbox
+[2.794s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/local/lib/python3.10/dist-packages/slam_toolbox/_slam_toolbox_s.ep.rosidl_typesupport_fastrtps_c.c
+[2.794s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/local/lib/python3.10/dist-packages/slam_toolbox/slam_toolbox_s__rosidl_typesupport_c.cpython-310-aarch64-linux-gnu.so
+[2.794s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/local/lib/python3.10/dist-packages/slam_toolbox/slam_toolbox_s__rosidl_typesupport_fastrtps_c.cpython-310-aarch64-linux-gnu.so
+[2.795s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/local/lib/python3.10/dist-packages/slam_toolbox/slam_toolbox_s__rosidl_typesupport_introspection_c.cpython-310-aarch64-linux-gnu.so
+[2.795s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/local/lib/python3.10/dist-packages/slam_toolbox/_slam_toolbox_s.ep.rosidl_typesupport_introspection_c.c
+[2.796s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/local/lib/python3.10/dist-packages/slam_toolbox/libslam_toolbox__rosidl_generator_py.so
+[2.796s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/local/lib/python3.10/dist-packages/slam_toolbox/_slam_toolbox_s.ep.rosidl_typesupport_c.c
+[2.796s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/local/lib/python3.10/dist-packages/slam_toolbox/srv
+[2.797s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/local/lib/python3.10/dist-packages/slam_toolbox/srv/_clear_s.c
+[2.797s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/local/lib/python3.10/dist-packages/slam_toolbox/srv/_merge_maps_s.c
+[2.797s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/local/lib/python3.10/dist-packages/slam_toolbox/srv/_loop_closure.py
+[2.798s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/local/lib/python3.10/dist-packages/slam_toolbox/srv/_serialize_pose_graph.py
+[2.798s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/local/lib/python3.10/dist-packages/slam_toolbox/srv/_deserialize_pose_graph.py
+[2.799s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/local/lib/python3.10/dist-packages/slam_toolbox/srv/_clear.py
+[2.799s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/local/lib/python3.10/dist-packages/slam_toolbox/srv/_pause.py
+[2.799s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/local/lib/python3.10/dist-packages/slam_toolbox/srv/_deserialize_pose_graph_s.c
+[2.800s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/local/lib/python3.10/dist-packages/slam_toolbox/srv/_toggle_interactive_s.c
+[2.800s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/local/lib/python3.10/dist-packages/slam_toolbox/srv/_clear_queue.py
+[2.801s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/local/lib/python3.10/dist-packages/slam_toolbox/srv/_toggle_interactive.py
+[2.801s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/local/lib/python3.10/dist-packages/slam_toolbox/srv/_add_submap.py
+[2.801s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/local/lib/python3.10/dist-packages/slam_toolbox/srv/_save_map.py
+[2.802s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/local/lib/python3.10/dist-packages/slam_toolbox/srv/_add_submap_s.c
+[2.802s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/local/lib/python3.10/dist-packages/slam_toolbox/srv/_pause_s.c
+[2.803s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/local/lib/python3.10/dist-packages/slam_toolbox/srv/_save_map_s.c
+[2.803s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/local/lib/python3.10/dist-packages/slam_toolbox/srv/__init__.py
+[2.803s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/local/lib/python3.10/dist-packages/slam_toolbox/srv/_loop_closure_s.c
+[2.804s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/local/lib/python3.10/dist-packages/slam_toolbox/srv/_serialize_pose_graph_s.c
+[2.804s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/local/lib/python3.10/dist-packages/slam_toolbox/srv/_merge_maps.py
+[2.804s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/local/lib/python3.10/dist-packages/slam_toolbox/srv/_clear_queue_s.c
+[2.805s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/local/lib/python3.10/dist-packages/slam_toolbox/__init__.py
+[3.033s] Listing '/home/misys/forza_ws/race_stack/install/slam_toolbox/local/lib/python3.10/dist-packages/slam_toolbox'...
+[3.033s] Listing '/home/misys/forza_ws/race_stack/install/slam_toolbox/local/lib/python3.10/dist-packages/slam_toolbox/srv'...
+[3.054s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/local/lib/python3.10/dist-packages/slam_toolbox/slam_toolbox_s__rosidl_typesupport_fastrtps_c.cpython-310-aarch64-linux-gnu.so
+[3.054s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/local/lib/python3.10/dist-packages/slam_toolbox/slam_toolbox_s__rosidl_typesupport_introspection_c.cpython-310-aarch64-linux-gnu.so
+[3.058s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/local/lib/python3.10/dist-packages/slam_toolbox/slam_toolbox_s__rosidl_typesupport_c.cpython-310-aarch64-linux-gnu.so
+[3.058s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/lib/libslam_toolbox__rosidl_generator_py.so
+[3.058s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/srv/Pause.idl
+[3.059s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/srv/ClearQueue.idl
+[3.059s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/srv/ToggleInteractive.idl
+[3.059s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/srv/Clear.idl
+[3.059s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/srv/SaveMap.idl
+[3.059s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/srv/LoopClosure.idl
+[3.060s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/srv/MergeMaps.idl
+[3.060s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/srv/AddSubmap.idl
+[3.064s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/srv/DeserializePoseGraph.idl
+[3.064s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/srv/SerializePoseGraph.idl
+[3.065s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/srvs/Pause.srv
+[3.065s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/srvs/Pause_Request.msg
+[3.065s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/srvs/Pause_Response.msg
+[3.065s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/srvs/ClearQueue.srv
+[3.065s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/srvs/ClearQueue_Request.msg
+[3.065s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/srvs/ClearQueue_Response.msg
+[3.065s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/srvs/ToggleInteractive.srv
+[3.065s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/srvs/ToggleInteractive_Request.msg
+[3.066s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/srvs/ToggleInteractive_Response.msg
+[3.066s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/srvs/Clear.srv
+[3.066s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/srvs/Clear_Request.msg
+[3.066s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/srvs/Clear_Response.msg
+[3.070s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/srvs/SaveMap.srv
+[3.070s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/srvs/SaveMap_Request.msg
+[3.071s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/srvs/SaveMap_Response.msg
+[3.071s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/srvs/LoopClosure.srv
+[3.071s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/srvs/LoopClosure_Request.msg
+[3.071s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/srvs/LoopClosure_Response.msg
+[3.071s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/srvs/MergeMaps.srv
+[3.071s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/srvs/MergeMaps_Request.msg
+[3.071s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/srvs/MergeMaps_Response.msg
+[3.072s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/srvs/AddSubmap.srv
+[3.072s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/srvs/AddSubmap_Request.msg
+[3.072s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/srvs/AddSubmap_Response.msg
+[3.072s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/srvs/DeserializePoseGraph.srv
+[3.072s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/srvs/DeserializePoseGraph_Request.msg
+[3.072s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/srvs/DeserializePoseGraph_Response.msg
+[3.072s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/srvs/SerializePoseGraph.srv
+[3.072s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/srvs/SerializePoseGraph_Request.msg
+[3.073s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/srvs/SerializePoseGraph_Response.msg
+[3.073s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/rviz_plugins.xml
+[3.073s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/solver_plugins.xml
+[3.076s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/lib/slam_toolbox/async_slam_toolbox_node
+[3.076s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/lib/slam_toolbox/sync_slam_toolbox_node
+[3.076s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/lib/slam_toolbox/localization_slam_toolbox_node
+[3.077s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/lib/slam_toolbox/map_and_localization_slam_toolbox_node
+[3.078s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/lib/slam_toolbox/merge_maps_kinematic
+[3.079s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/lib/libtoolbox_common.so
+[3.080s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/lib/libSlamToolboxPlugin.so
+[3.081s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/lib/libceres_solver_plugin.so
+[3.082s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/lib/libasync_slam_toolbox.so
+[3.083s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/lib/libsync_slam_toolbox.so
+[3.084s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/lib/liblocalization_slam_toolbox.so
+[3.085s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/lib/liblifelong_slam_toolbox.so
+[3.087s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/lib/libmap_and_localization_slam_toolbox.so
+[3.088s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/lib/libkartoSlamToolbox.so
+[3.091s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/lib/libSlamToolboxPlugin.so
+[3.092s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include
+[3.092s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox
+[3.098s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/laser_utils.hpp
+[3.099s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/merge_maps_kinematic.hpp
+[3.099s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/experimental
+[3.099s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/experimental/slam_toolbox_lifelong.hpp
+[3.099s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/experimental/slam_toolbox_map_and_localization.hpp
+[3.100s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/get_pose_helper.hpp
+[3.100s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/toolbox_types.hpp
+[3.100s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox_async.hpp
+[3.101s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_mapper.hpp
+[3.101s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox_localization.hpp
+[3.101s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/loop_closure_assistant.hpp
+[3.102s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/visualization_utils.hpp
+[3.102s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/snap_utils.hpp
+[3.102s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/toolbox_msgs.hpp
+[3.103s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/map_saver.hpp
+[3.103s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox_sync.hpp
+[3.103s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/serialization.hpp
+[3.103s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/slam_toolbox/slam_toolbox_common.hpp
+[3.104s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/launch
+[3.104s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/launch/online_async_launch.py
+[3.105s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/launch/online_sync_launch.py
+[3.105s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/launch/offline_launch_forza.py
+[3.105s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/launch/localization_launch.py
+[3.106s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/launch/merge_maps_kinematic_launch.py
+[3.106s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/launch/offline_launch.py
+[3.106s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/config
+[3.107s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/config/mapper_params_lifelong.yaml
+[3.107s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/config/mapper_params_offline_forza.yaml
+[3.107s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/config/slam_toolbox_default.rviz
+[3.108s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/config/mapper_params_offline.yaml
+[3.108s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/config/mapper_params_online_sync.yaml
+[3.108s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/config/mapper_params_localization.yaml
+[3.109s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/config/mapper_params_online_async.yaml
+[3.109s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/solver_plugins.xml
+[3.109s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/rviz_plugins.xml
+[3.110s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/ament_index/resource_index/package_run_dependencies/slam_toolbox
+[3.110s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/ament_index/resource_index/parent_prefix_path/slam_toolbox
+[3.111s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/environment/ament_prefix_path.sh
+[3.111s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/environment/ament_prefix_path.dsv
+[3.111s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/environment/path.sh
+[3.112s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/environment/path.dsv
+[3.114s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/local_setup.bash
+[3.115s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/local_setup.sh
+[3.115s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/local_setup.zsh
+[3.116s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/local_setup.dsv
+[3.116s] -- Installing: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/package.dsv
+[3.117s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/ament_index/resource_index/packages/slam_toolbox
+[3.117s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/ament_index/resource_index/rviz_common__pluginlib__plugin/slam_toolbox
+[3.131s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/ament_index/resource_index/slam_toolbox__pluginlib__plugin/slam_toolbox
+[3.131s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/cmake/export_slam_toolbox__rosidl_generator_cExport.cmake
+[3.132s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/cmake/export_slam_toolbox__rosidl_generator_cExport-release.cmake
+[3.133s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/cmake/export_slam_toolbox__rosidl_typesupport_fastrtps_cExport.cmake
+[3.134s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/cmake/export_slam_toolbox__rosidl_typesupport_fastrtps_cExport-release.cmake
+[3.134s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/cmake/export_slam_toolbox__rosidl_generator_cppExport.cmake
+[3.135s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/cmake/export_slam_toolbox__rosidl_typesupport_fastrtps_cppExport.cmake
+[3.135s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/cmake/export_slam_toolbox__rosidl_typesupport_fastrtps_cppExport-release.cmake
+[3.136s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/cmake/slam_toolbox__rosidl_typesupport_introspection_cExport.cmake
+[3.137s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/cmake/slam_toolbox__rosidl_typesupport_introspection_cExport-release.cmake
+[3.137s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/cmake/slam_toolbox__rosidl_typesupport_cExport.cmake
+[3.138s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/cmake/slam_toolbox__rosidl_typesupport_cExport-release.cmake
+[3.138s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/cmake/slam_toolbox__rosidl_typesupport_introspection_cppExport.cmake
+[3.139s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/cmake/slam_toolbox__rosidl_typesupport_introspection_cppExport-release.cmake
+[3.140s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/cmake/slam_toolbox__rosidl_typesupport_cppExport.cmake
+[3.140s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/cmake/slam_toolbox__rosidl_typesupport_cppExport-release.cmake
+[3.141s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/cmake/export_slam_toolbox__rosidl_generator_pyExport.cmake
+[3.141s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/cmake/export_slam_toolbox__rosidl_generator_pyExport-release.cmake
+[3.142s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/cmake/SlamToolboxPluginExport.cmake
+[3.143s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/cmake/SlamToolboxPluginExport-release.cmake
+[3.143s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/ament_index/resource_index/rclcpp_components/slam_toolbox
+[3.144s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/cmake/rosidl_cmake-extras.cmake
+[3.145s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/cmake/ament_cmake_export_dependencies-extras.cmake
+[3.145s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/cmake/ament_cmake_export_include_directories-extras.cmake
+[3.145s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/cmake/ament_cmake_export_libraries-extras.cmake
+[3.146s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/cmake/ament_cmake_export_targets-extras.cmake
+[3.146s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[3.147s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[3.147s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/cmake/slam_toolboxConfig.cmake
+[3.147s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/cmake/slam_toolboxConfig-version.cmake
+[3.148s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/share/slam_toolbox/package.xml
+[3.149s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include/
+[3.149s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include//karto_sdk
+[3.149s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include//karto_sdk/nanoflann_adaptors.h
+[3.150s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include//karto_sdk/nanoflann.hpp
+[3.150s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include//karto_sdk/Math.h
+[3.151s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include//karto_sdk/Mapper.h
+[3.151s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include//karto_sdk/Karto.h
+[3.151s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include//karto_sdk/Macros.h
+[3.152s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/slam_toolbox/include//karto_sdk/Types.h
+[3.166s] Invoked command in '/home/misys/forza_ws/race_stack/build/slam_toolbox' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/misys/forza_ws/race_stack/install/f1tenth_stack:/home/misys/forza_ws/race_stack/install/joy_teleop:/home/misys/forza_ws/race_stack/install/steering_lookup:/home/misys/forza_ws/race_stack/install/state_machine:/home/misys/forza_ws/race_stack/install/slam_tuner:/home/misys/forza_ws/race_stack/install/state_estimation:/home/misys/forza_ws/race_stack/install/map_editor:/home/misys/forza_ws/race_stack/install/stack_master:/home/misys/forza_ws/race_stack/install/spline_planner:/home/misys/forza_ws/race_stack/install/sector_tuner:/home/misys/forza_ws/race_stack/install/perception:/home/misys/forza_ws/race_stack/install/particle_filter:/home/misys/forza_ws/race_stack/install/opponent_publisher:/home/misys/forza_ws/race_stack/install/mouse_teleop:/home/misys/forza_ws/race_stack/install/lap_analyser:/home/misys/forza_ws/race_stack/install/key_teleop:/home/misys/forza_ws/race_stack/install/id_controller:/home/misys/forza_ws/race_stack/install/global_planner:/home/misys/forza_ws/race_stack/install/frenet_odom_republisher:/home/misys/forza_ws/race_stack/install/frenet_conversion:/home/misys/forza_ws/race_stack/install/f1tenth_gym_ros:/home/misys/forza_ws/race_stack/install/controller:/opt/ros/humble /usr/bin/cmake --install /home/misys/forza_ws/race_stack/build/slam_toolbox

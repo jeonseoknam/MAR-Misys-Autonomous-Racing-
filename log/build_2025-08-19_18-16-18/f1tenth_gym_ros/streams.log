@@ -1,0 +1,22 @@
+[5.006s] Invoking command in '/home/misys/forza_ws/race_stack/base_system/f110_simulator/f1tenth_gym_ros': PYTHONPATH=/home/misys/forza_ws/race_stack/build/f1tenth_gym_ros/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/misys/forza_ws/race_stack/install/f1tenth_gym_ros/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/f1tenth_gym_ros build --build-base /home/misys/forza_ws/race_stack/build/f1tenth_gym_ros/build install --record /home/misys/forza_ws/race_stack/build/f1tenth_gym_ros/install.log --single-version-externally-managed install_data
+[6.093s] running egg_info
+[6.095s] writing ../../../build/f1tenth_gym_ros/f1tenth_gym_ros.egg-info/PKG-INFO
+[6.096s] writing dependency_links to ../../../build/f1tenth_gym_ros/f1tenth_gym_ros.egg-info/dependency_links.txt
+[6.099s] writing entry points to ../../../build/f1tenth_gym_ros/f1tenth_gym_ros.egg-info/entry_points.txt
+[6.099s] writing requirements to ../../../build/f1tenth_gym_ros/f1tenth_gym_ros.egg-info/requires.txt
+[6.100s] writing top-level names to ../../../build/f1tenth_gym_ros/f1tenth_gym_ros.egg-info/top_level.txt
+[6.107s] reading manifest file '../../../build/f1tenth_gym_ros/f1tenth_gym_ros.egg-info/SOURCES.txt'
+[6.107s] adding license file 'LICENSE'
+[6.109s] writing manifest file '../../../build/f1tenth_gym_ros/f1tenth_gym_ros.egg-info/SOURCES.txt'
+[6.110s] running build
+[6.110s] running build_py
+[6.111s] running install
+[6.113s] running install_lib
+[6.121s] running install_data
+[6.122s] running install_egg_info
+[6.128s] removing '/home/misys/forza_ws/race_stack/install/f1tenth_gym_ros/lib/python3.10/site-packages/f1tenth_gym_ros-0.0.0-py3.10.egg-info' (and everything under it)
+[6.141s] Copying ../../../build/f1tenth_gym_ros/f1tenth_gym_ros.egg-info to /home/misys/forza_ws/race_stack/install/f1tenth_gym_ros/lib/python3.10/site-packages/f1tenth_gym_ros-0.0.0-py3.10.egg-info
+[6.143s] running install_scripts
+[6.210s] Installing gym_bridge script to /home/misys/forza_ws/race_stack/install/f1tenth_gym_ros/lib/f1tenth_gym_ros
+[6.211s] writing list of installed files to '/home/misys/forza_ws/race_stack/build/f1tenth_gym_ros/install.log'
+[6.362s] Invoked command in '/home/misys/forza_ws/race_stack/base_system/f110_simulator/f1tenth_gym_ros' returned '0': PYTHONPATH=/home/misys/forza_ws/race_stack/build/f1tenth_gym_ros/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/misys/forza_ws/race_stack/install/f1tenth_gym_ros/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/f1tenth_gym_ros build --build-base /home/misys/forza_ws/race_stack/build/f1tenth_gym_ros/build install --record /home/misys/forza_ws/race_stack/build/f1tenth_gym_ros/install.log --single-version-externally-managed install_data

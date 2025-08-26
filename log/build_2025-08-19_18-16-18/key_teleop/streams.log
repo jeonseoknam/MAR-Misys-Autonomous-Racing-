@@ -1,0 +1,22 @@
+[2.244s] Invoking command in '/home/misys/forza_ws/race_stack/base_system/f1tenth_system/teleop_tools/key_teleop': PYTHONPATH=/home/misys/forza_ws/race_stack/build/key_teleop/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/misys/forza_ws/race_stack/install/key_teleop/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../../build/key_teleop build --build-base /home/misys/forza_ws/race_stack/build/key_teleop/build install --record /home/misys/forza_ws/race_stack/build/key_teleop/install.log --single-version-externally-managed install_data
+[2.929s] running egg_info
+[2.930s] writing ../../../../build/key_teleop/key_teleop.egg-info/PKG-INFO
+[2.930s] writing dependency_links to ../../../../build/key_teleop/key_teleop.egg-info/dependency_links.txt
+[2.931s] writing entry points to ../../../../build/key_teleop/key_teleop.egg-info/entry_points.txt
+[2.931s] writing requirements to ../../../../build/key_teleop/key_teleop.egg-info/requires.txt
+[2.931s] writing top-level names to ../../../../build/key_teleop/key_teleop.egg-info/top_level.txt
+[2.935s] reading manifest file '../../../../build/key_teleop/key_teleop.egg-info/SOURCES.txt'
+[2.936s] adding license file 'LICENSE'
+[2.937s] writing manifest file '../../../../build/key_teleop/key_teleop.egg-info/SOURCES.txt'
+[2.937s] running build
+[2.937s] running build_py
+[2.938s] running install
+[2.939s] running install_lib
+[2.943s] running install_data
+[2.945s] running install_egg_info
+[2.948s] removing '/home/misys/forza_ws/race_stack/install/key_teleop/lib/python3.10/site-packages/key_teleop-1.5.0-py3.10.egg-info' (and everything under it)
+[2.948s] Copying ../../../../build/key_teleop/key_teleop.egg-info to /home/misys/forza_ws/race_stack/install/key_teleop/lib/python3.10/site-packages/key_teleop-1.5.0-py3.10.egg-info
+[2.951s] running install_scripts
+[3.002s] Installing key_teleop script to /home/misys/forza_ws/race_stack/install/key_teleop/lib/key_teleop
+[3.003s] writing list of installed files to '/home/misys/forza_ws/race_stack/build/key_teleop/install.log'
+[3.199s] Invoked command in '/home/misys/forza_ws/race_stack/base_system/f1tenth_system/teleop_tools/key_teleop' returned '0': PYTHONPATH=/home/misys/forza_ws/race_stack/build/key_teleop/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/misys/forza_ws/race_stack/install/key_teleop/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../../build/key_teleop build --build-base /home/misys/forza_ws/race_stack/build/key_teleop/build install --record /home/misys/forza_ws/race_stack/build/key_teleop/install.log --single-version-externally-managed install_data

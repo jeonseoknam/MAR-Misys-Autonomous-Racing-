@@ -1,0 +1,26 @@
+[1.957s] Invoking command in '/home/misys/forza_ws/race_stack/stack_master': PYTHONPATH=/home/misys/forza_ws/race_stack/build/stack_master/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/misys/forza_ws/race_stack/install/stack_master/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/stack_master build --build-base /home/misys/forza_ws/race_stack/build/stack_master/build install --record /home/misys/forza_ws/race_stack/build/stack_master/install.log --single-version-externally-managed install_data
+[2.675s] running egg_info
+[2.677s] writing ../build/stack_master/stack_master.egg-info/PKG-INFO
+[2.677s] writing dependency_links to ../build/stack_master/stack_master.egg-info/dependency_links.txt
+[2.677s] writing entry points to ../build/stack_master/stack_master.egg-info/entry_points.txt
+[2.677s] writing requirements to ../build/stack_master/stack_master.egg-info/requires.txt
+[2.678s] writing top-level names to ../build/stack_master/stack_master.egg-info/top_level.txt
+[2.683s] reading manifest file '../build/stack_master/stack_master.egg-info/SOURCES.txt'
+[2.683s] adding license file 'LICENSE'
+[2.685s] writing manifest file '../build/stack_master/stack_master.egg-info/SOURCES.txt'
+[2.686s] running build
+[2.686s] running build_py
+[2.686s] running install
+[2.687s] running install_lib
+[2.691s] running install_data
+[2.695s] copying maps/teras/teras.yaml -> /home/misys/forza_ws/race_stack/install/stack_master/share/stack_master/maps/teras
+[2.695s] copying maps/teras/global_waypoints.json -> /home/misys/forza_ws/race_stack/install/stack_master/share/stack_master/maps/teras
+[2.701s] copying maps/teras/speed_scaling.yaml -> /home/misys/forza_ws/race_stack/install/stack_master/share/stack_master/maps/teras
+[2.701s] copying maps/teras/teras.png -> /home/misys/forza_ws/race_stack/install/stack_master/share/stack_master/maps/teras
+[2.702s] running install_egg_info
+[2.707s] removing '/home/misys/forza_ws/race_stack/install/stack_master/lib/python3.10/site-packages/stack_master-0.0.0-py3.10.egg-info' (and everything under it)
+[2.708s] Copying ../build/stack_master/stack_master.egg-info to /home/misys/forza_ws/race_stack/install/stack_master/lib/python3.10/site-packages/stack_master-0.0.0-py3.10.egg-info
+[2.710s] running install_scripts
+[2.760s] Installing global_parameter_node script to /home/misys/forza_ws/race_stack/install/stack_master/lib/stack_master
+[2.761s] writing list of installed files to '/home/misys/forza_ws/race_stack/build/stack_master/install.log'
+[2.841s] Invoked command in '/home/misys/forza_ws/race_stack/stack_master' returned '0': PYTHONPATH=/home/misys/forza_ws/race_stack/build/stack_master/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/misys/forza_ws/race_stack/install/stack_master/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/stack_master build --build-base /home/misys/forza_ws/race_stack/build/stack_master/build install --record /home/misys/forza_ws/race_stack/build/stack_master/install.log --single-version-externally-managed install_data

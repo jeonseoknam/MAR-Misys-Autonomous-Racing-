@@ -1,0 +1,17 @@
+Laps done on 12 Aug 15:11:17
+Lap #1: 9.2978
+Lap #2: 11.5230
+Lap #3: 2.7473
+Lap #4: 8.1512
+Lap #5: 2.9149
+Lap #6: 8.2782
+Lap #7: 8.2964
+Lap #8: 8.2575
+Lap #9: 8.2977
+Lap #10: 8.2776
+Lap time over the past 10 laps: Mean: 7.6042, Std: 2.5768
+Avg Lat Error over the past 10 laps: Mean: 0.3623, Std: 0.5644
+Max Lat Error over the past 10 laps: Mean: 0.9782, Std: 1.2511
+Lap #11: 8.2773
+Lap #12: 8.2772
+Lap #13: 8.2964

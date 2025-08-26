@@ -1,0 +1,20 @@
+[3.255s] Invoking command in '/home/misys/forza_ws/race_stack/system_identification/steering_lookup': PYTHONPATH=/home/misys/forza_ws/race_stack/build/steering_lookup/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/misys/forza_ws/race_stack/install/steering_lookup/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/steering_lookup build --build-base /home/misys/forza_ws/race_stack/build/steering_lookup/build install --record /home/misys/forza_ws/race_stack/build/steering_lookup/install.log --single-version-externally-managed install_data
+[3.987s] running egg_info
+[3.989s] writing ../../build/steering_lookup/steering_lookup.egg-info/PKG-INFO
+[3.989s] writing dependency_links to ../../build/steering_lookup/steering_lookup.egg-info/dependency_links.txt
+[3.990s] writing requirements to ../../build/steering_lookup/steering_lookup.egg-info/requires.txt
+[3.990s] writing top-level names to ../../build/steering_lookup/steering_lookup.egg-info/top_level.txt
+[3.994s] reading manifest file '../../build/steering_lookup/steering_lookup.egg-info/SOURCES.txt'
+[3.995s] adding license file 'LICENSE'
+[3.996s] writing manifest file '../../build/steering_lookup/steering_lookup.egg-info/SOURCES.txt'
+[3.997s] running build
+[3.997s] running build_py
+[3.998s] running install
+[3.998s] running install_lib
+[4.001s] running install_data
+[4.002s] running install_egg_info
+[4.006s] removing '/home/misys/forza_ws/race_stack/install/steering_lookup/lib/python3.10/site-packages/steering_lookup-0.0.0-py3.10.egg-info' (and everything under it)
+[4.007s] Copying ../../build/steering_lookup/steering_lookup.egg-info to /home/misys/forza_ws/race_stack/install/steering_lookup/lib/python3.10/site-packages/steering_lookup-0.0.0-py3.10.egg-info
+[4.009s] running install_scripts
+[4.060s] writing list of installed files to '/home/misys/forza_ws/race_stack/build/steering_lookup/install.log'
+[4.983s] Invoked command in '/home/misys/forza_ws/race_stack/system_identification/steering_lookup' returned '0': PYTHONPATH=/home/misys/forza_ws/race_stack/build/steering_lookup/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/misys/forza_ws/race_stack/install/steering_lookup/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/steering_lookup build --build-base /home/misys/forza_ws/race_stack/build/steering_lookup/build install --record /home/misys/forza_ws/race_stack/build/steering_lookup/install.log --single-version-externally-managed install_data

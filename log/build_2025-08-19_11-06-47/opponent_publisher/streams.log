@@ -1,0 +1,23 @@
+[4.214s] Invoking command in '/home/misys/forza_ws/race_stack/utilities/nodes/opponent_publisher': PYTHONPATH=/home/misys/forza_ws/race_stack/build/opponent_publisher/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/misys/forza_ws/race_stack/install/opponent_publisher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/opponent_publisher build --build-base /home/misys/forza_ws/race_stack/build/opponent_publisher/build install --record /home/misys/forza_ws/race_stack/build/opponent_publisher/install.log --single-version-externally-managed install_data
+[5.588s] running egg_info
+[5.590s] writing ../../../build/opponent_publisher/opponent_publisher.egg-info/PKG-INFO
+[5.592s] writing dependency_links to ../../../build/opponent_publisher/opponent_publisher.egg-info/dependency_links.txt
+[5.593s] writing entry points to ../../../build/opponent_publisher/opponent_publisher.egg-info/entry_points.txt
+[5.593s] writing requirements to ../../../build/opponent_publisher/opponent_publisher.egg-info/requires.txt
+[5.594s] writing top-level names to ../../../build/opponent_publisher/opponent_publisher.egg-info/top_level.txt
+[5.601s] reading manifest file '../../../build/opponent_publisher/opponent_publisher.egg-info/SOURCES.txt'
+[5.601s] adding license file 'LICENSE'
+[5.602s] writing manifest file '../../../build/opponent_publisher/opponent_publisher.egg-info/SOURCES.txt'
+[5.607s] running build
+[5.607s] running build_py
+[5.608s] running install
+[5.609s] running install_lib
+[5.621s] running install_data
+[5.622s] running install_egg_info
+[5.643s] removing '/home/misys/forza_ws/race_stack/install/opponent_publisher/lib/python3.10/site-packages/opponent_publisher-0.0.0-py3.10.egg-info' (and everything under it)
+[5.650s] Copying ../../../build/opponent_publisher/opponent_publisher.egg-info to /home/misys/forza_ws/race_stack/install/opponent_publisher/lib/python3.10/site-packages/opponent_publisher-0.0.0-py3.10.egg-info
+[5.651s] running install_scripts
+[5.752s] Installing collision_detector script to /home/misys/forza_ws/race_stack/install/opponent_publisher/lib/opponent_publisher
+[5.753s] Installing obstacle_publisher script to /home/misys/forza_ws/race_stack/install/opponent_publisher/lib/opponent_publisher
+[5.754s] writing list of installed files to '/home/misys/forza_ws/race_stack/build/opponent_publisher/install.log'
+[7.276s] Invoked command in '/home/misys/forza_ws/race_stack/utilities/nodes/opponent_publisher' returned '0': PYTHONPATH=/home/misys/forza_ws/race_stack/build/opponent_publisher/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/misys/forza_ws/race_stack/install/opponent_publisher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/opponent_publisher build --build-base /home/misys/forza_ws/race_stack/build/opponent_publisher/build install --record /home/misys/forza_ws/race_stack/build/opponent_publisher/install.log --single-version-externally-managed install_data

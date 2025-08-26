@@ -1,0 +1,23 @@
+[3.695s] Invoking command in '/home/misys/forza_ws/race_stack/perception': PYTHONPATH=/home/misys/forza_ws/race_stack/build/perception/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/misys/forza_ws/race_stack/install/perception/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/perception build --build-base /home/misys/forza_ws/race_stack/build/perception/build install --record /home/misys/forza_ws/race_stack/build/perception/install.log --single-version-externally-managed install_data
+[4.463s] running egg_info
+[4.464s] writing ../build/perception/perception.egg-info/PKG-INFO
+[4.465s] writing dependency_links to ../build/perception/perception.egg-info/dependency_links.txt
+[4.466s] writing entry points to ../build/perception/perception.egg-info/entry_points.txt
+[4.466s] writing requirements to ../build/perception/perception.egg-info/requires.txt
+[4.467s] writing top-level names to ../build/perception/perception.egg-info/top_level.txt
+[4.472s] reading manifest file '../build/perception/perception.egg-info/SOURCES.txt'
+[4.473s] adding license file 'LICENSE'
+[4.478s] writing manifest file '../build/perception/perception.egg-info/SOURCES.txt'
+[4.478s] running build
+[4.478s] running build_py
+[4.481s] running install
+[4.481s] running install_lib
+[4.483s] running install_data
+[4.484s] running install_egg_info
+[4.489s] removing '/home/misys/forza_ws/race_stack/install/perception/lib/python3.10/site-packages/perception-0.0.0-py3.10.egg-info' (and everything under it)
+[4.490s] Copying ../build/perception/perception.egg-info to /home/misys/forza_ws/race_stack/install/perception/lib/python3.10/site-packages/perception-0.0.0-py3.10.egg-info
+[4.495s] running install_scripts
+[4.558s] Installing detect script to /home/misys/forza_ws/race_stack/install/perception/lib/perception
+[4.559s] Installing tracking script to /home/misys/forza_ws/race_stack/install/perception/lib/perception
+[4.560s] writing list of installed files to '/home/misys/forza_ws/race_stack/build/perception/install.log'
+[5.385s] Invoked command in '/home/misys/forza_ws/race_stack/perception' returned '0': PYTHONPATH=/home/misys/forza_ws/race_stack/build/perception/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/misys/forza_ws/race_stack/install/perception/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/perception build --build-base /home/misys/forza_ws/race_stack/build/perception/build install --record /home/misys/forza_ws/race_stack/build/perception/install.log --single-version-externally-managed install_data

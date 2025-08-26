@@ -1,0 +1,25 @@
+[1.801s] Invoking command in '/home/misys/forza_ws/race_stack/controller': PYTHONPATH=/home/misys/forza_ws/race_stack/build/controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/misys/forza_ws/race_stack/install/controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/controller build --build-base /home/misys/forza_ws/race_stack/build/controller/build install --record /home/misys/forza_ws/race_stack/build/controller/install.log --single-version-externally-managed install_data
+[2.471s] running egg_info
+[2.472s] writing ../build/controller/controller.egg-info/PKG-INFO
+[2.473s] writing dependency_links to ../build/controller/controller.egg-info/dependency_links.txt
+[2.473s] writing entry points to ../build/controller/controller.egg-info/entry_points.txt
+[2.473s] writing requirements to ../build/controller/controller.egg-info/requires.txt
+[2.473s] writing top-level names to ../build/controller/controller.egg-info/top_level.txt
+[2.477s] reading manifest file '../build/controller/controller.egg-info/SOURCES.txt'
+[2.480s] adding license file 'LICENSE'
+[2.481s] writing manifest file '../build/controller/controller.egg-info/SOURCES.txt'
+[2.481s] running build
+[2.481s] running build_py
+[2.482s] copying controller/controller_manager.py -> /home/misys/forza_ws/race_stack/build/controller/build/lib/controller
+[2.483s] running install
+[2.483s] running install_lib
+[2.485s] copying /home/misys/forza_ws/race_stack/build/controller/build/lib/controller/controller_manager.py -> /home/misys/forza_ws/race_stack/install/controller/lib/python3.10/site-packages/controller
+[2.487s] byte-compiling /home/misys/forza_ws/race_stack/install/controller/lib/python3.10/site-packages/controller/controller_manager.py to controller_manager.cpython-310.pyc
+[2.496s] running install_data
+[2.496s] running install_egg_info
+[2.500s] removing '/home/misys/forza_ws/race_stack/install/controller/lib/python3.10/site-packages/controller-0.0.0-py3.10.egg-info' (and everything under it)
+[2.501s] Copying ../build/controller/controller.egg-info to /home/misys/forza_ws/race_stack/install/controller/lib/python3.10/site-packages/controller-0.0.0-py3.10.egg-info
+[2.503s] running install_scripts
+[2.546s] Installing controller script to /home/misys/forza_ws/race_stack/install/controller/lib/controller
+[2.547s] writing list of installed files to '/home/misys/forza_ws/race_stack/build/controller/install.log'
+[2.618s] Invoked command in '/home/misys/forza_ws/race_stack/controller' returned '0': PYTHONPATH=/home/misys/forza_ws/race_stack/build/controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/misys/forza_ws/race_stack/install/controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/controller build --build-base /home/misys/forza_ws/race_stack/build/controller/build install --record /home/misys/forza_ws/race_stack/build/controller/install.log --single-version-externally-managed install_data

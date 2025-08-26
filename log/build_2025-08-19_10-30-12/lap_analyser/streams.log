@@ -1,0 +1,22 @@
+[4.092s] Invoking command in '/home/misys/forza_ws/race_stack/utilities/nodes/lap_analyser': PYTHONPATH=/home/misys/forza_ws/race_stack/build/lap_analyser/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/misys/forza_ws/race_stack/install/lap_analyser/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/lap_analyser build --build-base /home/misys/forza_ws/race_stack/build/lap_analyser/build install --record /home/misys/forza_ws/race_stack/build/lap_analyser/install.log --single-version-externally-managed install_data
+[4.774s] running egg_info
+[4.775s] writing ../../../build/lap_analyser/lap_analyser.egg-info/PKG-INFO
+[4.775s] writing dependency_links to ../../../build/lap_analyser/lap_analyser.egg-info/dependency_links.txt
+[4.776s] writing entry points to ../../../build/lap_analyser/lap_analyser.egg-info/entry_points.txt
+[4.777s] writing requirements to ../../../build/lap_analyser/lap_analyser.egg-info/requires.txt
+[4.777s] writing top-level names to ../../../build/lap_analyser/lap_analyser.egg-info/top_level.txt
+[4.781s] reading manifest file '../../../build/lap_analyser/lap_analyser.egg-info/SOURCES.txt'
+[4.781s] adding license file 'LICENSE'
+[4.782s] writing manifest file '../../../build/lap_analyser/lap_analyser.egg-info/SOURCES.txt'
+[4.783s] running build
+[4.783s] running build_py
+[4.783s] running install
+[4.784s] running install_lib
+[4.787s] running install_data
+[4.788s] running install_egg_info
+[4.793s] removing '/home/misys/forza_ws/race_stack/install/lap_analyser/lib/python3.10/site-packages/lap_analyser-0.0.0-py3.10.egg-info' (and everything under it)
+[4.793s] Copying ../../../build/lap_analyser/lap_analyser.egg-info to /home/misys/forza_ws/race_stack/install/lap_analyser/lib/python3.10/site-packages/lap_analyser-0.0.0-py3.10.egg-info
+[4.796s] running install_scripts
+[4.859s] Installing lap_analyser script to /home/misys/forza_ws/race_stack/install/lap_analyser/lib/lap_analyser
+[4.859s] writing list of installed files to '/home/misys/forza_ws/race_stack/build/lap_analyser/install.log'
+[5.736s] Invoked command in '/home/misys/forza_ws/race_stack/utilities/nodes/lap_analyser' returned '0': PYTHONPATH=/home/misys/forza_ws/race_stack/build/lap_analyser/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/misys/forza_ws/race_stack/install/lap_analyser/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/lap_analyser build --build-base /home/misys/forza_ws/race_stack/build/lap_analyser/build install --record /home/misys/forza_ws/race_stack/build/lap_analyser/install.log --single-version-externally-managed install_data

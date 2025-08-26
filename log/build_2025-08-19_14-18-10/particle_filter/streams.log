@@ -1,0 +1,21 @@
+[2.570s] Invoking command in '/home/misys/forza_ws/race_stack/particle_filter': PYTHONPATH=/home/misys/forza_ws/race_stack/build/particle_filter/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/misys/forza_ws/race_stack/install/particle_filter/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/particle_filter build --build-base /home/misys/forza_ws/race_stack/build/particle_filter/build install --record /home/misys/forza_ws/race_stack/build/particle_filter/install.log --single-version-externally-managed install_data
+[3.503s] running egg_info
+[3.506s] writing ../build/particle_filter/particle_filter.egg-info/PKG-INFO
+[3.507s] writing dependency_links to ../build/particle_filter/particle_filter.egg-info/dependency_links.txt
+[3.508s] writing entry points to ../build/particle_filter/particle_filter.egg-info/entry_points.txt
+[3.509s] writing requirements to ../build/particle_filter/particle_filter.egg-info/requires.txt
+[3.510s] writing top-level names to ../build/particle_filter/particle_filter.egg-info/top_level.txt
+[3.526s] reading manifest file '../build/particle_filter/particle_filter.egg-info/SOURCES.txt'
+[3.528s] writing manifest file '../build/particle_filter/particle_filter.egg-info/SOURCES.txt'
+[3.536s] running build
+[3.536s] running build_py
+[3.537s] running install
+[3.539s] running install_lib
+[3.548s] running install_data
+[3.550s] running install_egg_info
+[3.559s] removing '/home/misys/forza_ws/race_stack/install/particle_filter/lib/python3.10/site-packages/particle_filter-0.2.0-py3.10.egg-info' (and everything under it)
+[3.561s] Copying ../build/particle_filter/particle_filter.egg-info to /home/misys/forza_ws/race_stack/install/particle_filter/lib/python3.10/site-packages/particle_filter-0.2.0-py3.10.egg-info
+[3.565s] running install_scripts
+[3.623s] Installing particle_filter script to /home/misys/forza_ws/race_stack/install/particle_filter/lib/particle_filter
+[3.625s] writing list of installed files to '/home/misys/forza_ws/race_stack/build/particle_filter/install.log'
+[3.740s] Invoked command in '/home/misys/forza_ws/race_stack/particle_filter' returned '0': PYTHONPATH=/home/misys/forza_ws/race_stack/build/particle_filter/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/misys/forza_ws/race_stack/install/particle_filter/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/particle_filter build --build-base /home/misys/forza_ws/race_stack/build/particle_filter/build install --record /home/misys/forza_ws/race_stack/build/particle_filter/install.log --single-version-externally-managed install_data

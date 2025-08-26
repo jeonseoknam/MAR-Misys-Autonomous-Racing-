@@ -1,0 +1,32 @@
+Laps done on 30 Jul 15:38:12
+Lap #1: 5.2920
+Lap #2: 5.2569
+Lap #3: 5.2466
+Lap #4: 5.2543
+Lap #5: 5.2587
+Lap #6: 5.2567
+Lap #7: 5.2471
+Lap #8: 5.2678
+Lap #9: 5.2593
+Lap #10: 5.2790
+Lap time over the past 10 laps: Mean: 5.2618, Std: 0.0134
+Avg Lat Error over the past 10 laps: Mean: 0.1012, Std: 0.1271
+Max Lat Error over the past 10 laps: Mean: 0.2237, Std: 0.1923
+Lap #11: 5.2700
+Lap #12: 5.2555
+Lap #13: 5.2556
+Lap #14: 5.2791
+Lap #15: 5.2571
+Lap #16: 5.2477
+Lap #17: 5.2672
+Lap #18: 5.2566
+Lap #19: 5.2558
+Lap #20: 5.2580
+Lap time over the past 10 laps: Mean: 5.2603, Std: 0.0087
+Avg Lat Error over the past 10 laps: Mean: 0.0581, Std: 0.0016
+Max Lat Error over the past 10 laps: Mean: 0.1594, Std: 0.0047
+Lap #21: 5.2575
+Lap #22: 5.2692
+Lap #23: 5.2871
+Lap #24: 5.2573
+Lap #25: 5.2664

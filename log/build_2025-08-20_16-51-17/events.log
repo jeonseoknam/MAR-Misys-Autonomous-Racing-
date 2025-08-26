@@ -1,0 +1,50 @@
+[0.000000] (-) TimerEvent: {}
+[0.000397] (-) JobUnselected: {'identifier': 'ackermann_mux'}
+[0.001235] (-) JobUnselected: {'identifier': 'controller'}
+[0.001569] (-) JobUnselected: {'identifier': 'f110_gym'}
+[0.001965] (-) JobUnselected: {'identifier': 'f110_msgs'}
+[0.002064] (-) JobUnselected: {'identifier': 'f1tenth_gym_ros'}
+[0.002110] (-) JobUnselected: {'identifier': 'f1tenth_stack'}
+[0.002149] (-) JobUnselected: {'identifier': 'frenet_conversion'}
+[0.002227] (-) JobUnselected: {'identifier': 'frenet_odom_republisher'}
+[0.002280] (-) JobUnselected: {'identifier': 'global_planner'}
+[0.002312] (-) JobUnselected: {'identifier': 'id_controller'}
+[0.002341] (-) JobUnselected: {'identifier': 'joy_teleop'}
+[0.002369] (-) JobUnselected: {'identifier': 'key_teleop'}
+[0.002397] (-) JobUnselected: {'identifier': 'lap_analyser'}
+[0.002449] (-) JobUnselected: {'identifier': 'map_editor'}
+[0.002477] (-) JobUnselected: {'identifier': 'mouse_teleop'}
+[0.002512] (-) JobUnselected: {'identifier': 'opponent_publisher'}
+[0.002550] (-) JobUnselected: {'identifier': 'particle_filter'}
+[0.002861] (-) JobUnselected: {'identifier': 'perception'}
+[0.003337] (-) JobUnselected: {'identifier': 'sector_tuner'}
+[0.003448] (-) JobUnselected: {'identifier': 'slam_toolbox'}
+[0.003647] (-) JobUnselected: {'identifier': 'slam_tuner'}
+[0.004224] (-) JobUnselected: {'identifier': 'spline_planner'}
+[0.004403] (-) JobUnselected: {'identifier': 'state_estimation'}
+[0.004459] (-) JobUnselected: {'identifier': 'state_machine'}
+[0.004504] (-) JobUnselected: {'identifier': 'steering_lookup'}
+[0.004551] (-) JobUnselected: {'identifier': 'teleop_tools'}
+[0.004592] (-) JobUnselected: {'identifier': 'teleop_tools_msgs'}
+[0.004625] (-) JobUnselected: {'identifier': 'urg_node2'}
+[0.004657] (-) JobUnselected: {'identifier': 'vesc'}
+[0.004688] (-) JobUnselected: {'identifier': 'vesc_ackermann'}
+[0.004719] (-) JobUnselected: {'identifier': 'vesc_driver'}
+[0.004757] (-) JobUnselected: {'identifier': 'vesc_msgs'}
+[0.005120] (stack_master) JobQueued: {'identifier': 'stack_master', 'dependencies': OrderedDict()}
+[0.005225] (stack_master) JobStarted: {'identifier': 'stack_master'}
+[0.099115] (-) TimerEvent: {}
+[0.199474] (-) TimerEvent: {}
+[0.299849] (-) TimerEvent: {}
+[0.400244] (-) TimerEvent: {}
+[0.500672] (-) TimerEvent: {}
+[0.601488] (-) TimerEvent: {}
+[0.702089] (-) TimerEvent: {}
+[0.802426] (-) TimerEvent: {}
+[0.903352] (-) TimerEvent: {}
+[1.003735] (-) TimerEvent: {}
+[1.104109] (-) TimerEvent: {}
+[1.204560] (-) TimerEvent: {}
+[1.253460] (stack_master) StderrLine: {'line': b'Traceback (most recent call last):\n  File "/usr/lib/python3/dist-packages/colcon_parallel_executor/executor/parallel.py", line 75, in execute\n    loop.run_until_complete(future)\n  File "/usr/lib/python3.10/asyncio/base_events.py", line 636, in run_until_complete\n    self.run_forever()\n  File "/usr/lib/python3.10/asyncio/base_events.py", line 603, in run_forever\n    self._run_once()\n  File "/usr/lib/python3.10/asyncio/base_events.py", line 1871, in _run_once\n    event_list = self._selector.select(timeout)\n  File "/usr/lib/python3.10/selectors.py", line 469, in select\n    fd_event_list = self._selector.poll(timeout, max_ev)\nKeyboardInterrupt\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File "/usr/lib/python3/dist-packages/colcon_core/executor/__init__.py", line 91, in __call__\n    rc = await self.task(*args, **kwargs)\n  File "/usr/lib/python3/dist-packages/colcon_core/task/__init__.py", line 93, in __call__\n    return await task_method(*args, **kwargs)\n  File "/usr/lib/python3/dist-packages/colcon_ros/task/ament_python/build.py", line 102, in build\n    return await extension.build(additional_hooks=additional_hooks)\n  File "/usr/lib/python3/dist-packages/colcon_core/task/python/build.py", line 96, in build\n    available_commands = await self._get_available_commands(\n  File "/usr/lib/python3/dist-packages/colcon_core/task/python/build.py", line 194, in _get_available_commands\n    output = await check_output(\n  File "/usr/lib/python3/dist-packages/colcon_core/subprocess.py", line 129, in check_output\n    assert not rc, f\'Expected {args} to pass: {stderr_data}\'\nAssertionError: Expected [\'/usr/bin/python3\', \'-W\', \'ignore:setup.py install is deprecated\', \'-W\', \'ignore:easy_install command is deprecated\', \'setup.py\', \'--help-commands\'] to pass: Traceback (most recent call last):\n  File "/home/misys/forza_ws/race_stack/stack_master/setup.py", line 1, in <module>\n    from setuptools import setup\n  File "/home/misys/.local/lib/python3.10/site-packages/setuptools/__init__.py", line 16, in <module>\n    import setuptools.version\n  File "/home/misys/.local/lib/python3.10/site-packages/setuptools/version.py", line 1, in <module>\n    import pkg_resources\n  File "/home/misys/.local/lib/python3.10/site-packages/pkg_resources/__init__.py", line 3243, in <module>\n    def _initialize_master_working_set():\n  File "/home/misys/.local/lib/python3.10/site-packages/pkg_resources/__init__.py", line 3226, in _call_aside\n    f(*args, **kwargs)\n  File "/home/misys/.local/lib/python3.10/site-packages/pkg_resources/__init__.py", line 3255, in _initialize_master_working_set\n    working_set = WorkingSet._build_master()\n  File "/home/misys/.local/lib/python3.10/site-packages/pkg_resources/__init__.py", line 559, in _build_master\n    ws = cls()\n  File "/home/misys/.local/lib/python3.10/site-packages/pkg_resources/__init__.py", line 552, in __init__\n    self.add_entry(entry)\n  File "/home/misys/.local/lib/python3.10/site-packages/pkg_resources/__init__.py", line 608, in add_entry\n    for dist in find_distributions(entry, True):\n  File "/home/misys/.local/lib/python3.10/site-packages/pkg_resources/__init__.py", line 2063, in find_on_path\n    for dist in factory(fullpath):\n  File "/home/misys/.local/lib/python3.10/site-packages/pkg_resources/__init__.py", line 2128, in distributions_from_metadata\n    yield Distribution.from_location(\n  File "/home/misys/.local/lib/python3.10/site-packages/pkg_resources/__init__.py", line 2588, in from_location\n    return cls(\n  File "/home/misys/.local/lib/python3.10/site-packages/pkg_resources/__init__.py", line 2563, in __init__\n    def __init__(\nKeyboardInterrupt\n\n'}
+[1.259830] (stack_master) JobEnded: {'identifier': 'stack_master', 'rc': 'SIGINT'}
+[1.262507] (-) EventReactorShutdown: {}

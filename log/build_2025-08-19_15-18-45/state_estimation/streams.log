@@ -1,0 +1,22 @@
+[5.985s] Invoking command in '/home/misys/forza_ws/race_stack/state_estimation': PYTHONPATH=/home/misys/forza_ws/race_stack/build/state_estimation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/misys/forza_ws/race_stack/install/state_estimation/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/state_estimation build --build-base /home/misys/forza_ws/race_stack/build/state_estimation/build install --record /home/misys/forza_ws/race_stack/build/state_estimation/install.log --single-version-externally-managed install_data
+[7.065s] running egg_info
+[7.066s] writing ../build/state_estimation/state_estimation.egg-info/PKG-INFO
+[7.067s] writing dependency_links to ../build/state_estimation/state_estimation.egg-info/dependency_links.txt
+[7.068s] writing entry points to ../build/state_estimation/state_estimation.egg-info/entry_points.txt
+[7.068s] writing requirements to ../build/state_estimation/state_estimation.egg-info/requires.txt
+[7.069s] writing top-level names to ../build/state_estimation/state_estimation.egg-info/top_level.txt
+[7.074s] reading manifest file '../build/state_estimation/state_estimation.egg-info/SOURCES.txt'
+[7.076s] adding license file 'LICENSE'
+[7.077s] writing manifest file '../build/state_estimation/state_estimation.egg-info/SOURCES.txt'
+[7.077s] running build
+[7.078s] running build_py
+[7.078s] running install
+[7.078s] running install_lib
+[7.081s] running install_data
+[7.081s] running install_egg_info
+[7.086s] removing '/home/misys/forza_ws/race_stack/install/state_estimation/lib/python3.10/site-packages/state_estimation-0.0.0-py3.10.egg-info' (and everything under it)
+[7.087s] Copying ../build/state_estimation/state_estimation.egg-info to /home/misys/forza_ws/race_stack/install/state_estimation/lib/python3.10/site-packages/state_estimation-0.0.0-py3.10.egg-info
+[7.090s] running install_scripts
+[7.142s] Installing carstate_node script to /home/misys/forza_ws/race_stack/install/state_estimation/lib/state_estimation
+[7.142s] writing list of installed files to '/home/misys/forza_ws/race_stack/build/state_estimation/install.log'
+[8.350s] Invoked command in '/home/misys/forza_ws/race_stack/state_estimation' returned '0': PYTHONPATH=/home/misys/forza_ws/race_stack/build/state_estimation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/misys/forza_ws/race_stack/install/state_estimation/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/state_estimation build --build-base /home/misys/forza_ws/race_stack/build/state_estimation/build install --record /home/misys/forza_ws/race_stack/build/state_estimation/install.log --single-version-externally-managed install_data

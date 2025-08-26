@@ -1,0 +1,21 @@
+[4.426s] Invoking command in '/home/misys/forza_ws/race_stack/utilities/libraries/frenet_conversion': PYTHONPATH=/home/misys/forza_ws/race_stack/build/frenet_conversion/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/misys/forza_ws/race_stack/install/frenet_conversion/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/frenet_conversion build --build-base /home/misys/forza_ws/race_stack/build/frenet_conversion/build install --record /home/misys/forza_ws/race_stack/build/frenet_conversion/install.log --single-version-externally-managed install_data
+[5.242s] running egg_info
+[5.245s] writing ../../../build/frenet_conversion/frenet_conversion.egg-info/PKG-INFO
+[5.246s] writing dependency_links to ../../../build/frenet_conversion/frenet_conversion.egg-info/dependency_links.txt
+[5.247s] writing entry points to ../../../build/frenet_conversion/frenet_conversion.egg-info/entry_points.txt
+[5.248s] writing requirements to ../../../build/frenet_conversion/frenet_conversion.egg-info/requires.txt
+[5.248s] writing top-level names to ../../../build/frenet_conversion/frenet_conversion.egg-info/top_level.txt
+[5.254s] reading manifest file '../../../build/frenet_conversion/frenet_conversion.egg-info/SOURCES.txt'
+[5.257s] writing manifest file '../../../build/frenet_conversion/frenet_conversion.egg-info/SOURCES.txt'
+[5.258s] running build
+[5.258s] running build_py
+[5.259s] running install
+[5.260s] running install_lib
+[5.265s] running install_data
+[5.266s] running install_egg_info
+[5.271s] removing '/home/misys/forza_ws/race_stack/install/frenet_conversion/lib/python3.10/site-packages/frenet_conversion-0.0.0-py3.10.egg-info' (and everything under it)
+[5.273s] Copying ../../../build/frenet_conversion/frenet_conversion.egg-info to /home/misys/forza_ws/race_stack/install/frenet_conversion/lib/python3.10/site-packages/frenet_conversion-0.0.0-py3.10.egg-info
+[5.276s] running install_scripts
+[5.333s] Installing frenet_converter_demo script to /home/misys/forza_ws/race_stack/install/frenet_conversion/lib/frenet_conversion
+[5.335s] writing list of installed files to '/home/misys/forza_ws/race_stack/build/frenet_conversion/install.log'
+[5.760s] Invoked command in '/home/misys/forza_ws/race_stack/utilities/libraries/frenet_conversion' returned '0': PYTHONPATH=/home/misys/forza_ws/race_stack/build/frenet_conversion/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/misys/forza_ws/race_stack/install/frenet_conversion/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/frenet_conversion build --build-base /home/misys/forza_ws/race_stack/build/frenet_conversion/build install --record /home/misys/forza_ws/race_stack/build/frenet_conversion/install.log --single-version-externally-managed install_data

@@ -1,0 +1,149 @@
+[0.085s] Invoking command in '/home/misys/forza_ws/race_stack/build/teleop_tools_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/misys/forza_ws/race_stack/install/f1tenth_stack:/home/misys/forza_ws/race_stack/install/joy_teleop:/home/misys/forza_ws/race_stack/install/steering_lookup:/home/misys/forza_ws/race_stack/install/state_machine:/home/misys/forza_ws/race_stack/install/slam_tuner:/home/misys/forza_ws/race_stack/install/state_estimation:/home/misys/forza_ws/race_stack/install/map_editor:/home/misys/forza_ws/race_stack/install/stack_master:/home/misys/forza_ws/race_stack/install/spline_planner:/home/misys/forza_ws/race_stack/install/sector_tuner:/home/misys/forza_ws/race_stack/install/perception:/home/misys/forza_ws/race_stack/install/particle_filter:/home/misys/forza_ws/race_stack/install/opponent_publisher:/home/misys/forza_ws/race_stack/install/mouse_teleop:/home/misys/forza_ws/race_stack/install/lap_analyser:/home/misys/forza_ws/race_stack/install/key_teleop:/home/misys/forza_ws/race_stack/install/id_controller:/home/misys/forza_ws/race_stack/install/global_planner:/home/misys/forza_ws/race_stack/install/frenet_odom_republisher:/home/misys/forza_ws/race_stack/install/frenet_conversion:/home/misys/forza_ws/race_stack/install/f1tenth_gym_ros:/home/misys/forza_ws/race_stack/install/controller:/opt/ros/humble /usr/bin/cmake --build /home/misys/forza_ws/race_stack/build/teleop_tools_msgs -- -j6 -l6
+[1.116s] [  3%] Built target teleop_tools_msgs__cpp
+[1.116s] [  3%] Built target ament_cmake_python_copy_teleop_tools_msgs
+[1.116s] [ 12%] Built target teleop_tools_msgs__rosidl_generator_c
+[1.117s] [ 22%] Built target teleop_tools_msgs__rosidl_typesupport_introspection_cpp
+[1.117s] [ 32%] Built target teleop_tools_msgs__rosidl_typesupport_fastrtps_cpp
+[1.117s] [ 41%] Built target teleop_tools_msgs__rosidl_typesupport_cpp
+[1.117s] [ 51%] Built target teleop_tools_msgs__rosidl_typesupport_fastrtps_c
+[1.117s] [ 61%] Built target teleop_tools_msgs__rosidl_typesupport_introspection_c
+[1.117s] [ 70%] Built target teleop_tools_msgs__rosidl_typesupport_c
+[1.117s] [ 70%] Built target teleop_tools_msgs
+[1.150s] [ 74%] Built target teleop_tools_msgs__py
+[1.313s] [ 80%] Built target teleop_tools_msgs__rosidl_generator_py
+[1.524s] [ 87%] Built target teleop_tools_msgs__rosidl_typesupport_introspection_c__pyext
+[1.564s] [ 93%] Built target teleop_tools_msgs__rosidl_typesupport_c__pyext
+[1.575s] [100%] Built target teleop_tools_msgs__rosidl_typesupport_fastrtps_c__pyext
+[1.913s] running egg_info
+[1.914s] writing teleop_tools_msgs.egg-info/PKG-INFO
+[1.915s] writing dependency_links to teleop_tools_msgs.egg-info/dependency_links.txt
+[1.915s] writing top-level names to teleop_tools_msgs.egg-info/top_level.txt
+[1.921s] reading manifest file 'teleop_tools_msgs.egg-info/SOURCES.txt'
+[1.923s] writing manifest file 'teleop_tools_msgs.egg-info/SOURCES.txt'
+[2.351s] [100%] Built target ament_cmake_python_build_teleop_tools_msgs_egg
+[2.933s] Invoked command in '/home/misys/forza_ws/race_stack/build/teleop_tools_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/misys/forza_ws/race_stack/install/f1tenth_stack:/home/misys/forza_ws/race_stack/install/joy_teleop:/home/misys/forza_ws/race_stack/install/steering_lookup:/home/misys/forza_ws/race_stack/install/state_machine:/home/misys/forza_ws/race_stack/install/slam_tuner:/home/misys/forza_ws/race_stack/install/state_estimation:/home/misys/forza_ws/race_stack/install/map_editor:/home/misys/forza_ws/race_stack/install/stack_master:/home/misys/forza_ws/race_stack/install/spline_planner:/home/misys/forza_ws/race_stack/install/sector_tuner:/home/misys/forza_ws/race_stack/install/perception:/home/misys/forza_ws/race_stack/install/particle_filter:/home/misys/forza_ws/race_stack/install/opponent_publisher:/home/misys/forza_ws/race_stack/install/mouse_teleop:/home/misys/forza_ws/race_stack/install/lap_analyser:/home/misys/forza_ws/race_stack/install/key_teleop:/home/misys/forza_ws/race_stack/install/id_controller:/home/misys/forza_ws/race_stack/install/global_planner:/home/misys/forza_ws/race_stack/install/frenet_odom_republisher:/home/misys/forza_ws/race_stack/install/frenet_conversion:/home/misys/forza_ws/race_stack/install/f1tenth_gym_ros:/home/misys/forza_ws/race_stack/install/controller:/opt/ros/humble /usr/bin/cmake --build /home/misys/forza_ws/race_stack/build/teleop_tools_msgs -- -j6 -l6
+[2.957s] Invoking command in '/home/misys/forza_ws/race_stack/build/teleop_tools_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/misys/forza_ws/race_stack/install/f1tenth_stack:/home/misys/forza_ws/race_stack/install/joy_teleop:/home/misys/forza_ws/race_stack/install/steering_lookup:/home/misys/forza_ws/race_stack/install/state_machine:/home/misys/forza_ws/race_stack/install/slam_tuner:/home/misys/forza_ws/race_stack/install/state_estimation:/home/misys/forza_ws/race_stack/install/map_editor:/home/misys/forza_ws/race_stack/install/stack_master:/home/misys/forza_ws/race_stack/install/spline_planner:/home/misys/forza_ws/race_stack/install/sector_tuner:/home/misys/forza_ws/race_stack/install/perception:/home/misys/forza_ws/race_stack/install/particle_filter:/home/misys/forza_ws/race_stack/install/opponent_publisher:/home/misys/forza_ws/race_stack/install/mouse_teleop:/home/misys/forza_ws/race_stack/install/lap_analyser:/home/misys/forza_ws/race_stack/install/key_teleop:/home/misys/forza_ws/race_stack/install/id_controller:/home/misys/forza_ws/race_stack/install/global_planner:/home/misys/forza_ws/race_stack/install/frenet_odom_republisher:/home/misys/forza_ws/race_stack/install/frenet_conversion:/home/misys/forza_ws/race_stack/install/f1tenth_gym_ros:/home/misys/forza_ws/race_stack/install/controller:/opt/ros/humble /usr/bin/cmake --install /home/misys/forza_ws/race_stack/build/teleop_tools_msgs
+[3.104s] -- Install configuration: ""
+[3.104s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/share/ament_index/resource_index/rosidl_interfaces/teleop_tools_msgs
+[3.104s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/include/teleop_tools_msgs/teleop_tools_msgs
+[3.104s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/include/teleop_tools_msgs/teleop_tools_msgs/action
+[3.104s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/include/teleop_tools_msgs/teleop_tools_msgs/action/detail
+[3.104s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/include/teleop_tools_msgs/teleop_tools_msgs/action/detail/increment__struct.h
+[3.105s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/include/teleop_tools_msgs/teleop_tools_msgs/action/detail/increment__type_support.h
+[3.105s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/include/teleop_tools_msgs/teleop_tools_msgs/action/detail/increment__functions.h
+[3.105s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/include/teleop_tools_msgs/teleop_tools_msgs/action/detail/increment__functions.c
+[3.105s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/include/teleop_tools_msgs/teleop_tools_msgs/action/increment.h
+[3.105s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/include/teleop_tools_msgs/teleop_tools_msgs/msg
+[3.105s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/include/teleop_tools_msgs/teleop_tools_msgs/msg/rosidl_generator_c__visibility_control.h
+[3.105s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/share/teleop_tools_msgs/environment/library_path.sh
+[3.106s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/share/teleop_tools_msgs/environment/library_path.dsv
+[3.106s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/lib/libteleop_tools_msgs__rosidl_generator_c.so
+[3.111s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/include/teleop_tools_msgs/teleop_tools_msgs
+[3.112s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/include/teleop_tools_msgs/teleop_tools_msgs/action
+[3.120s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/include/teleop_tools_msgs/teleop_tools_msgs/action/detail
+[3.121s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/include/teleop_tools_msgs/teleop_tools_msgs/action/detail/increment__rosidl_typesupport_fastrtps_c.h
+[3.127s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/include/teleop_tools_msgs/teleop_tools_msgs/msg
+[3.127s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/include/teleop_tools_msgs/teleop_tools_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[3.133s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/lib/libteleop_tools_msgs__rosidl_typesupport_fastrtps_c.so
+[3.133s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/include/teleop_tools_msgs/teleop_tools_msgs
+[3.134s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/include/teleop_tools_msgs/teleop_tools_msgs/action
+[3.134s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/include/teleop_tools_msgs/teleop_tools_msgs/action/detail
+[3.134s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/include/teleop_tools_msgs/teleop_tools_msgs/action/detail/increment__rosidl_typesupport_introspection_c.h
+[3.136s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/include/teleop_tools_msgs/teleop_tools_msgs/action/detail/increment__type_support.c
+[3.136s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/include/teleop_tools_msgs/teleop_tools_msgs/msg
+[3.136s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/include/teleop_tools_msgs/teleop_tools_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[3.155s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/lib/libteleop_tools_msgs__rosidl_typesupport_introspection_c.so
+[3.168s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/lib/libteleop_tools_msgs__rosidl_typesupport_c.so
+[3.168s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/include/teleop_tools_msgs/teleop_tools_msgs
+[3.169s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/include/teleop_tools_msgs/teleop_tools_msgs/action
+[3.169s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/include/teleop_tools_msgs/teleop_tools_msgs/action/detail
+[3.170s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/include/teleop_tools_msgs/teleop_tools_msgs/action/detail/increment__builder.hpp
+[3.170s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/include/teleop_tools_msgs/teleop_tools_msgs/action/detail/increment__traits.hpp
+[3.170s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/include/teleop_tools_msgs/teleop_tools_msgs/action/detail/increment__struct.hpp
+[3.170s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/include/teleop_tools_msgs/teleop_tools_msgs/action/detail/increment__type_support.hpp
+[3.170s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/include/teleop_tools_msgs/teleop_tools_msgs/action/increment.hpp
+[3.170s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/include/teleop_tools_msgs/teleop_tools_msgs/msg
+[3.171s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/include/teleop_tools_msgs/teleop_tools_msgs/msg/rosidl_generator_cpp__visibility_control.hpp
+[3.171s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/include/teleop_tools_msgs/teleop_tools_msgs
+[3.171s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/include/teleop_tools_msgs/teleop_tools_msgs/action
+[3.172s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/include/teleop_tools_msgs/teleop_tools_msgs/action/detail
+[3.172s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/include/teleop_tools_msgs/teleop_tools_msgs/action/detail/increment__rosidl_typesupport_fastrtps_cpp.hpp
+[3.172s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/include/teleop_tools_msgs/teleop_tools_msgs/action/detail/dds_fastrtps
+[3.172s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/include/teleop_tools_msgs/teleop_tools_msgs/msg
+[3.172s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/include/teleop_tools_msgs/teleop_tools_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[3.208s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/lib/libteleop_tools_msgs__rosidl_typesupport_fastrtps_cpp.so
+[3.208s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/include/teleop_tools_msgs/teleop_tools_msgs
+[3.208s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/include/teleop_tools_msgs/teleop_tools_msgs/action
+[3.208s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/include/teleop_tools_msgs/teleop_tools_msgs/action/detail
+[3.208s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/include/teleop_tools_msgs/teleop_tools_msgs/action/detail/increment__type_support.cpp
+[3.208s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/include/teleop_tools_msgs/teleop_tools_msgs/action/detail/increment__rosidl_typesupport_introspection_cpp.hpp
+[3.245s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/lib/libteleop_tools_msgs__rosidl_typesupport_introspection_cpp.so
+[3.246s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/lib/libteleop_tools_msgs__rosidl_typesupport_cpp.so
+[3.249s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/share/teleop_tools_msgs/environment/pythonpath.sh
+[3.249s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/share/teleop_tools_msgs/environment/pythonpath.dsv
+[3.250s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/local/lib/python3.10/dist-packages/teleop_tools_msgs-1.5.0-py3.10.egg-info
+[3.250s] -- Installing: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/local/lib/python3.10/dist-packages/teleop_tools_msgs-1.5.0-py3.10.egg-info/dependency_links.txt
+[3.250s] -- Installing: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/local/lib/python3.10/dist-packages/teleop_tools_msgs-1.5.0-py3.10.egg-info/PKG-INFO
+[3.254s] -- Installing: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/local/lib/python3.10/dist-packages/teleop_tools_msgs-1.5.0-py3.10.egg-info/top_level.txt
+[3.254s] -- Installing: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/local/lib/python3.10/dist-packages/teleop_tools_msgs-1.5.0-py3.10.egg-info/SOURCES.txt
+[3.254s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/local/lib/python3.10/dist-packages/teleop_tools_msgs
+[3.255s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/local/lib/python3.10/dist-packages/teleop_tools_msgs/_teleop_tools_msgs_s.ep.rosidl_typesupport_c.c
+[3.255s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/local/lib/python3.10/dist-packages/teleop_tools_msgs/teleop_tools_msgs_s__rosidl_typesupport_introspection_c.cpython-310-aarch64-linux-gnu.so
+[3.255s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/local/lib/python3.10/dist-packages/teleop_tools_msgs/teleop_tools_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-aarch64-linux-gnu.so
+[3.255s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/local/lib/python3.10/dist-packages/teleop_tools_msgs/libteleop_tools_msgs__rosidl_generator_py.so
+[3.255s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/local/lib/python3.10/dist-packages/teleop_tools_msgs/_teleop_tools_msgs_s.ep.rosidl_typesupport_introspection_c.c
+[3.255s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/local/lib/python3.10/dist-packages/teleop_tools_msgs/_teleop_tools_msgs_s.ep.rosidl_typesupport_fastrtps_c.c
+[3.255s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/local/lib/python3.10/dist-packages/teleop_tools_msgs/action
+[3.256s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/local/lib/python3.10/dist-packages/teleop_tools_msgs/action/_increment.py
+[3.256s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/local/lib/python3.10/dist-packages/teleop_tools_msgs/action/_increment_s.c
+[3.256s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/local/lib/python3.10/dist-packages/teleop_tools_msgs/action/__init__.py
+[3.256s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/local/lib/python3.10/dist-packages/teleop_tools_msgs/__init__.py
+[3.256s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/local/lib/python3.10/dist-packages/teleop_tools_msgs/teleop_tools_msgs_s__rosidl_typesupport_c.cpython-310-aarch64-linux-gnu.so
+[3.832s] Listing '/home/misys/forza_ws/race_stack/install/teleop_tools_msgs/local/lib/python3.10/dist-packages/teleop_tools_msgs'...
+[3.833s] Listing '/home/misys/forza_ws/race_stack/install/teleop_tools_msgs/local/lib/python3.10/dist-packages/teleop_tools_msgs/action'...
+[3.885s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/local/lib/python3.10/dist-packages/teleop_tools_msgs/teleop_tools_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-aarch64-linux-gnu.so
+[3.896s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/local/lib/python3.10/dist-packages/teleop_tools_msgs/teleop_tools_msgs_s__rosidl_typesupport_introspection_c.cpython-310-aarch64-linux-gnu.so
+[3.896s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/local/lib/python3.10/dist-packages/teleop_tools_msgs/teleop_tools_msgs_s__rosidl_typesupport_c.cpython-310-aarch64-linux-gnu.so
+[3.896s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/lib/libteleop_tools_msgs__rosidl_generator_py.so
+[3.904s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/share/teleop_tools_msgs/action/Increment.idl
+[3.904s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/share/teleop_tools_msgs/action/Increment.action
+[3.905s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/share/ament_index/resource_index/package_run_dependencies/teleop_tools_msgs
+[3.905s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/share/ament_index/resource_index/parent_prefix_path/teleop_tools_msgs
+[3.905s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/share/teleop_tools_msgs/environment/ament_prefix_path.sh
+[3.905s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/share/teleop_tools_msgs/environment/ament_prefix_path.dsv
+[3.905s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/share/teleop_tools_msgs/environment/path.sh
+[3.905s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/share/teleop_tools_msgs/environment/path.dsv
+[3.905s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/share/teleop_tools_msgs/local_setup.bash
+[3.905s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/share/teleop_tools_msgs/local_setup.sh
+[3.905s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/share/teleop_tools_msgs/local_setup.zsh
+[3.906s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/share/teleop_tools_msgs/local_setup.dsv
+[3.906s] -- Installing: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/share/teleop_tools_msgs/package.dsv
+[3.906s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/share/ament_index/resource_index/packages/teleop_tools_msgs
+[3.906s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/share/teleop_tools_msgs/cmake/export_teleop_tools_msgs__rosidl_generator_cExport.cmake
+[3.906s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/share/teleop_tools_msgs/cmake/export_teleop_tools_msgs__rosidl_generator_cExport-noconfig.cmake
+[3.906s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/share/teleop_tools_msgs/cmake/export_teleop_tools_msgs__rosidl_typesupport_fastrtps_cExport.cmake
+[3.907s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/share/teleop_tools_msgs/cmake/export_teleop_tools_msgs__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[3.907s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/share/teleop_tools_msgs/cmake/teleop_tools_msgs__rosidl_typesupport_introspection_cExport.cmake
+[3.907s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/share/teleop_tools_msgs/cmake/teleop_tools_msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[3.907s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/share/teleop_tools_msgs/cmake/teleop_tools_msgs__rosidl_typesupport_cExport.cmake
+[3.907s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/share/teleop_tools_msgs/cmake/teleop_tools_msgs__rosidl_typesupport_cExport-noconfig.cmake
+[3.907s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/share/teleop_tools_msgs/cmake/export_teleop_tools_msgs__rosidl_generator_cppExport.cmake
+[3.908s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/share/teleop_tools_msgs/cmake/export_teleop_tools_msgs__rosidl_typesupport_fastrtps_cppExport.cmake
+[3.909s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/share/teleop_tools_msgs/cmake/export_teleop_tools_msgs__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[3.911s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/share/teleop_tools_msgs/cmake/teleop_tools_msgs__rosidl_typesupport_introspection_cppExport.cmake
+[3.911s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/share/teleop_tools_msgs/cmake/teleop_tools_msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[3.912s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/share/teleop_tools_msgs/cmake/teleop_tools_msgs__rosidl_typesupport_cppExport.cmake
+[3.912s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/share/teleop_tools_msgs/cmake/teleop_tools_msgs__rosidl_typesupport_cppExport-noconfig.cmake
+[3.913s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/share/teleop_tools_msgs/cmake/export_teleop_tools_msgs__rosidl_generator_pyExport.cmake
+[3.913s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/share/teleop_tools_msgs/cmake/export_teleop_tools_msgs__rosidl_generator_pyExport-noconfig.cmake
+[3.914s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/share/teleop_tools_msgs/cmake/rosidl_cmake-extras.cmake
+[3.914s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/share/teleop_tools_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[3.914s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/share/teleop_tools_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[3.914s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/share/teleop_tools_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[3.914s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/share/teleop_tools_msgs/cmake/ament_cmake_export_targets-extras.cmake
+[3.918s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/share/teleop_tools_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[3.918s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/share/teleop_tools_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[3.922s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/share/teleop_tools_msgs/cmake/teleop_tools_msgsConfig.cmake
+[3.922s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/share/teleop_tools_msgs/cmake/teleop_tools_msgsConfig-version.cmake
+[3.922s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/teleop_tools_msgs/share/teleop_tools_msgs/package.xml
+[4.959s] Invoked command in '/home/misys/forza_ws/race_stack/build/teleop_tools_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/misys/forza_ws/race_stack/install/f1tenth_stack:/home/misys/forza_ws/race_stack/install/joy_teleop:/home/misys/forza_ws/race_stack/install/steering_lookup:/home/misys/forza_ws/race_stack/install/state_machine:/home/misys/forza_ws/race_stack/install/slam_tuner:/home/misys/forza_ws/race_stack/install/state_estimation:/home/misys/forza_ws/race_stack/install/map_editor:/home/misys/forza_ws/race_stack/install/stack_master:/home/misys/forza_ws/race_stack/install/spline_planner:/home/misys/forza_ws/race_stack/install/sector_tuner:/home/misys/forza_ws/race_stack/install/perception:/home/misys/forza_ws/race_stack/install/particle_filter:/home/misys/forza_ws/race_stack/install/opponent_publisher:/home/misys/forza_ws/race_stack/install/mouse_teleop:/home/misys/forza_ws/race_stack/install/lap_analyser:/home/misys/forza_ws/race_stack/install/key_teleop:/home/misys/forza_ws/race_stack/install/id_controller:/home/misys/forza_ws/race_stack/install/global_planner:/home/misys/forza_ws/race_stack/install/frenet_odom_republisher:/home/misys/forza_ws/race_stack/install/frenet_conversion:/home/misys/forza_ws/race_stack/install/f1tenth_gym_ros:/home/misys/forza_ws/race_stack/install/controller:/opt/ros/humble /usr/bin/cmake --install /home/misys/forza_ws/race_stack/build/teleop_tools_msgs

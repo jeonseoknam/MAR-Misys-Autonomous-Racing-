@@ -1,0 +1,204 @@
+[0.092s] Invoking command in '/home/misys/forza_ws/race_stack/build/vesc_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/misys/forza_ws/race_stack/install/f1tenth_stack:/home/misys/forza_ws/race_stack/install/joy_teleop:/home/misys/forza_ws/race_stack/install/steering_lookup:/home/misys/forza_ws/race_stack/install/state_machine:/home/misys/forza_ws/race_stack/install/slam_tuner:/home/misys/forza_ws/race_stack/install/state_estimation:/home/misys/forza_ws/race_stack/install/map_editor:/home/misys/forza_ws/race_stack/install/stack_master:/home/misys/forza_ws/race_stack/install/spline_planner:/home/misys/forza_ws/race_stack/install/sector_tuner:/home/misys/forza_ws/race_stack/install/perception:/home/misys/forza_ws/race_stack/install/particle_filter:/home/misys/forza_ws/race_stack/install/opponent_publisher:/home/misys/forza_ws/race_stack/install/mouse_teleop:/home/misys/forza_ws/race_stack/install/lap_analyser:/home/misys/forza_ws/race_stack/install/key_teleop:/home/misys/forza_ws/race_stack/install/id_controller:/home/misys/forza_ws/race_stack/install/global_planner:/home/misys/forza_ws/race_stack/install/frenet_odom_republisher:/home/misys/forza_ws/race_stack/install/frenet_conversion:/home/misys/forza_ws/race_stack/install/f1tenth_gym_ros:/home/misys/forza_ws/race_stack/install/controller:/opt/ros/humble /usr/bin/cmake --build /home/misys/forza_ws/race_stack/build/vesc_msgs -- -j6 -l6
+[1.091s] [  1%] Built target vesc_msgs__cpp
+[1.091s] [ 12%] Built target vesc_msgs__rosidl_generator_c
+[1.091s] [ 12%] Built target ament_cmake_python_copy_vesc_msgs
+[1.091s] [ 23%] Built target vesc_msgs__rosidl_typesupport_introspection_c
+[1.091s] [ 34%] Built target vesc_msgs__rosidl_typesupport_c
+[1.091s] [ 45%] Built target vesc_msgs__rosidl_typesupport_cpp
+[1.091s] [ 56%] Built target vesc_msgs__rosidl_typesupport_fastrtps_c
+[1.092s] [ 67%] Built target vesc_msgs__rosidl_typesupport_introspection_cpp
+[1.092s] [ 78%] Built target vesc_msgs__rosidl_typesupport_fastrtps_cpp
+[1.092s] [ 78%] Built target vesc_msgs
+[1.092s] [ 80%] Built target vesc_msgs__py
+[1.092s] [ 89%] Built target vesc_msgs__rosidl_generator_py
+[1.092s] [ 92%] Built target vesc_msgs__rosidl_typesupport_introspection_c__pyext
+[1.097s] [ 96%] Built target vesc_msgs__rosidl_typesupport_fastrtps_c__pyext
+[1.107s] [100%] Built target vesc_msgs__rosidl_typesupport_c__pyext
+[1.336s] running egg_info
+[1.337s] writing vesc_msgs.egg-info/PKG-INFO
+[1.338s] writing dependency_links to vesc_msgs.egg-info/dependency_links.txt
+[1.338s] writing top-level names to vesc_msgs.egg-info/top_level.txt
+[1.339s] reading manifest file 'vesc_msgs.egg-info/SOURCES.txt'
+[1.340s] writing manifest file 'vesc_msgs.egg-info/SOURCES.txt'
+[1.420s] [100%] Built target ament_cmake_python_build_vesc_msgs_egg
+[1.899s] Invoked command in '/home/misys/forza_ws/race_stack/build/vesc_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/misys/forza_ws/race_stack/install/f1tenth_stack:/home/misys/forza_ws/race_stack/install/joy_teleop:/home/misys/forza_ws/race_stack/install/steering_lookup:/home/misys/forza_ws/race_stack/install/state_machine:/home/misys/forza_ws/race_stack/install/slam_tuner:/home/misys/forza_ws/race_stack/install/state_estimation:/home/misys/forza_ws/race_stack/install/map_editor:/home/misys/forza_ws/race_stack/install/stack_master:/home/misys/forza_ws/race_stack/install/spline_planner:/home/misys/forza_ws/race_stack/install/sector_tuner:/home/misys/forza_ws/race_stack/install/perception:/home/misys/forza_ws/race_stack/install/particle_filter:/home/misys/forza_ws/race_stack/install/opponent_publisher:/home/misys/forza_ws/race_stack/install/mouse_teleop:/home/misys/forza_ws/race_stack/install/lap_analyser:/home/misys/forza_ws/race_stack/install/key_teleop:/home/misys/forza_ws/race_stack/install/id_controller:/home/misys/forza_ws/race_stack/install/global_planner:/home/misys/forza_ws/race_stack/install/frenet_odom_republisher:/home/misys/forza_ws/race_stack/install/frenet_conversion:/home/misys/forza_ws/race_stack/install/f1tenth_gym_ros:/home/misys/forza_ws/race_stack/install/controller:/opt/ros/humble /usr/bin/cmake --build /home/misys/forza_ws/race_stack/build/vesc_msgs -- -j6 -l6
+[1.903s] Invoking command in '/home/misys/forza_ws/race_stack/build/vesc_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/misys/forza_ws/race_stack/install/f1tenth_stack:/home/misys/forza_ws/race_stack/install/joy_teleop:/home/misys/forza_ws/race_stack/install/steering_lookup:/home/misys/forza_ws/race_stack/install/state_machine:/home/misys/forza_ws/race_stack/install/slam_tuner:/home/misys/forza_ws/race_stack/install/state_estimation:/home/misys/forza_ws/race_stack/install/map_editor:/home/misys/forza_ws/race_stack/install/stack_master:/home/misys/forza_ws/race_stack/install/spline_planner:/home/misys/forza_ws/race_stack/install/sector_tuner:/home/misys/forza_ws/race_stack/install/perception:/home/misys/forza_ws/race_stack/install/particle_filter:/home/misys/forza_ws/race_stack/install/opponent_publisher:/home/misys/forza_ws/race_stack/install/mouse_teleop:/home/misys/forza_ws/race_stack/install/lap_analyser:/home/misys/forza_ws/race_stack/install/key_teleop:/home/misys/forza_ws/race_stack/install/id_controller:/home/misys/forza_ws/race_stack/install/global_planner:/home/misys/forza_ws/race_stack/install/frenet_odom_republisher:/home/misys/forza_ws/race_stack/install/frenet_conversion:/home/misys/forza_ws/race_stack/install/f1tenth_gym_ros:/home/misys/forza_ws/race_stack/install/controller:/opt/ros/humble /usr/bin/cmake --install /home/misys/forza_ws/race_stack/build/vesc_msgs
+[1.937s] -- Install configuration: ""
+[1.937s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/share/ament_index/resource_index/rosidl_interfaces/vesc_msgs
+[1.937s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs
+[1.937s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg
+[1.942s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg/detail
+[1.942s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg/detail/vesc_state_stamped__functions.c
+[1.943s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg/detail/vesc_imu__functions.h
+[1.943s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg/detail/vesc_state_stamped__struct.h
+[1.943s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg/detail/vesc_state_stamped__functions.h
+[1.943s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg/detail/vesc_state_stamped__type_support.h
+[1.943s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg/detail/vesc_state__struct.h
+[1.943s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg/detail/vesc_state__functions.h
+[1.944s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg/detail/vesc_imu__functions.c
+[1.944s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg/detail/vesc_imu__type_support.h
+[1.944s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg/detail/vesc_state__type_support.h
+[1.944s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg/detail/vesc_state__functions.c
+[1.944s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg/detail/vesc_imu__struct.h
+[1.944s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg/detail/vesc_imu_stamped__struct.h
+[1.944s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg/detail/vesc_imu_stamped__functions.h
+[1.944s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg/detail/vesc_imu_stamped__type_support.h
+[1.945s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg/detail/vesc_imu_stamped__functions.c
+[1.945s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg/rosidl_generator_c__visibility_control.h
+[1.946s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg/vesc_imu_stamped.h
+[1.946s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg/vesc_state_stamped.h
+[1.946s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg/vesc_imu.h
+[1.946s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg/vesc_state.h
+[1.946s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/share/vesc_msgs/environment/library_path.sh
+[1.946s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/share/vesc_msgs/environment/library_path.dsv
+[1.946s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/lib/libvesc_msgs__rosidl_generator_c.so
+[1.946s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs
+[1.947s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg
+[1.947s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg/detail
+[1.947s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg/detail/vesc_imu_stamped__rosidl_typesupport_fastrtps_c.h
+[1.947s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg/detail/vesc_state__rosidl_typesupport_fastrtps_c.h
+[1.985s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg/detail/vesc_state_stamped__rosidl_typesupport_fastrtps_c.h
+[1.985s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg/detail/vesc_imu__rosidl_typesupport_fastrtps_c.h
+[1.985s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[1.985s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/lib/libvesc_msgs__rosidl_typesupport_fastrtps_c.so
+[1.985s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs
+[1.985s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg
+[1.986s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg/detail
+[1.986s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg/detail/vesc_imu__rosidl_typesupport_introspection_c.h
+[1.986s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg/detail/vesc_state_stamped__type_support.c
+[1.986s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg/detail/vesc_state__type_support.c
+[1.986s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg/detail/vesc_imu_stamped__type_support.c
+[1.986s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg/detail/vesc_imu__type_support.c
+[1.986s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg/detail/vesc_state_stamped__rosidl_typesupport_introspection_c.h
+[1.986s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg/detail/vesc_imu_stamped__rosidl_typesupport_introspection_c.h
+[1.986s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg/detail/vesc_state__rosidl_typesupport_introspection_c.h
+[1.987s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[1.987s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/lib/libvesc_msgs__rosidl_typesupport_introspection_c.so
+[1.987s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/lib/libvesc_msgs__rosidl_typesupport_c.so
+[1.987s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs
+[1.987s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg
+[1.987s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg/rosidl_generator_cpp__visibility_control.hpp
+[1.987s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg/detail
+[1.987s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg/detail/vesc_imu__builder.hpp
+[1.988s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg/detail/vesc_state_stamped__traits.hpp
+[1.988s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg/detail/vesc_imu__type_support.hpp
+[1.988s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg/detail/vesc_imu_stamped__struct.hpp
+[1.988s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg/detail/vesc_imu__struct.hpp
+[1.988s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg/detail/vesc_state_stamped__type_support.hpp
+[1.988s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg/detail/vesc_state_stamped__builder.hpp
+[1.988s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg/detail/vesc_imu_stamped__builder.hpp
+[1.988s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg/detail/vesc_imu_stamped__traits.hpp
+[1.989s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg/detail/vesc_state__builder.hpp
+[1.989s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg/detail/vesc_state__struct.hpp
+[1.989s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg/detail/vesc_state__type_support.hpp
+[1.989s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg/detail/vesc_imu_stamped__type_support.hpp
+[1.989s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg/detail/vesc_state__traits.hpp
+[1.989s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg/detail/vesc_imu__traits.hpp
+[1.989s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg/detail/vesc_state_stamped__struct.hpp
+[1.989s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg/vesc_imu.hpp
+[1.990s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg/vesc_imu_stamped.hpp
+[1.990s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg/vesc_state_stamped.hpp
+[1.990s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg/vesc_state.hpp
+[1.990s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs
+[1.990s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg
+[1.990s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg/detail
+[1.990s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg/detail/vesc_imu_stamped__rosidl_typesupport_fastrtps_cpp.hpp
+[1.990s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg/detail/vesc_imu__rosidl_typesupport_fastrtps_cpp.hpp
+[1.991s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg/detail/vesc_state_stamped__rosidl_typesupport_fastrtps_cpp.hpp
+[1.991s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg/detail/dds_fastrtps
+[1.991s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg/detail/vesc_state__rosidl_typesupport_fastrtps_cpp.hpp
+[1.991s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[1.991s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/lib/libvesc_msgs__rosidl_typesupport_fastrtps_cpp.so
+[1.991s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs
+[1.991s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg
+[1.991s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg/detail
+[1.992s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg/detail/vesc_imu__rosidl_typesupport_introspection_cpp.hpp
+[1.992s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg/detail/vesc_imu_stamped__type_support.cpp
+[1.992s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg/detail/vesc_imu__type_support.cpp
+[1.992s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg/detail/vesc_state_stamped__rosidl_typesupport_introspection_cpp.hpp
+[1.996s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg/detail/vesc_imu_stamped__rosidl_typesupport_introspection_cpp.hpp
+[1.996s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg/detail/vesc_state__type_support.cpp
+[1.996s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg/detail/vesc_state__rosidl_typesupport_introspection_cpp.hpp
+[1.997s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/include/vesc_msgs/vesc_msgs/msg/detail/vesc_state_stamped__type_support.cpp
+[1.997s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/lib/libvesc_msgs__rosidl_typesupport_introspection_cpp.so
+[1.997s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/lib/libvesc_msgs__rosidl_typesupport_cpp.so
+[1.997s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/share/vesc_msgs/environment/pythonpath.sh
+[2.040s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/share/vesc_msgs/environment/pythonpath.dsv
+[2.041s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/local/lib/python3.10/dist-packages/vesc_msgs-1.2.0-py3.10.egg-info
+[2.041s] -- Installing: /home/misys/forza_ws/race_stack/install/vesc_msgs/local/lib/python3.10/dist-packages/vesc_msgs-1.2.0-py3.10.egg-info/dependency_links.txt
+[2.041s] -- Installing: /home/misys/forza_ws/race_stack/install/vesc_msgs/local/lib/python3.10/dist-packages/vesc_msgs-1.2.0-py3.10.egg-info/PKG-INFO
+[2.041s] -- Installing: /home/misys/forza_ws/race_stack/install/vesc_msgs/local/lib/python3.10/dist-packages/vesc_msgs-1.2.0-py3.10.egg-info/top_level.txt
+[2.041s] -- Installing: /home/misys/forza_ws/race_stack/install/vesc_msgs/local/lib/python3.10/dist-packages/vesc_msgs-1.2.0-py3.10.egg-info/SOURCES.txt
+[2.041s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/local/lib/python3.10/dist-packages/vesc_msgs
+[2.044s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/local/lib/python3.10/dist-packages/vesc_msgs/_vesc_msgs_s.ep.rosidl_typesupport_c.c
+[2.052s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/local/lib/python3.10/dist-packages/vesc_msgs/vesc_msgs_s__rosidl_typesupport_c.cpython-310-aarch64-linux-gnu.so
+[2.052s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/local/lib/python3.10/dist-packages/vesc_msgs/vesc_msgs_s__rosidl_typesupport_introspection_c.cpython-310-aarch64-linux-gnu.so
+[2.052s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/local/lib/python3.10/dist-packages/vesc_msgs/msg
+[2.052s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/local/lib/python3.10/dist-packages/vesc_msgs/msg/_vesc_imu_stamped.py
+[2.052s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/local/lib/python3.10/dist-packages/vesc_msgs/msg/_vesc_state.py
+[2.052s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/local/lib/python3.10/dist-packages/vesc_msgs/msg/_vesc_state_stamped.py
+[2.053s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/local/lib/python3.10/dist-packages/vesc_msgs/msg/__init__.py
+[2.053s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/local/lib/python3.10/dist-packages/vesc_msgs/msg/_vesc_state_stamped_s.c
+[2.053s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/local/lib/python3.10/dist-packages/vesc_msgs/msg/_vesc_imu_s.c
+[2.053s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/local/lib/python3.10/dist-packages/vesc_msgs/msg/_vesc_imu_stamped_s.c
+[2.053s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/local/lib/python3.10/dist-packages/vesc_msgs/msg/_vesc_state_s.c
+[2.053s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/local/lib/python3.10/dist-packages/vesc_msgs/msg/_vesc_imu.py
+[2.053s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/local/lib/python3.10/dist-packages/vesc_msgs/_vesc_msgs_s.ep.rosidl_typesupport_introspection_c.c
+[2.053s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/local/lib/python3.10/dist-packages/vesc_msgs/_vesc_msgs_s.ep.rosidl_typesupport_fastrtps_c.c
+[2.054s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/local/lib/python3.10/dist-packages/vesc_msgs/__init__.py
+[2.054s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/local/lib/python3.10/dist-packages/vesc_msgs/libvesc_msgs__rosidl_generator_py.so
+[2.054s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/local/lib/python3.10/dist-packages/vesc_msgs/vesc_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-aarch64-linux-gnu.so
+[2.121s] Listing '/home/misys/forza_ws/race_stack/install/vesc_msgs/local/lib/python3.10/dist-packages/vesc_msgs'...
+[2.121s] Listing '/home/misys/forza_ws/race_stack/install/vesc_msgs/local/lib/python3.10/dist-packages/vesc_msgs/msg'...
+[2.122s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/local/lib/python3.10/dist-packages/vesc_msgs/vesc_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-aarch64-linux-gnu.so
+[2.122s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/local/lib/python3.10/dist-packages/vesc_msgs/vesc_msgs_s__rosidl_typesupport_introspection_c.cpython-310-aarch64-linux-gnu.so
+[2.122s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/local/lib/python3.10/dist-packages/vesc_msgs/vesc_msgs_s__rosidl_typesupport_c.cpython-310-aarch64-linux-gnu.so
+[2.122s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/lib/libvesc_msgs__rosidl_generator_py.so
+[2.122s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/share/vesc_msgs/msg/VescState.idl
+[2.122s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/share/vesc_msgs/msg/VescStateStamped.idl
+[2.123s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/share/vesc_msgs/msg/VescImu.idl
+[2.123s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/share/vesc_msgs/msg/VescImuStamped.idl
+[2.123s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/share/vesc_msgs/msg/VescState.msg
+[2.123s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/share/vesc_msgs/msg/VescStateStamped.msg
+[2.124s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/share/vesc_msgs/msg/VescImu.msg
+[2.124s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/share/vesc_msgs/msg/VescImuStamped.msg
+[2.125s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/share/ament_index/resource_index/package_run_dependencies/vesc_msgs
+[2.125s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/share/ament_index/resource_index/parent_prefix_path/vesc_msgs
+[2.125s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/share/vesc_msgs/environment/ament_prefix_path.sh
+[2.125s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/share/vesc_msgs/environment/ament_prefix_path.dsv
+[2.126s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/share/vesc_msgs/environment/path.sh
+[2.126s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/share/vesc_msgs/environment/path.dsv
+[2.126s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/share/vesc_msgs/local_setup.bash
+[2.126s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/share/vesc_msgs/local_setup.sh
+[2.126s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/share/vesc_msgs/local_setup.zsh
+[2.127s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/share/vesc_msgs/local_setup.dsv
+[2.127s] -- Installing: /home/misys/forza_ws/race_stack/install/vesc_msgs/share/vesc_msgs/package.dsv
+[2.127s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/share/ament_index/resource_index/packages/vesc_msgs
+[2.127s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/share/vesc_msgs/cmake/export_vesc_msgs__rosidl_generator_cExport.cmake
+[2.127s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/share/vesc_msgs/cmake/export_vesc_msgs__rosidl_generator_cExport-noconfig.cmake
+[2.128s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/share/vesc_msgs/cmake/export_vesc_msgs__rosidl_typesupport_fastrtps_cExport.cmake
+[2.128s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/share/vesc_msgs/cmake/export_vesc_msgs__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[2.128s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/share/vesc_msgs/cmake/vesc_msgs__rosidl_typesupport_introspection_cExport.cmake
+[2.128s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/share/vesc_msgs/cmake/vesc_msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[2.128s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/share/vesc_msgs/cmake/vesc_msgs__rosidl_typesupport_cExport.cmake
+[2.129s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/share/vesc_msgs/cmake/vesc_msgs__rosidl_typesupport_cExport-noconfig.cmake
+[2.129s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/share/vesc_msgs/cmake/export_vesc_msgs__rosidl_generator_cppExport.cmake
+[2.129s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/share/vesc_msgs/cmake/export_vesc_msgs__rosidl_typesupport_fastrtps_cppExport.cmake
+[2.129s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/share/vesc_msgs/cmake/export_vesc_msgs__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[2.129s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/share/vesc_msgs/cmake/vesc_msgs__rosidl_typesupport_introspection_cppExport.cmake
+[2.129s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/share/vesc_msgs/cmake/vesc_msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[2.130s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/share/vesc_msgs/cmake/vesc_msgs__rosidl_typesupport_cppExport.cmake
+[2.130s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/share/vesc_msgs/cmake/vesc_msgs__rosidl_typesupport_cppExport-noconfig.cmake
+[2.130s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/share/vesc_msgs/cmake/export_vesc_msgs__rosidl_generator_pyExport.cmake
+[2.130s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/share/vesc_msgs/cmake/export_vesc_msgs__rosidl_generator_pyExport-noconfig.cmake
+[2.131s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/share/vesc_msgs/cmake/rosidl_cmake-extras.cmake
+[2.131s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/share/vesc_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[2.131s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/share/vesc_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[2.131s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/share/vesc_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[2.131s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/share/vesc_msgs/cmake/ament_cmake_export_targets-extras.cmake
+[2.131s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/share/vesc_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[2.132s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/share/vesc_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[2.133s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/share/vesc_msgs/cmake/vesc_msgsConfig.cmake
+[2.134s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/share/vesc_msgs/cmake/vesc_msgsConfig-version.cmake
+[2.135s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/vesc_msgs/share/vesc_msgs/package.xml
+[2.203s] Invoked command in '/home/misys/forza_ws/race_stack/build/vesc_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/misys/forza_ws/race_stack/install/f1tenth_stack:/home/misys/forza_ws/race_stack/install/joy_teleop:/home/misys/forza_ws/race_stack/install/steering_lookup:/home/misys/forza_ws/race_stack/install/state_machine:/home/misys/forza_ws/race_stack/install/slam_tuner:/home/misys/forza_ws/race_stack/install/state_estimation:/home/misys/forza_ws/race_stack/install/map_editor:/home/misys/forza_ws/race_stack/install/stack_master:/home/misys/forza_ws/race_stack/install/spline_planner:/home/misys/forza_ws/race_stack/install/sector_tuner:/home/misys/forza_ws/race_stack/install/perception:/home/misys/forza_ws/race_stack/install/particle_filter:/home/misys/forza_ws/race_stack/install/opponent_publisher:/home/misys/forza_ws/race_stack/install/mouse_teleop:/home/misys/forza_ws/race_stack/install/lap_analyser:/home/misys/forza_ws/race_stack/install/key_teleop:/home/misys/forza_ws/race_stack/install/id_controller:/home/misys/forza_ws/race_stack/install/global_planner:/home/misys/forza_ws/race_stack/install/frenet_odom_republisher:/home/misys/forza_ws/race_stack/install/frenet_conversion:/home/misys/forza_ws/race_stack/install/f1tenth_gym_ros:/home/misys/forza_ws/race_stack/install/controller:/opt/ros/humble /usr/bin/cmake --install /home/misys/forza_ws/race_stack/build/vesc_msgs

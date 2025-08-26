@@ -1,0 +1,551 @@
+[0.047s] Invoking command in '/home/misys/forza_ws/race_stack/build/f110_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/misys/forza_ws/race_stack/install/f1tenth_stack:/home/misys/forza_ws/race_stack/install/joy_teleop:/home/misys/forza_ws/race_stack/install/steering_lookup:/home/misys/forza_ws/race_stack/install/state_machine:/home/misys/forza_ws/race_stack/install/slam_tuner:/home/misys/forza_ws/race_stack/install/state_estimation:/home/misys/forza_ws/race_stack/install/map_editor:/home/misys/forza_ws/race_stack/install/stack_master:/home/misys/forza_ws/race_stack/install/spline_planner:/home/misys/forza_ws/race_stack/install/sector_tuner:/home/misys/forza_ws/race_stack/install/se_pose_to_tf_bridge:/home/misys/forza_ws/race_stack/install/perception:/home/misys/forza_ws/race_stack/install/particle_filter:/home/misys/forza_ws/race_stack/install/opponent_publisher:/home/misys/forza_ws/race_stack/install/mouse_teleop:/home/misys/forza_ws/race_stack/install/lap_analyser:/home/misys/forza_ws/race_stack/install/key_teleop:/home/misys/forza_ws/race_stack/install/id_controller:/home/misys/forza_ws/race_stack/install/global_planner:/home/misys/forza_ws/race_stack/install/frenet_odom_republisher:/home/misys/forza_ws/race_stack/install/frenet_conversion:/home/misys/forza_ws/race_stack/install/f1tenth_gym_ros:/home/misys/forza_ws/race_stack/install/controller:/opt/ros/humble /usr/bin/cmake /home/misys/forza_ws/race_stack/utilities/libraries/f110_msgs -DCMAKE_INSTALL_PREFIX=/home/misys/forza_ws/race_stack/install/f110_msgs
+[0.836s] -- The C compiler identification is GNU 11.4.0
+[0.836s] -- The CXX compiler identification is GNU 11.4.0
+[0.836s] -- Detecting C compiler ABI info
+[0.836s] -- Detecting C compiler ABI info - done
+[0.836s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.836s] -- Detecting C compile features
+[0.836s] -- Detecting C compile features - done
+[0.836s] -- Detecting CXX compiler ABI info
+[0.837s] -- Detecting CXX compiler ABI info - done
+[0.837s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.837s] -- Detecting CXX compile features
+[0.837s] -- Detecting CXX compile features - done
+[0.837s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.178s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.455s] -- Found std_msgs: 4.8.0 (/opt/ros/humble/share/std_msgs/cmake)
+[1.530s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[1.542s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[1.559s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[1.589s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.634s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.752s] -- Found geometry_msgs: 4.8.0 (/opt/ros/humble/share/geometry_msgs/cmake)
+[1.804s] -- Found ament_lint_auto: 0.12.12 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[2.084s] -- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[3.004s] -- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+[4.236s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[4.605s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[4.703s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.10.12", minimum required is "3.6") 
+[4.708s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[4.861s] -- Found PythonLibs: /usr/lib/aarch64-linux-gnu/libpython3.10.so (found suitable version "3.10.12", minimum required is "3.5") 
+[4.864s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[4.864s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[4.864s] -- Using PYTHON_LIBRARIES: /usr/lib/aarch64-linux-gnu/libpython3.10.so
+[4.985s] -- Found PythonExtra: .so  
+[5.188s] -- Added test 'lint_cmake' to check CMake code style
+[5.195s] -- Added test 'xmllint' to check XML markup files
+[5.212s] -- Configuring done
+[5.331s] -- Generating done
+[5.359s] -- Build files have been written to: /home/misys/forza_ws/race_stack/build/f110_msgs
+[5.727s] Invoked command in '/home/misys/forza_ws/race_stack/build/f110_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/misys/forza_ws/race_stack/install/f1tenth_stack:/home/misys/forza_ws/race_stack/install/joy_teleop:/home/misys/forza_ws/race_stack/install/steering_lookup:/home/misys/forza_ws/race_stack/install/state_machine:/home/misys/forza_ws/race_stack/install/slam_tuner:/home/misys/forza_ws/race_stack/install/state_estimation:/home/misys/forza_ws/race_stack/install/map_editor:/home/misys/forza_ws/race_stack/install/stack_master:/home/misys/forza_ws/race_stack/install/spline_planner:/home/misys/forza_ws/race_stack/install/sector_tuner:/home/misys/forza_ws/race_stack/install/se_pose_to_tf_bridge:/home/misys/forza_ws/race_stack/install/perception:/home/misys/forza_ws/race_stack/install/particle_filter:/home/misys/forza_ws/race_stack/install/opponent_publisher:/home/misys/forza_ws/race_stack/install/mouse_teleop:/home/misys/forza_ws/race_stack/install/lap_analyser:/home/misys/forza_ws/race_stack/install/key_teleop:/home/misys/forza_ws/race_stack/install/id_controller:/home/misys/forza_ws/race_stack/install/global_planner:/home/misys/forza_ws/race_stack/install/frenet_odom_republisher:/home/misys/forza_ws/race_stack/install/frenet_conversion:/home/misys/forza_ws/race_stack/install/f1tenth_gym_ros:/home/misys/forza_ws/race_stack/install/controller:/opt/ros/humble /usr/bin/cmake /home/misys/forza_ws/race_stack/utilities/libraries/f110_msgs -DCMAKE_INSTALL_PREFIX=/home/misys/forza_ws/race_stack/install/f110_msgs
+[5.727s] Invoking command in '/home/misys/forza_ws/race_stack/build/f110_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/misys/forza_ws/race_stack/install/f1tenth_stack:/home/misys/forza_ws/race_stack/install/joy_teleop:/home/misys/forza_ws/race_stack/install/steering_lookup:/home/misys/forza_ws/race_stack/install/state_machine:/home/misys/forza_ws/race_stack/install/slam_tuner:/home/misys/forza_ws/race_stack/install/state_estimation:/home/misys/forza_ws/race_stack/install/map_editor:/home/misys/forza_ws/race_stack/install/stack_master:/home/misys/forza_ws/race_stack/install/spline_planner:/home/misys/forza_ws/race_stack/install/sector_tuner:/home/misys/forza_ws/race_stack/install/se_pose_to_tf_bridge:/home/misys/forza_ws/race_stack/install/perception:/home/misys/forza_ws/race_stack/install/particle_filter:/home/misys/forza_ws/race_stack/install/opponent_publisher:/home/misys/forza_ws/race_stack/install/mouse_teleop:/home/misys/forza_ws/race_stack/install/lap_analyser:/home/misys/forza_ws/race_stack/install/key_teleop:/home/misys/forza_ws/race_stack/install/id_controller:/home/misys/forza_ws/race_stack/install/global_planner:/home/misys/forza_ws/race_stack/install/frenet_odom_republisher:/home/misys/forza_ws/race_stack/install/frenet_conversion:/home/misys/forza_ws/race_stack/install/f1tenth_gym_ros:/home/misys/forza_ws/race_stack/install/controller:/opt/ros/humble /usr/bin/cmake --build /home/misys/forza_ws/race_stack/build/f110_msgs -- -j6 -l6
+[5.968s] [  1%] [34m[1mGenerating C code for ROS interfaces[0m
+[6.054s] [  1%] [34m[1mGenerating C++ code for ROS interfaces[0m
+[6.105s] [  1%] Built target ament_cmake_python_copy_f110_msgs
+[8.453s] running egg_info
+[8.468s] creating f110_msgs.egg-info
+[8.475s] writing f110_msgs.egg-info/PKG-INFO
+[8.476s] writing dependency_links to f110_msgs.egg-info/dependency_links.txt
+[8.483s] writing top-level names to f110_msgs.egg-info/top_level.txt
+[8.484s] writing manifest file 'f110_msgs.egg-info/SOURCES.txt'
+[8.504s] reading manifest file 'f110_msgs.egg-info/SOURCES.txt'
+[8.505s] writing manifest file 'f110_msgs.egg-info/SOURCES.txt'
+[8.815s] [  1%] Built target ament_cmake_python_build_f110_msgs_egg
+[11.610s] [  1%] Built target f110_msgs__cpp
+[11.721s] [  2%] [34m[1mGenerating C++ type support dispatch for ROS interfaces[0m
+[11.749s] [  2%] [34m[1mGenerating C++ type support for eProsima Fast-RTPS[0m
+[11.795s] [  3%] [34m[1mGenerating C++ introspection for ROS interfaces[0m
+[13.733s] [  4%] [32mBuilding C object CMakeFiles/f110_msgs__rosidl_generator_c.dir/rosidl_generator_c/f110_msgs/msg/detail/car_state_stamped__functions.c.o[0m
+[13.757s] [  5%] [32mBuilding C object CMakeFiles/f110_msgs__rosidl_generator_c.dir/rosidl_generator_c/f110_msgs/msg/detail/car_state__functions.c.o[0m
+[13.761s] [  6%] [32mBuilding C object CMakeFiles/f110_msgs__rosidl_generator_c.dir/rosidl_generator_c/f110_msgs/msg/detail/gap_data__functions.c.o[0m
+[14.074s] [  6%] [32mBuilding C object CMakeFiles/f110_msgs__rosidl_generator_c.dir/rosidl_generator_c/f110_msgs/msg/detail/lap_data__functions.c.o[0m
+[14.110s] [  7%] [32mBuilding C object CMakeFiles/f110_msgs__rosidl_generator_c.dir/rosidl_generator_c/f110_msgs/msg/detail/ot_wpnt_array__functions.c.o[0m
+[14.165s] [  8%] [32mBuilding C object CMakeFiles/f110_msgs__rosidl_generator_c.dir/rosidl_generator_c/f110_msgs/msg/detail/obstacle__functions.c.o[0m
+[14.317s] [  9%] [32mBuilding C object CMakeFiles/f110_msgs__rosidl_generator_c.dir/rosidl_generator_c/f110_msgs/msg/detail/obstacle_array__functions.c.o[0m
+[14.579s] [ 10%] [32mBuilding C object CMakeFiles/f110_msgs__rosidl_generator_c.dir/rosidl_generator_c/f110_msgs/msg/detail/wpnt__functions.c.o[0m
+[14.593s] [ 11%] [32mBuilding C object CMakeFiles/f110_msgs__rosidl_generator_c.dir/rosidl_generator_c/f110_msgs/msg/detail/pid_data__functions.c.o[0m
+[14.786s] [ 11%] [32mBuilding C object CMakeFiles/f110_msgs__rosidl_generator_c.dir/rosidl_generator_c/f110_msgs/msg/detail/wpnt_array__functions.c.o[0m
+[15.031s] [ 12%] [32mBuilding C object CMakeFiles/f110_msgs__rosidl_generator_c.dir/rosidl_generator_c/f110_msgs/msg/detail/opponent_trajectory__functions.c.o[0m
+[15.033s] [ 13%] [32mBuilding C object CMakeFiles/f110_msgs__rosidl_generator_c.dir/rosidl_generator_c/f110_msgs/msg/detail/opp_wpnt__functions.c.o[0m
+[15.439s] [ 14%] [32m[1mLinking C shared library libf110_msgs__rosidl_generator_c.so[0m
+[15.722s] [ 14%] Built target f110_msgs__rosidl_generator_c
+[15.756s] [ 15%] [34m[1mGenerating C type support for eProsima Fast-RTPS[0m
+[17.362s] [ 16%] [32mBuilding CXX object CMakeFiles/f110_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/f110_msgs/msg/car_state__type_support.cpp.o[0m
+[18.505s] [ 16%] [32mBuilding CXX object CMakeFiles/f110_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/f110_msgs/msg/detail/car_state__type_support.cpp.o[0m
+[18.537s] [ 17%] [32mBuilding CXX object CMakeFiles/f110_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/f110_msgs/msg/car_state_stamped__type_support.cpp.o[0m
+[19.181s] [ 18%] [32mBuilding CXX object CMakeFiles/f110_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/f110_msgs/msg/detail/dds_fastrtps/car_state__type_support.cpp.o[0m
+[20.151s] [ 19%] [32mBuilding CXX object CMakeFiles/f110_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/f110_msgs/msg/gap_data__type_support.cpp.o[0m
+[20.902s] [ 20%] [32mBuilding CXX object CMakeFiles/f110_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/f110_msgs/msg/detail/car_state__type_support_c.cpp.o[0m
+[21.420s] [ 21%] [32mBuilding CXX object CMakeFiles/f110_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/f110_msgs/msg/detail/car_state_stamped__type_support.cpp.o[0m
+[21.623s] [ 22%] [32mBuilding CXX object CMakeFiles/f110_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/f110_msgs/msg/lap_data__type_support.cpp.o[0m
+[21.921s] [ 23%] [32mBuilding CXX object CMakeFiles/f110_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/f110_msgs/msg/detail/dds_fastrtps/car_state_stamped__type_support.cpp.o[0m
+[22.533s] [ 24%] [32mBuilding CXX object CMakeFiles/f110_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/f110_msgs/msg/detail/car_state_stamped__type_support_c.cpp.o[0m
+[22.797s] [ 24%] [32mBuilding CXX object CMakeFiles/f110_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/f110_msgs/msg/ot_wpnt_array__type_support.cpp.o[0m
+[23.443s] [ 25%] [32mBuilding CXX object CMakeFiles/f110_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/f110_msgs/msg/detail/gap_data__type_support.cpp.o[0m
+[23.699s] [ 26%] [32mBuilding CXX object CMakeFiles/f110_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/f110_msgs/msg/detail/dds_fastrtps/gap_data__type_support.cpp.o[0m
+[24.085s] [ 27%] [32mBuilding CXX object CMakeFiles/f110_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/f110_msgs/msg/obstacle__type_support.cpp.o[0m
+[24.132s] [ 27%] [32mBuilding CXX object CMakeFiles/f110_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/f110_msgs/msg/detail/gap_data__type_support_c.cpp.o[0m
+[25.124s] [ 28%] [32mBuilding CXX object CMakeFiles/f110_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/f110_msgs/msg/detail/lap_data__type_support.cpp.o[0m
+[25.248s] [ 29%] [32mBuilding CXX object CMakeFiles/f110_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/f110_msgs/msg/detail/dds_fastrtps/lap_data__type_support.cpp.o[0m
+[25.291s] [ 30%] [32mBuilding CXX object CMakeFiles/f110_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/f110_msgs/msg/obstacle_array__type_support.cpp.o[0m
+[25.660s] [ 31%] [32mBuilding CXX object CMakeFiles/f110_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/f110_msgs/msg/detail/lap_data__type_support_c.cpp.o[0m
+[26.053s] [ 32%] [32mBuilding CXX object CMakeFiles/f110_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/f110_msgs/msg/pid_data__type_support.cpp.o[0m
+[26.855s] [ 33%] [32mBuilding CXX object CMakeFiles/f110_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/f110_msgs/msg/detail/ot_wpnt_array__type_support.cpp.o[0m
+[27.039s] [ 34%] [32mBuilding CXX object CMakeFiles/f110_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/f110_msgs/msg/detail/dds_fastrtps/ot_wpnt_array__type_support.cpp.o[0m
+[27.135s] [ 35%] [32mBuilding CXX object CMakeFiles/f110_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/f110_msgs/msg/wpnt__type_support.cpp.o[0m
+[27.176s] [ 36%] [32mBuilding CXX object CMakeFiles/f110_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/f110_msgs/msg/detail/ot_wpnt_array__type_support_c.cpp.o[0m
+[28.387s] [ 37%] [32mBuilding CXX object CMakeFiles/f110_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/f110_msgs/msg/wpnt_array__type_support.cpp.o[0m
+[28.575s] [ 38%] [32mBuilding CXX object CMakeFiles/f110_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/f110_msgs/msg/detail/obstacle__type_support.cpp.o[0m
+[28.844s] [ 38%] [32mBuilding CXX object CMakeFiles/f110_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/f110_msgs/msg/detail/dds_fastrtps/obstacle__type_support.cpp.o[0m
+[28.868s] [ 39%] [32mBuilding CXX object CMakeFiles/f110_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/f110_msgs/msg/detail/obstacle__type_support_c.cpp.o[0m
+[29.268s] [ 39%] [32mBuilding CXX object CMakeFiles/f110_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/f110_msgs/msg/opponent_trajectory__type_support.cpp.o[0m
+[29.879s] [ 40%] [32mBuilding CXX object CMakeFiles/f110_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/f110_msgs/msg/detail/obstacle_array__type_support_c.cpp.o[0m
+[30.122s] [ 41%] [32mBuilding CXX object CMakeFiles/f110_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/f110_msgs/msg/opp_wpnt__type_support.cpp.o[0m
+[30.255s] [ 41%] [32mBuilding CXX object CMakeFiles/f110_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/f110_msgs/msg/detail/obstacle_array__type_support.cpp.o[0m
+[30.574s] [ 42%] [32mBuilding CXX object CMakeFiles/f110_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/f110_msgs/msg/detail/dds_fastrtps/obstacle_array__type_support.cpp.o[0m
+[31.355s] [ 43%] [32m[1mLinking CXX shared library libf110_msgs__rosidl_typesupport_cpp.so[0m
+[31.538s] [ 44%] [32mBuilding CXX object CMakeFiles/f110_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/f110_msgs/msg/detail/pid_data__type_support_c.cpp.o[0m
+[31.542s] [ 44%] Built target f110_msgs__rosidl_typesupport_cpp
+[31.552s] [ 45%] [32mBuilding CXX object CMakeFiles/f110_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/f110_msgs/msg/detail/pid_data__type_support.cpp.o[0m
+[32.428s] [ 46%] [32mBuilding CXX object CMakeFiles/f110_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/f110_msgs/msg/detail/dds_fastrtps/pid_data__type_support.cpp.o[0m
+[32.727s] [ 46%] [32mBuilding CXX object CMakeFiles/f110_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/f110_msgs/msg/detail/wpnt__type_support_c.cpp.o[0m
+[32.984s] [ 47%] [32mBuilding CXX object CMakeFiles/f110_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/f110_msgs/msg/detail/wpnt__type_support.cpp.o[0m
+[33.847s] [ 48%] [32mBuilding CXX object CMakeFiles/f110_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/f110_msgs/msg/detail/wpnt_array__type_support_c.cpp.o[0m
+[33.894s] [ 49%] [32mBuilding CXX object CMakeFiles/f110_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/f110_msgs/msg/detail/dds_fastrtps/wpnt__type_support.cpp.o[0m
+[34.191s] [ 50%] [32mBuilding CXX object CMakeFiles/f110_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/f110_msgs/msg/detail/wpnt_array__type_support.cpp.o[0m
+[34.961s] [ 51%] [32mBuilding CXX object CMakeFiles/f110_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/f110_msgs/msg/detail/opponent_trajectory__type_support_c.cpp.o[0m
+[35.347s] [ 52%] [32mBuilding CXX object CMakeFiles/f110_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/f110_msgs/msg/detail/dds_fastrtps/wpnt_array__type_support.cpp.o[0m
+[35.501s] [ 53%] [32mBuilding CXX object CMakeFiles/f110_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/f110_msgs/msg/detail/opponent_trajectory__type_support.cpp.o[0m
+[35.921s] [ 54%] [32mBuilding CXX object CMakeFiles/f110_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/f110_msgs/msg/detail/opp_wpnt__type_support_c.cpp.o[0m
+[37.069s] [ 55%] [32m[1mLinking CXX shared library libf110_msgs__rosidl_typesupport_fastrtps_c.so[0m
+[37.262s] [ 56%] [32mBuilding CXX object CMakeFiles/f110_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/f110_msgs/msg/detail/opp_wpnt__type_support.cpp.o[0m
+[37.298s] [ 57%] [32mBuilding CXX object CMakeFiles/f110_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/f110_msgs/msg/detail/dds_fastrtps/opponent_trajectory__type_support.cpp.o[0m
+[37.484s] [ 57%] Built target f110_msgs__rosidl_typesupport_fastrtps_c
+[38.549s] [ 58%] [32mBuilding CXX object CMakeFiles/f110_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/f110_msgs/msg/detail/dds_fastrtps/opp_wpnt__type_support.cpp.o[0m
+[38.549s] [ 58%] [32m[1mLinking CXX shared library libf110_msgs__rosidl_typesupport_introspection_cpp.so[0m
+[38.919s] [ 58%] Built target f110_msgs__rosidl_typesupport_introspection_cpp
+[39.668s] [ 59%] [32m[1mLinking CXX shared library libf110_msgs__rosidl_typesupport_fastrtps_cpp.so[0m
+[39.927s] [ 59%] Built target f110_msgs__rosidl_typesupport_fastrtps_cpp
+[39.977s] [ 60%] [34m[1mGenerating C type support dispatch for ROS interfaces[0m
+[42.166s] [ 61%] [32mBuilding CXX object CMakeFiles/f110_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/f110_msgs/msg/car_state__type_support.cpp.o[0m
+[42.263s] [ 62%] [32mBuilding CXX object CMakeFiles/f110_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/f110_msgs/msg/ot_wpnt_array__type_support.cpp.o[0m
+[42.348s] [ 63%] [32mBuilding CXX object CMakeFiles/f110_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/f110_msgs/msg/obstacle__type_support.cpp.o[0m
+[42.414s] [ 64%] [32mBuilding CXX object CMakeFiles/f110_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/f110_msgs/msg/obstacle_array__type_support.cpp.o[0m
+[42.482s] [ 64%] [32mBuilding CXX object CMakeFiles/f110_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/f110_msgs/msg/pid_data__type_support.cpp.o[0m
+[42.549s] [ 65%] [32mBuilding CXX object CMakeFiles/f110_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/f110_msgs/msg/wpnt__type_support.cpp.o[0m
+[42.614s] [ 66%] [32mBuilding CXX object CMakeFiles/f110_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/f110_msgs/msg/wpnt_array__type_support.cpp.o[0m
+[42.681s] [ 67%] [32mBuilding CXX object CMakeFiles/f110_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/f110_msgs/msg/opponent_trajectory__type_support.cpp.o[0m
+[42.750s] [ 68%] [32mBuilding CXX object CMakeFiles/f110_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/f110_msgs/msg/opp_wpnt__type_support.cpp.o[0m
+[42.817s] [ 69%] [32mBuilding CXX object CMakeFiles/f110_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/f110_msgs/msg/lap_data__type_support.cpp.o[0m
+[42.897s] [ 70%] [32mBuilding CXX object CMakeFiles/f110_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/f110_msgs/msg/gap_data__type_support.cpp.o[0m
+[42.982s] [ 70%] [32mBuilding CXX object CMakeFiles/f110_msgs__rosidl_typesupport_c.dir/rosidl_typesupport_c/f110_msgs/msg/car_state_stamped__type_support.cpp.o[0m
+[43.071s] [ 71%] [32m[1mLinking CXX shared library libf110_msgs__rosidl_typesupport_c.so[0m
+[43.190s] [ 71%] Built target f110_msgs__rosidl_typesupport_c
+[43.220s] [ 72%] [34m[1mGenerating C introspection for ROS interfaces[0m
+[45.071s] [ 73%] [32mBuilding C object CMakeFiles/f110_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/f110_msgs/msg/detail/car_state__type_support.c.o[0m
+[45.179s] [ 74%] [32mBuilding C object CMakeFiles/f110_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/f110_msgs/msg/detail/obstacle__type_support.c.o[0m
+[45.256s] [ 75%] [32mBuilding C object CMakeFiles/f110_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/f110_msgs/msg/detail/obstacle_array__type_support.c.o[0m
+[45.345s] [ 76%] [32mBuilding C object CMakeFiles/f110_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/f110_msgs/msg/detail/pid_data__type_support.c.o[0m
+[45.423s] [ 77%] [32mBuilding C object CMakeFiles/f110_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/f110_msgs/msg/detail/wpnt__type_support.c.o[0m
+[45.501s] [ 78%] [32mBuilding C object CMakeFiles/f110_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/f110_msgs/msg/detail/wpnt_array__type_support.c.o[0m
+[45.595s] [ 78%] [32mBuilding C object CMakeFiles/f110_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/f110_msgs/msg/detail/opponent_trajectory__type_support.c.o[0m
+[45.682s] [ 79%] [32mBuilding C object CMakeFiles/f110_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/f110_msgs/msg/detail/opp_wpnt__type_support.c.o[0m
+[45.760s] [ 80%] [32mBuilding C object CMakeFiles/f110_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/f110_msgs/msg/detail/ot_wpnt_array__type_support.c.o[0m
+[45.865s] [ 80%] [32mBuilding C object CMakeFiles/f110_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/f110_msgs/msg/detail/lap_data__type_support.c.o[0m
+[45.967s] [ 81%] [32mBuilding C object CMakeFiles/f110_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/f110_msgs/msg/detail/gap_data__type_support.c.o[0m
+[46.066s] [ 82%] [32mBuilding C object CMakeFiles/f110_msgs__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/f110_msgs/msg/detail/car_state_stamped__type_support.c.o[0m
+[46.170s] [ 83%] [32m[1mLinking C shared library libf110_msgs__rosidl_typesupport_introspection_c.so[0m
+[46.265s] [ 83%] Built target f110_msgs__rosidl_typesupport_introspection_c
+[46.336s] [ 83%] Built target f110_msgs
+[46.409s] [ 84%] [34m[1mGenerating Python code for ROS interfaces[0m
+[50.361s] [ 84%] Built target f110_msgs__py
+[50.415s] [ 85%] [32mBuilding C object CMakeFiles/f110_msgs__rosidl_generator_py.dir/rosidl_generator_py/f110_msgs/msg/_car_state_s.c.o[0m
+[50.670s] [ 86%] [32mBuilding C object CMakeFiles/f110_msgs__rosidl_generator_py.dir/rosidl_generator_py/f110_msgs/msg/_obstacle_s.c.o[0m
+[50.926s] [ 87%] [32mBuilding C object CMakeFiles/f110_msgs__rosidl_generator_py.dir/rosidl_generator_py/f110_msgs/msg/_obstacle_array_s.c.o[0m
+[51.181s] [ 88%] [32mBuilding C object CMakeFiles/f110_msgs__rosidl_generator_py.dir/rosidl_generator_py/f110_msgs/msg/_pid_data_s.c.o[0m
+[51.418s] [ 89%] [32mBuilding C object CMakeFiles/f110_msgs__rosidl_generator_py.dir/rosidl_generator_py/f110_msgs/msg/_wpnt_s.c.o[0m
+[51.653s] [ 89%] [32mBuilding C object CMakeFiles/f110_msgs__rosidl_generator_py.dir/rosidl_generator_py/f110_msgs/msg/_wpnt_array_s.c.o[0m
+[51.954s] [ 90%] [32mBuilding C object CMakeFiles/f110_msgs__rosidl_generator_py.dir/rosidl_generator_py/f110_msgs/msg/_opponent_trajectory_s.c.o[0m
+[52.193s] [ 91%] [32mBuilding C object CMakeFiles/f110_msgs__rosidl_generator_py.dir/rosidl_generator_py/f110_msgs/msg/_opp_wpnt_s.c.o[0m
+[52.404s] [ 92%] [32mBuilding C object CMakeFiles/f110_msgs__rosidl_generator_py.dir/rosidl_generator_py/f110_msgs/msg/_ot_wpnt_array_s.c.o[0m
+[52.632s] [ 93%] [32mBuilding C object CMakeFiles/f110_msgs__rosidl_generator_py.dir/rosidl_generator_py/f110_msgs/msg/_lap_data_s.c.o[0m
+[52.859s] [ 93%] [32mBuilding C object CMakeFiles/f110_msgs__rosidl_generator_py.dir/rosidl_generator_py/f110_msgs/msg/_gap_data_s.c.o[0m
+[53.091s] [ 94%] [32mBuilding C object CMakeFiles/f110_msgs__rosidl_generator_py.dir/rosidl_generator_py/f110_msgs/msg/_car_state_stamped_s.c.o[0m
+[53.315s] [ 95%] [32m[1mLinking C shared library rosidl_generator_py/f110_msgs/libf110_msgs__rosidl_generator_py.so[0m
+[53.442s] [ 95%] Built target f110_msgs__rosidl_generator_py
+[53.499s] [ 96%] [32mBuilding C object CMakeFiles/f110_msgs__rosidl_typesupport_fastrtps_c__pyext.dir/rosidl_generator_py/f110_msgs/_f110_msgs_s.ep.rosidl_typesupport_fastrtps_c.c.o[0m
+[53.792s] [ 97%] [32m[1mLinking C shared library rosidl_generator_py/f110_msgs/f110_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-aarch64-linux-gnu.so[0m
+[53.888s] [ 97%] Built target f110_msgs__rosidl_typesupport_fastrtps_c__pyext
+[53.947s] [ 97%] [32mBuilding C object CMakeFiles/f110_msgs__rosidl_typesupport_c__pyext.dir/rosidl_generator_py/f110_msgs/_f110_msgs_s.ep.rosidl_typesupport_c.c.o[0m
+[54.240s] [ 98%] [32m[1mLinking C shared library rosidl_generator_py/f110_msgs/f110_msgs_s__rosidl_typesupport_c.cpython-310-aarch64-linux-gnu.so[0m
+[54.333s] [ 98%] Built target f110_msgs__rosidl_typesupport_c__pyext
+[54.419s] [ 99%] [32mBuilding C object CMakeFiles/f110_msgs__rosidl_typesupport_introspection_c__pyext.dir/rosidl_generator_py/f110_msgs/_f110_msgs_s.ep.rosidl_typesupport_introspection_c.c.o[0m
+[54.748s] [100%] [32m[1mLinking C shared library rosidl_generator_py/f110_msgs/f110_msgs_s__rosidl_typesupport_introspection_c.cpython-310-aarch64-linux-gnu.so[0m
+[54.838s] [100%] Built target f110_msgs__rosidl_typesupport_introspection_c__pyext
+[55.307s] Invoked command in '/home/misys/forza_ws/race_stack/build/f110_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/misys/forza_ws/race_stack/install/f1tenth_stack:/home/misys/forza_ws/race_stack/install/joy_teleop:/home/misys/forza_ws/race_stack/install/steering_lookup:/home/misys/forza_ws/race_stack/install/state_machine:/home/misys/forza_ws/race_stack/install/slam_tuner:/home/misys/forza_ws/race_stack/install/state_estimation:/home/misys/forza_ws/race_stack/install/map_editor:/home/misys/forza_ws/race_stack/install/stack_master:/home/misys/forza_ws/race_stack/install/spline_planner:/home/misys/forza_ws/race_stack/install/sector_tuner:/home/misys/forza_ws/race_stack/install/se_pose_to_tf_bridge:/home/misys/forza_ws/race_stack/install/perception:/home/misys/forza_ws/race_stack/install/particle_filter:/home/misys/forza_ws/race_stack/install/opponent_publisher:/home/misys/forza_ws/race_stack/install/mouse_teleop:/home/misys/forza_ws/race_stack/install/lap_analyser:/home/misys/forza_ws/race_stack/install/key_teleop:/home/misys/forza_ws/race_stack/install/id_controller:/home/misys/forza_ws/race_stack/install/global_planner:/home/misys/forza_ws/race_stack/install/frenet_odom_republisher:/home/misys/forza_ws/race_stack/install/frenet_conversion:/home/misys/forza_ws/race_stack/install/f1tenth_gym_ros:/home/misys/forza_ws/race_stack/install/controller:/opt/ros/humble /usr/bin/cmake --build /home/misys/forza_ws/race_stack/build/f110_msgs -- -j6 -l6
+[55.311s] Invoking command in '/home/misys/forza_ws/race_stack/build/f110_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/misys/forza_ws/race_stack/install/f1tenth_stack:/home/misys/forza_ws/race_stack/install/joy_teleop:/home/misys/forza_ws/race_stack/install/steering_lookup:/home/misys/forza_ws/race_stack/install/state_machine:/home/misys/forza_ws/race_stack/install/slam_tuner:/home/misys/forza_ws/race_stack/install/state_estimation:/home/misys/forza_ws/race_stack/install/map_editor:/home/misys/forza_ws/race_stack/install/stack_master:/home/misys/forza_ws/race_stack/install/spline_planner:/home/misys/forza_ws/race_stack/install/sector_tuner:/home/misys/forza_ws/race_stack/install/se_pose_to_tf_bridge:/home/misys/forza_ws/race_stack/install/perception:/home/misys/forza_ws/race_stack/install/particle_filter:/home/misys/forza_ws/race_stack/install/opponent_publisher:/home/misys/forza_ws/race_stack/install/mouse_teleop:/home/misys/forza_ws/race_stack/install/lap_analyser:/home/misys/forza_ws/race_stack/install/key_teleop:/home/misys/forza_ws/race_stack/install/id_controller:/home/misys/forza_ws/race_stack/install/global_planner:/home/misys/forza_ws/race_stack/install/frenet_odom_republisher:/home/misys/forza_ws/race_stack/install/frenet_conversion:/home/misys/forza_ws/race_stack/install/f1tenth_gym_ros:/home/misys/forza_ws/race_stack/install/controller:/opt/ros/humble /usr/bin/cmake --install /home/misys/forza_ws/race_stack/build/f110_msgs
+[55.331s] -- Install configuration: ""
+[55.331s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/share/ament_index/resource_index/rosidl_interfaces/f110_msgs
+[55.332s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs
+[55.332s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg
+[55.333s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/lap_data.h
+[55.333s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/wpnt.h
+[55.334s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/car_state.h
+[55.334s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail
+[55.335s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/opp_wpnt__struct.h
+[55.335s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/car_state_stamped__functions.h
+[55.335s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/opp_wpnt__functions.h
+[55.336s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/obstacle__struct.h
+[55.336s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/opponent_trajectory__functions.c
+[55.337s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/obstacle__type_support.h
+[55.337s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/car_state__functions.c
+[55.338s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/gap_data__functions.h
+[55.338s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/wpnt__functions.h
+[55.339s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/obstacle_array__functions.h
+[55.339s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/wpnt__type_support.h
+[55.339s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/car_state__functions.h
+[55.339s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/ot_wpnt_array__type_support.h
+[55.340s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/pid_data__functions.c
+[55.340s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/gap_data__type_support.h
+[55.341s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/wpnt_array__functions.c
+[55.341s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/wpnt_array__functions.h
+[55.342s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/car_state_stamped__functions.c
+[55.342s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/wpnt_array__type_support.h
+[55.343s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/lap_data__functions.c
+[55.343s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/car_state__struct.h
+[55.343s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/lap_data__functions.h
+[55.344s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/car_state__type_support.h
+[55.344s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/opponent_trajectory__struct.h
+[55.344s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/obstacle_array__type_support.h
+[55.345s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/wpnt__struct.h
+[55.345s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/lap_data__type_support.h
+[55.345s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/wpnt_array__struct.h
+[55.346s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/gap_data__struct.h
+[55.346s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/car_state_stamped__type_support.h
+[55.346s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/obstacle__functions.h
+[55.347s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/obstacle_array__functions.c
+[55.347s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/wpnt__functions.c
+[55.348s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/gap_data__functions.c
+[55.348s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/opponent_trajectory__type_support.h
+[55.349s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/car_state_stamped__struct.h
+[55.349s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/opp_wpnt__type_support.h
+[55.349s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/pid_data__type_support.h
+[55.350s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/lap_data__struct.h
+[55.350s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/obstacle_array__struct.h
+[55.350s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/pid_data__functions.h
+[55.351s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/obstacle__functions.c
+[55.351s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/ot_wpnt_array__struct.h
+[55.352s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/opponent_trajectory__functions.h
+[55.352s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/ot_wpnt_array__functions.h
+[55.352s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/ot_wpnt_array__functions.c
+[55.353s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/opp_wpnt__functions.c
+[55.354s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/pid_data__struct.h
+[55.354s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/opponent_trajectory.h
+[55.355s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/rosidl_generator_c__visibility_control.h
+[55.355s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/ot_wpnt_array.h
+[55.356s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/wpnt_array.h
+[55.356s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/opp_wpnt.h
+[55.357s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/obstacle_array.h
+[55.357s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/gap_data.h
+[55.358s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/car_state_stamped.h
+[55.359s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/pid_data.h
+[55.359s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/obstacle.h
+[55.361s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/share/f110_msgs/environment/library_path.sh
+[55.361s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/share/f110_msgs/environment/library_path.dsv
+[55.362s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/lib/libf110_msgs__rosidl_generator_c.so
+[55.364s] -- Set runtime path of "/home/misys/forza_ws/race_stack/install/f110_msgs/lib/libf110_msgs__rosidl_generator_c.so" to ""
+[55.364s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs
+[55.364s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg
+[55.364s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail
+[55.365s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/opp_wpnt__rosidl_typesupport_fastrtps_c.h
+[55.366s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/opponent_trajectory__rosidl_typesupport_fastrtps_c.h
+[55.366s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/lap_data__rosidl_typesupport_fastrtps_c.h
+[55.367s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/car_state__rosidl_typesupport_fastrtps_c.h
+[55.367s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/car_state_stamped__rosidl_typesupport_fastrtps_c.h
+[55.367s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/wpnt_array__rosidl_typesupport_fastrtps_c.h
+[55.369s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/obstacle__rosidl_typesupport_fastrtps_c.h
+[55.369s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/gap_data__rosidl_typesupport_fastrtps_c.h
+[55.370s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/wpnt__rosidl_typesupport_fastrtps_c.h
+[55.371s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/ot_wpnt_array__rosidl_typesupport_fastrtps_c.h
+[55.371s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/obstacle_array__rosidl_typesupport_fastrtps_c.h
+[55.372s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/pid_data__rosidl_typesupport_fastrtps_c.h
+[55.372s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[55.373s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/lib/libf110_msgs__rosidl_typesupport_fastrtps_c.so
+[55.375s] -- Set runtime path of "/home/misys/forza_ws/race_stack/install/f110_msgs/lib/libf110_msgs__rosidl_typesupport_fastrtps_c.so" to ""
+[55.375s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs
+[55.375s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg
+[55.375s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/car_state.hpp
+[55.375s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/pid_data.hpp
+[55.376s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/rosidl_generator_cpp__visibility_control.hpp
+[55.376s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail
+[55.377s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/wpnt__traits.hpp
+[55.377s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/wpnt__struct.hpp
+[55.378s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/ot_wpnt_array__struct.hpp
+[55.378s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/wpnt__type_support.hpp
+[55.379s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/car_state__traits.hpp
+[55.379s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/lap_data__traits.hpp
+[55.379s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/obstacle_array__traits.hpp
+[55.380s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/obstacle__traits.hpp
+[55.380s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/lap_data__type_support.hpp
+[55.381s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/obstacle__builder.hpp
+[55.381s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/pid_data__struct.hpp
+[55.382s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/car_state_stamped__type_support.hpp
+[55.382s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/opponent_trajectory__builder.hpp
+[55.383s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/opp_wpnt__struct.hpp
+[55.391s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/car_state_stamped__builder.hpp
+[55.392s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/wpnt__builder.hpp
+[55.393s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/gap_data__struct.hpp
+[55.393s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/opp_wpnt__traits.hpp
+[55.393s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/gap_data__builder.hpp
+[55.394s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/opp_wpnt__type_support.hpp
+[55.394s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/wpnt_array__builder.hpp
+[55.394s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/car_state__builder.hpp
+[55.394s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/obstacle_array__builder.hpp
+[55.394s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/wpnt_array__struct.hpp
+[55.395s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/opponent_trajectory__struct.hpp
+[55.395s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/opp_wpnt__builder.hpp
+[55.395s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/car_state_stamped__traits.hpp
+[55.395s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/gap_data__traits.hpp
+[55.395s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/pid_data__builder.hpp
+[55.395s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/opponent_trajectory__type_support.hpp
+[55.395s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/car_state__struct.hpp
+[55.396s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/wpnt_array__type_support.hpp
+[55.396s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/obstacle__type_support.hpp
+[55.396s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/ot_wpnt_array__type_support.hpp
+[55.397s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/pid_data__traits.hpp
+[55.397s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/ot_wpnt_array__builder.hpp
+[55.398s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/obstacle_array__type_support.hpp
+[55.399s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/ot_wpnt_array__traits.hpp
+[55.399s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/car_state__type_support.hpp
+[55.400s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/opponent_trajectory__traits.hpp
+[55.401s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/obstacle_array__struct.hpp
+[55.401s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/lap_data__struct.hpp
+[55.402s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/obstacle__struct.hpp
+[55.403s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/lap_data__builder.hpp
+[55.403s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/gap_data__type_support.hpp
+[55.404s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/pid_data__type_support.hpp
+[55.404s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/car_state_stamped__struct.hpp
+[55.405s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/wpnt_array__traits.hpp
+[55.406s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/wpnt.hpp
+[55.406s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/obstacle_array.hpp
+[55.407s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/opp_wpnt.hpp
+[55.407s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/ot_wpnt_array.hpp
+[55.408s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/car_state_stamped.hpp
+[55.408s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/lap_data.hpp
+[55.409s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/opponent_trajectory.hpp
+[55.410s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/gap_data.hpp
+[55.410s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/wpnt_array.hpp
+[55.411s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/obstacle.hpp
+[55.411s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs
+[55.412s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg
+[55.412s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail
+[55.412s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/wpnt_array__rosidl_typesupport_fastrtps_cpp.hpp
+[55.413s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/gap_data__rosidl_typesupport_fastrtps_cpp.hpp
+[55.413s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/ot_wpnt_array__rosidl_typesupport_fastrtps_cpp.hpp
+[55.414s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/lap_data__rosidl_typesupport_fastrtps_cpp.hpp
+[55.415s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/obstacle__rosidl_typesupport_fastrtps_cpp.hpp
+[55.416s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/car_state_stamped__rosidl_typesupport_fastrtps_cpp.hpp
+[55.416s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/opp_wpnt__rosidl_typesupport_fastrtps_cpp.hpp
+[55.417s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/wpnt__rosidl_typesupport_fastrtps_cpp.hpp
+[55.417s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/dds_fastrtps
+[55.418s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/car_state__rosidl_typesupport_fastrtps_cpp.hpp
+[55.419s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/pid_data__rosidl_typesupport_fastrtps_cpp.hpp
+[55.420s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/obstacle_array__rosidl_typesupport_fastrtps_cpp.hpp
+[55.420s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/opponent_trajectory__rosidl_typesupport_fastrtps_cpp.hpp
+[55.421s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[55.422s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/lib/libf110_msgs__rosidl_typesupport_fastrtps_cpp.so
+[55.431s] -- Set runtime path of "/home/misys/forza_ws/race_stack/install/f110_msgs/lib/libf110_msgs__rosidl_typesupport_fastrtps_cpp.so" to ""
+[55.431s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs
+[55.431s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg
+[55.432s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail
+[55.432s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/car_state_stamped__rosidl_typesupport_introspection_c.h
+[55.433s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/pid_data__type_support.c
+[55.433s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/car_state_stamped__type_support.c
+[55.434s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/obstacle_array__type_support.c
+[55.435s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/pid_data__rosidl_typesupport_introspection_c.h
+[55.435s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/wpnt_array__type_support.c
+[55.436s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/opponent_trajectory__type_support.c
+[55.437s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/car_state__rosidl_typesupport_introspection_c.h
+[55.437s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/wpnt__rosidl_typesupport_introspection_c.h
+[55.438s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/opp_wpnt__rosidl_typesupport_introspection_c.h
+[55.439s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/car_state__type_support.c
+[55.439s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/gap_data__rosidl_typesupport_introspection_c.h
+[55.440s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/wpnt_array__rosidl_typesupport_introspection_c.h
+[55.440s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/opp_wpnt__type_support.c
+[55.441s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/obstacle_array__rosidl_typesupport_introspection_c.h
+[55.442s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/wpnt__type_support.c
+[55.442s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/lap_data__rosidl_typesupport_introspection_c.h
+[55.443s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/obstacle__rosidl_typesupport_introspection_c.h
+[55.444s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/lap_data__type_support.c
+[55.444s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/ot_wpnt_array__rosidl_typesupport_introspection_c.h
+[55.445s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/obstacle__type_support.c
+[55.446s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/gap_data__type_support.c
+[55.447s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/ot_wpnt_array__type_support.c
+[55.448s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/opponent_trajectory__rosidl_typesupport_introspection_c.h
+[55.449s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[55.450s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/lib/libf110_msgs__rosidl_typesupport_introspection_c.so
+[55.456s] -- Set runtime path of "/home/misys/forza_ws/race_stack/install/f110_msgs/lib/libf110_msgs__rosidl_typesupport_introspection_c.so" to ""
+[55.456s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/lib/libf110_msgs__rosidl_typesupport_c.so
+[55.459s] -- Set runtime path of "/home/misys/forza_ws/race_stack/install/f110_msgs/lib/libf110_msgs__rosidl_typesupport_c.so" to ""
+[55.459s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs
+[55.460s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg
+[55.460s] -- Up-to-date: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail
+[55.461s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/ot_wpnt_array__type_support.cpp
+[55.462s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/obstacle_array__rosidl_typesupport_introspection_cpp.hpp
+[55.463s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/lap_data__rosidl_typesupport_introspection_cpp.hpp
+[55.464s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/wpnt_array__type_support.cpp
+[55.465s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/opponent_trajectory__rosidl_typesupport_introspection_cpp.hpp
+[55.466s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/opp_wpnt__rosidl_typesupport_introspection_cpp.hpp
+[55.467s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/opponent_trajectory__type_support.cpp
+[55.469s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/obstacle_array__type_support.cpp
+[55.470s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/opp_wpnt__type_support.cpp
+[55.471s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/wpnt_array__rosidl_typesupport_introspection_cpp.hpp
+[55.472s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/obstacle__type_support.cpp
+[55.473s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/wpnt__type_support.cpp
+[55.474s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/gap_data__rosidl_typesupport_introspection_cpp.hpp
+[55.475s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/ot_wpnt_array__rosidl_typesupport_introspection_cpp.hpp
+[55.476s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/car_state__rosidl_typesupport_introspection_cpp.hpp
+[55.476s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/car_state__type_support.cpp
+[55.477s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/lap_data__type_support.cpp
+[55.478s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/car_state_stamped__rosidl_typesupport_introspection_cpp.hpp
+[55.479s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/wpnt__rosidl_typesupport_introspection_cpp.hpp
+[55.480s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/gap_data__type_support.cpp
+[55.481s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/car_state_stamped__type_support.cpp
+[55.482s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/pid_data__rosidl_typesupport_introspection_cpp.hpp
+[55.483s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/obstacle__rosidl_typesupport_introspection_cpp.hpp
+[55.491s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/include/f110_msgs/f110_msgs/msg/detail/pid_data__type_support.cpp
+[55.492s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/lib/libf110_msgs__rosidl_typesupport_introspection_cpp.so
+[55.493s] -- Set runtime path of "/home/misys/forza_ws/race_stack/install/f110_msgs/lib/libf110_msgs__rosidl_typesupport_introspection_cpp.so" to ""
+[55.493s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/lib/libf110_msgs__rosidl_typesupport_cpp.so
+[55.494s] -- Set runtime path of "/home/misys/forza_ws/race_stack/install/f110_msgs/lib/libf110_msgs__rosidl_typesupport_cpp.so" to ""
+[55.494s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/share/f110_msgs/environment/pythonpath.sh
+[55.494s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/share/f110_msgs/environment/pythonpath.dsv
+[55.495s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/local/lib/python3.10/dist-packages/f110_msgs-0.0.0-py3.10.egg-info
+[55.497s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/local/lib/python3.10/dist-packages/f110_msgs-0.0.0-py3.10.egg-info/dependency_links.txt
+[55.499s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/local/lib/python3.10/dist-packages/f110_msgs-0.0.0-py3.10.egg-info/PKG-INFO
+[55.501s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/local/lib/python3.10/dist-packages/f110_msgs-0.0.0-py3.10.egg-info/top_level.txt
+[55.502s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/local/lib/python3.10/dist-packages/f110_msgs-0.0.0-py3.10.egg-info/SOURCES.txt
+[55.503s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/local/lib/python3.10/dist-packages/f110_msgs
+[55.503s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/local/lib/python3.10/dist-packages/f110_msgs/_f110_msgs_s.ep.rosidl_typesupport_introspection_c.c
+[55.504s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/local/lib/python3.10/dist-packages/f110_msgs/f110_msgs_s__rosidl_typesupport_introspection_c.cpython-310-aarch64-linux-gnu.so
+[55.505s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/local/lib/python3.10/dist-packages/f110_msgs/f110_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-aarch64-linux-gnu.so
+[55.506s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/local/lib/python3.10/dist-packages/f110_msgs/msg
+[55.507s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/local/lib/python3.10/dist-packages/f110_msgs/msg/_opponent_trajectory_s.c
+[55.508s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/local/lib/python3.10/dist-packages/f110_msgs/msg/_wpnt.py
+[55.509s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/local/lib/python3.10/dist-packages/f110_msgs/msg/_wpnt_s.c
+[55.509s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/local/lib/python3.10/dist-packages/f110_msgs/msg/_opp_wpnt_s.c
+[55.510s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/local/lib/python3.10/dist-packages/f110_msgs/msg/_car_state_stamped.py
+[55.511s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/local/lib/python3.10/dist-packages/f110_msgs/msg/_opp_wpnt.py
+[55.512s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/local/lib/python3.10/dist-packages/f110_msgs/msg/_obstacle_array.py
+[55.513s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/local/lib/python3.10/dist-packages/f110_msgs/msg/_obstacle.py
+[55.515s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/local/lib/python3.10/dist-packages/f110_msgs/msg/_lap_data_s.c
+[55.515s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/local/lib/python3.10/dist-packages/f110_msgs/msg/_wpnt_array.py
+[55.516s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/local/lib/python3.10/dist-packages/f110_msgs/msg/_obstacle_array_s.c
+[55.517s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/local/lib/python3.10/dist-packages/f110_msgs/msg/_obstacle_s.c
+[55.518s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/local/lib/python3.10/dist-packages/f110_msgs/msg/_car_state_s.c
+[55.519s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/local/lib/python3.10/dist-packages/f110_msgs/msg/_wpnt_array_s.c
+[55.519s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/local/lib/python3.10/dist-packages/f110_msgs/msg/_pid_data.py
+[55.520s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/local/lib/python3.10/dist-packages/f110_msgs/msg/_car_state_stamped_s.c
+[55.521s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/local/lib/python3.10/dist-packages/f110_msgs/msg/_ot_wpnt_array.py
+[55.522s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/local/lib/python3.10/dist-packages/f110_msgs/msg/__init__.py
+[55.523s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/local/lib/python3.10/dist-packages/f110_msgs/msg/_pid_data_s.c
+[55.523s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/local/lib/python3.10/dist-packages/f110_msgs/msg/_opponent_trajectory.py
+[55.524s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/local/lib/python3.10/dist-packages/f110_msgs/msg/_gap_data_s.c
+[55.525s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/local/lib/python3.10/dist-packages/f110_msgs/msg/_lap_data.py
+[55.526s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/local/lib/python3.10/dist-packages/f110_msgs/msg/_gap_data.py
+[55.527s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/local/lib/python3.10/dist-packages/f110_msgs/msg/_ot_wpnt_array_s.c
+[55.528s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/local/lib/python3.10/dist-packages/f110_msgs/msg/_car_state.py
+[55.529s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/local/lib/python3.10/dist-packages/f110_msgs/_f110_msgs_s.ep.rosidl_typesupport_fastrtps_c.c
+[55.529s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/local/lib/python3.10/dist-packages/f110_msgs/__init__.py
+[55.530s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/local/lib/python3.10/dist-packages/f110_msgs/libf110_msgs__rosidl_generator_py.so
+[55.531s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/local/lib/python3.10/dist-packages/f110_msgs/f110_msgs_s__rosidl_typesupport_c.cpython-310-aarch64-linux-gnu.so
+[55.532s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/local/lib/python3.10/dist-packages/f110_msgs/_f110_msgs_s.ep.rosidl_typesupport_c.c
+[55.701s] Listing '/home/misys/forza_ws/race_stack/install/f110_msgs/local/lib/python3.10/dist-packages/f110_msgs'...
+[55.701s] Compiling '/home/misys/forza_ws/race_stack/install/f110_msgs/local/lib/python3.10/dist-packages/f110_msgs/__init__.py'...
+[55.701s] Listing '/home/misys/forza_ws/race_stack/install/f110_msgs/local/lib/python3.10/dist-packages/f110_msgs/msg'...
+[55.701s] Compiling '/home/misys/forza_ws/race_stack/install/f110_msgs/local/lib/python3.10/dist-packages/f110_msgs/msg/__init__.py'...
+[55.701s] Compiling '/home/misys/forza_ws/race_stack/install/f110_msgs/local/lib/python3.10/dist-packages/f110_msgs/msg/_car_state.py'...
+[55.701s] Compiling '/home/misys/forza_ws/race_stack/install/f110_msgs/local/lib/python3.10/dist-packages/f110_msgs/msg/_car_state_stamped.py'...
+[55.702s] Compiling '/home/misys/forza_ws/race_stack/install/f110_msgs/local/lib/python3.10/dist-packages/f110_msgs/msg/_gap_data.py'...
+[55.702s] Compiling '/home/misys/forza_ws/race_stack/install/f110_msgs/local/lib/python3.10/dist-packages/f110_msgs/msg/_lap_data.py'...
+[55.702s] Compiling '/home/misys/forza_ws/race_stack/install/f110_msgs/local/lib/python3.10/dist-packages/f110_msgs/msg/_obstacle.py'...
+[55.702s] Compiling '/home/misys/forza_ws/race_stack/install/f110_msgs/local/lib/python3.10/dist-packages/f110_msgs/msg/_obstacle_array.py'...
+[55.702s] Compiling '/home/misys/forza_ws/race_stack/install/f110_msgs/local/lib/python3.10/dist-packages/f110_msgs/msg/_opp_wpnt.py'...
+[55.702s] Compiling '/home/misys/forza_ws/race_stack/install/f110_msgs/local/lib/python3.10/dist-packages/f110_msgs/msg/_opponent_trajectory.py'...
+[55.702s] Compiling '/home/misys/forza_ws/race_stack/install/f110_msgs/local/lib/python3.10/dist-packages/f110_msgs/msg/_ot_wpnt_array.py'...
+[55.702s] Compiling '/home/misys/forza_ws/race_stack/install/f110_msgs/local/lib/python3.10/dist-packages/f110_msgs/msg/_pid_data.py'...
+[55.702s] Compiling '/home/misys/forza_ws/race_stack/install/f110_msgs/local/lib/python3.10/dist-packages/f110_msgs/msg/_wpnt.py'...
+[55.703s] Compiling '/home/misys/forza_ws/race_stack/install/f110_msgs/local/lib/python3.10/dist-packages/f110_msgs/msg/_wpnt_array.py'...
+[55.715s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/local/lib/python3.10/dist-packages/f110_msgs/f110_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-aarch64-linux-gnu.so
+[55.716s] -- Set runtime path of "/home/misys/forza_ws/race_stack/install/f110_msgs/local/lib/python3.10/dist-packages/f110_msgs/f110_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-aarch64-linux-gnu.so" to ""
+[55.716s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/local/lib/python3.10/dist-packages/f110_msgs/f110_msgs_s__rosidl_typesupport_introspection_c.cpython-310-aarch64-linux-gnu.so
+[55.717s] -- Set runtime path of "/home/misys/forza_ws/race_stack/install/f110_msgs/local/lib/python3.10/dist-packages/f110_msgs/f110_msgs_s__rosidl_typesupport_introspection_c.cpython-310-aarch64-linux-gnu.so" to ""
+[55.718s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/local/lib/python3.10/dist-packages/f110_msgs/f110_msgs_s__rosidl_typesupport_c.cpython-310-aarch64-linux-gnu.so
+[55.719s] -- Set runtime path of "/home/misys/forza_ws/race_stack/install/f110_msgs/local/lib/python3.10/dist-packages/f110_msgs/f110_msgs_s__rosidl_typesupport_c.cpython-310-aarch64-linux-gnu.so" to ""
+[55.719s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/lib/libf110_msgs__rosidl_generator_py.so
+[55.720s] -- Set runtime path of "/home/misys/forza_ws/race_stack/install/f110_msgs/lib/libf110_msgs__rosidl_generator_py.so" to ""
+[55.720s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/share/f110_msgs/msg/CarState.idl
+[55.721s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/share/f110_msgs/msg/CarStateStamped.idl
+[55.721s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/share/f110_msgs/msg/GapData.idl
+[55.722s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/share/f110_msgs/msg/LapData.idl
+[55.723s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/share/f110_msgs/msg/OTWpntArray.idl
+[55.723s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/share/f110_msgs/msg/Obstacle.idl
+[55.723s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/share/f110_msgs/msg/ObstacleArray.idl
+[55.724s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/share/f110_msgs/msg/PidData.idl
+[55.724s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/share/f110_msgs/msg/Wpnt.idl
+[55.725s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/share/f110_msgs/msg/WpntArray.idl
+[55.725s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/share/f110_msgs/msg/OpponentTrajectory.idl
+[55.726s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/share/f110_msgs/msg/OppWpnt.idl
+[55.726s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/share/f110_msgs/msg/CarState.msg
+[55.728s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/share/f110_msgs/msg/CarStateStamped.msg
+[55.729s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/share/f110_msgs/msg/GapData.msg
+[55.730s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/share/f110_msgs/msg/LapData.msg
+[55.730s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/share/f110_msgs/msg/OTWpntArray.msg
+[55.731s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/share/f110_msgs/msg/Obstacle.msg
+[55.732s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/share/f110_msgs/msg/ObstacleArray.msg
+[55.733s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/share/f110_msgs/msg/PidData.msg
+[55.734s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/share/f110_msgs/msg/Wpnt.msg
+[55.735s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/share/f110_msgs/msg/WpntArray.msg
+[55.737s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/share/f110_msgs/msg/OpponentTrajectory.msg
+[55.738s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/share/f110_msgs/msg/OppWpnt.msg
+[55.739s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/share/f110_msgs/my_mapping_rules.yaml
+[55.740s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/share/ament_index/resource_index/package_run_dependencies/f110_msgs
+[55.741s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/share/ament_index/resource_index/parent_prefix_path/f110_msgs
+[55.742s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/share/f110_msgs/environment/ament_prefix_path.sh
+[55.743s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/share/f110_msgs/environment/ament_prefix_path.dsv
+[55.744s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/share/f110_msgs/environment/path.sh
+[55.745s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/share/f110_msgs/environment/path.dsv
+[55.746s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/share/f110_msgs/local_setup.bash
+[55.747s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/share/f110_msgs/local_setup.sh
+[55.748s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/share/f110_msgs/local_setup.zsh
+[55.750s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/share/f110_msgs/local_setup.dsv
+[55.751s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/share/f110_msgs/package.dsv
+[55.752s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/share/ament_index/resource_index/packages/f110_msgs
+[55.753s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/share/f110_msgs/cmake/export_f110_msgs__rosidl_generator_cExport.cmake
+[55.754s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/share/f110_msgs/cmake/export_f110_msgs__rosidl_generator_cExport-noconfig.cmake
+[55.755s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/share/f110_msgs/cmake/export_f110_msgs__rosidl_typesupport_fastrtps_cExport.cmake
+[55.756s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/share/f110_msgs/cmake/export_f110_msgs__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[55.759s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/share/f110_msgs/cmake/export_f110_msgs__rosidl_generator_cppExport.cmake
+[55.760s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/share/f110_msgs/cmake/export_f110_msgs__rosidl_typesupport_fastrtps_cppExport.cmake
+[55.761s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/share/f110_msgs/cmake/export_f110_msgs__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[55.762s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/share/f110_msgs/cmake/f110_msgs__rosidl_typesupport_introspection_cExport.cmake
+[55.763s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/share/f110_msgs/cmake/f110_msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[55.764s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/share/f110_msgs/cmake/f110_msgs__rosidl_typesupport_cExport.cmake
+[55.766s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/share/f110_msgs/cmake/f110_msgs__rosidl_typesupport_cExport-noconfig.cmake
+[55.767s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/share/f110_msgs/cmake/f110_msgs__rosidl_typesupport_introspection_cppExport.cmake
+[55.768s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/share/f110_msgs/cmake/f110_msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[55.770s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/share/f110_msgs/cmake/f110_msgs__rosidl_typesupport_cppExport.cmake
+[55.771s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/share/f110_msgs/cmake/f110_msgs__rosidl_typesupport_cppExport-noconfig.cmake
+[55.772s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/share/f110_msgs/cmake/export_f110_msgs__rosidl_generator_pyExport.cmake
+[55.773s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/share/f110_msgs/cmake/export_f110_msgs__rosidl_generator_pyExport-noconfig.cmake
+[55.775s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/share/f110_msgs/cmake/rosidl_cmake-extras.cmake
+[55.776s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/share/f110_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[55.777s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/share/f110_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[55.778s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/share/f110_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[55.779s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/share/f110_msgs/cmake/ament_cmake_export_targets-extras.cmake
+[55.780s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/share/f110_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[55.782s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/share/f110_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[55.783s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/share/f110_msgs/cmake/f110_msgsConfig.cmake
+[55.784s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/share/f110_msgs/cmake/f110_msgsConfig-version.cmake
+[55.792s] -- Installing: /home/misys/forza_ws/race_stack/install/f110_msgs/share/f110_msgs/package.xml
+[55.801s] Invoked command in '/home/misys/forza_ws/race_stack/build/f110_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/misys/forza_ws/race_stack/install/f1tenth_stack:/home/misys/forza_ws/race_stack/install/joy_teleop:/home/misys/forza_ws/race_stack/install/steering_lookup:/home/misys/forza_ws/race_stack/install/state_machine:/home/misys/forza_ws/race_stack/install/slam_tuner:/home/misys/forza_ws/race_stack/install/state_estimation:/home/misys/forza_ws/race_stack/install/map_editor:/home/misys/forza_ws/race_stack/install/stack_master:/home/misys/forza_ws/race_stack/install/spline_planner:/home/misys/forza_ws/race_stack/install/sector_tuner:/home/misys/forza_ws/race_stack/install/se_pose_to_tf_bridge:/home/misys/forza_ws/race_stack/install/perception:/home/misys/forza_ws/race_stack/install/particle_filter:/home/misys/forza_ws/race_stack/install/opponent_publisher:/home/misys/forza_ws/race_stack/install/mouse_teleop:/home/misys/forza_ws/race_stack/install/lap_analyser:/home/misys/forza_ws/race_stack/install/key_teleop:/home/misys/forza_ws/race_stack/install/id_controller:/home/misys/forza_ws/race_stack/install/global_planner:/home/misys/forza_ws/race_stack/install/frenet_odom_republisher:/home/misys/forza_ws/race_stack/install/frenet_conversion:/home/misys/forza_ws/race_stack/install/f1tenth_gym_ros:/home/misys/forza_ws/race_stack/install/controller:/opt/ros/humble /usr/bin/cmake --install /home/misys/forza_ws/race_stack/build/f110_msgs
