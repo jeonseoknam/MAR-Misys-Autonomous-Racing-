@@ -63,3 +63,10 @@ teras_head_to_head/
 0820_pp_bag/
 0820_pp_bag_orig/
 *.db3
+0820_pp_bag/
+0820_pp_bag_orig/
+SE_teras/
+data_bag/
+teras_bag/
+teras_head_to_head/
+*.db3
