@@ -1,0 +1,4 @@
+[submodule "sensors/vesc"]
+	path = sensors/vesc
+	url = https://github.com/ForzaETH/vesc.git
+	branch = foxy
